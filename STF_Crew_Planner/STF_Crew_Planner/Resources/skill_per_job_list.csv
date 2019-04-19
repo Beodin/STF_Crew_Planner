@@ -639,6 +639,38 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 30:Ship Ops:9:Command:9:Intimidate:21:Quartermaster
 31:Ship Ops:9:Command:9:Intimidate:22:Quartermaster
 32:Ship Ops:10:Command:10:Intimidate:22:Quartermaster
+1:Repair:1:Doctor:1:Explore:2:Scavenger
+2:Repair:3:Doctor:1:Explore:3:Scavenger
+3:Repair:3:Doctor:2:Explore:3:Scavenger
+4:Repair:3:Doctor:2:Explore:4:Scavenger
+5:Repair:4:Doctor:2:Explore:4:Scavenger
+6:Repair:4:Doctor:3:Explore:4:Scavenger
+7:Repair:4:Doctor:3:Explore:5:Scavenger
+8:Repair:5:Doctor:3:Explore:5:Scavenger
+9:Repair:5:Doctor:3:Explore:6:Scavenger
+10:Repair:5:Doctor:4:Explore:6:Scavenger
+11:Repair:6:Doctor:4:Explore:7:Scavenger
+12:Repair:6:Doctor:4:Explore:8:Scavenger
+13:Repair:6:Doctor:5:Explore:8:Scavenger
+14:Repair:7:Doctor:5:Explore:8:Scavenger
+15:Repair:8:Doctor:5:Explore:9:Scavenger
+16:Repair:8:Doctor:5:Explore:10:Scavenger
+17:Repair:9:Doctor:5:Explore:10:Scavenger
+18:Repair:10:Doctor:5:Explore:10:Scavenger
+19:Repair:10:Doctor:5:Explore:11:Scavenger
+20:Repair:10:Doctor:6:Explore:11:Scavenger
+21:Repair:10:Doctor:6:Explore:12:Scavenger
+22:Repair:11:Doctor:6:Explore:13:Scavenger
+23:Repair:12:Doctor:6:Explore:13:Scavenger
+24:Repair:13:Doctor:6:Explore:13:Scavenger
+25:Repair:13:Doctor:6:Explore:14:Scavenger
+26:Repair:14:Doctor:7:Explore:14:Scavenger
+27:Repair:14:Doctor:7:Explore:14:Scavenger
+28:Repair:14:Doctor:7:Explore:15:Scavenger
+29:Repair:15:Doctor:7:Explore:15:Scavenger
+30:Repair:15:Doctor:8:Explore:16:Scavenger
+31:Repair:15:Doctor:8:Explore:17:Scavenger
+32:Repair:16:Doctor:9:Explore:17:Scavenger
 1:Stealth:1:Negotiate:2:Intimidate:1:Smuggler
 2:Stealth:1:Negotiate:3:Intimidate:3:Smuggler
 3:Stealth:2:Negotiate:3:Intimidate:3:Smuggler
@@ -799,6 +831,38 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 30:Blades:25:Evasion:14:Null:0:Swordsman
 31:Blades:26:Evasion:14:Null:0:Swordsman
 32:Blades:27:Evasion:15:Null:0:Swordsman
+1:Rifles:2:Intimidate:1:Explore:1:Xeno Hunter
+2:Rifles:3:Intimidate:3:Explore:1:Xeno Hunter
+3:Rifles:3:Intimidate:3:Explore:2:Xeno Hunter
+4:Rifles:4:Intimidate:3:Explore:2:Xeno Hunter
+5:Rifles:4:Intimidate:4:Explore:2:Xeno Hunter
+6:Rifles:4:Intimidate:4:Explore:3:Xeno Hunter
+7:Rifles:5:Intimidate:4:Explore:3:Xeno Hunter
+8:Rifles:5:Intimidate:5:Explore:3:Xeno Hunter
+9:Rifles:6:Intimidate:5:Explore:3:Xeno Hunter
+10:Rifles:6:Intimidate:5:Explore:4:Xeno Hunter
+11:Rifles:7:Intimidate:6:Explore:4:Xeno Hunter
+12:Rifles:8:Intimidate:6:Explore:4:Xeno Hunter
+13:Rifles:8:Intimidate:6:Explore:5:Xeno Hunter
+14:Rifles:8:Intimidate:7:Explore:5:Xeno Hunter
+15:Rifles:9:Intimidate:8:Explore:5:Xeno Hunter
+16:Rifles:10:Intimidate:8:Explore:5:Xeno Hunter
+17:Rifles:10:Intimidate:9:Explore:5:Xeno Hunter
+18:Rifles:10:Intimidate:10:Explore:5:Xeno Hunter
+19:Rifles:11:Intimidate:10:Explore:5:Xeno Hunter
+20:Rifles:11:Intimidate:10:Explore:6:Xeno Hunter
+21:Rifles:12:Intimidate:10:Explore:6:Xeno Hunter
+22:Rifles:13:Intimidate:11:Explore:6:Xeno Hunter
+23:Rifles:13:Intimidate:12:Explore:6:Xeno Hunter
+24:Rifles:13:Intimidate:13:Explore:6:Xeno Hunter
+25:Rifles:14:Intimidate:13:Explore:6:Xeno Hunter
+26:Rifles:14:Intimidate:14:Explore:7:Xeno Hunter
+27:Rifles:14:Intimidate:14:Explore:7:Xeno Hunter
+28:Rifles:15:Intimidate:14:Explore:7:Xeno Hunter
+29:Rifles:15:Intimidate:15:Explore:7:Xeno Hunter
+30:Rifles:16:Intimidate:15:Explore:8:Xeno Hunter
+31:Rifles:17:Intimidate:15:Explore:8:Xeno Hunter
+32:Rifles:17:Intimidate:16:Explore:9:Xeno Hunter
 1:Blades:1:Command:1:Intimidate:2:Zealot
 2:Blades:1:Command:3:Intimidate:3:Zealot
 3:Blades:2:Command:3:Intimidate:3:Zealot

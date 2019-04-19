@@ -29,6 +29,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Blades:11:Evasion:6:Stealth:19:Assassin
 29:Blades:11:Evasion:6:Stealth:20:Assassin
 30:Blades:12:Evasion:6:Stealth:21:Assassin
+31:Blades:13:Evasion:6:Stealth:22:Assassin
+32:Blades:13:Evasion:7:Stealth:22:Assassin
 1:Rifles:2:Evasion:1:Intimidate:1:Bounty Hunter
 2:Rifles:2:Evasion:2:Intimidate:3:Bounty Hunter
 3:Rifles:2:Evasion:2:Intimidate:4:Bounty Hunter
@@ -59,6 +61,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Rifles:10:Evasion:7:Intimidate:19:Bounty Hunter
 29:Rifles:10:Evasion:7:Intimidate:20:Bounty Hunter
 30:Rifles:10:Evasion:8:Intimidate:21:Bounty Hunter
+31:Rifles:10:Evasion:8:Intimidate:22:Bounty Hunter
+32:Rifles:11:Evasion:9:Intimidate:22:Bounty Hunter
 1:Pistols:2:Doctor:2:Null:0:Combat Medic
 2:Pistols:3:Doctor:4:Null:0:Combat Medic
 3:Pistols:3:Doctor:5:Null:0:Combat Medic
@@ -89,6 +93,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Pistols:13:Doctor:23:Null:0:Combat Medic
 29:Pistols:13:Doctor:24:Null:0:Combat Medic
 30:Pistols:14:Doctor:25:Null:0:Combat Medic
+31:Pistols:14:Doctor:26:Null:0:Combat Medic
+32:Pistols:15:Doctor:27:Null:0:Combat Medic
 1:Tactics:1:Command:2:Intimidate:1:Commander
 2:Tactics:1:Command:4:Intimidate:2:Commander
 3:Tactics:2:Command:4:Intimidate:2:Commander
@@ -119,6 +125,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:7:Command:19:Intimidate:10:Commander
 29:Tactics:7:Command:20:Intimidate:10:Commander
 30:Tactics:8:Command:21:Intimidate:10:Commander
+31:Tactics:8:Command:22:Intimidate:10:Commander
+32:Tactics:9:Command:22:Intimidate:11:Commander
 1:Ship Ops:4:Gunnery:1:Repair:1:Crew Dog
 2:Ship Ops:4:Gunnery:1:Repair:2:Crew Dog
 3:Ship Ops:4:Gunnery:2:Repair:2:Crew Dog
@@ -149,6 +157,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Ship Ops:19:Gunnery:7:Repair:10:Crew Dog
 29:Ship Ops:20:Gunnery:7:Repair:10:Crew Dog
 30:Ship Ops:21:Gunnery:8:Repair:10:Crew Dog
+31:Ship Ops:22:Gunnery:8:Repair:10:Crew Dog
+32:Ship Ops:22:Gunnery:9:Repair:11:Crew Dog
 1:Negotiate:3:Intimidate:1:Null:0:Diplomat
 2:Negotiate:4:Intimidate:3:Null:0:Diplomat
 3:Negotiate:5:Intimidate:3:Null:0:Diplomat
@@ -179,6 +189,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Negotiate:23:Intimidate:13:Null:0:Diplomat
 29:Negotiate:24:Intimidate:13:Null:0:Diplomat
 30:Negotiate:25:Intimidate:14:Null:0:Diplomat
+31:Negotiate:26:Intimidate:14:Null:0:Diplomat
+32:Negotiate:27:Intimidate:15:Null:0:Diplomat
 1:Tactics:0:Doctor:3:Command:1:Doctor
 2:Tactics:1:Doctor:4:Command:2:Doctor
 3:Tactics:1:Doctor:5:Command:2:Doctor
@@ -209,6 +221,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:5:Doctor:23:Command:8:Doctor
 29:Tactics:5:Doctor:24:Command:8:Doctor
 30:Tactics:5:Doctor:25:Command:9:Doctor
+31:Tactics:5:Doctor:26:Command:9:Doctor
+32:Tactics:5:Doctor:27:Command:10:Doctor
 1:Ship Ops:1:Gunnery:0:Electronics:5:Electronics Tech
 2:Ship Ops:1:Gunnery:1:Electronics:5:Electronics Tech
 3:Ship Ops:2:Gunnery:1:Electronics:5:Electronics Tech
@@ -239,6 +253,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Ship Ops:10:Gunnery:7:Electronics:19:Electronics Tech
 29:Ship Ops:10:Gunnery:7:Electronics:20:Electronics Tech
 30:Ship Ops:10:Gunnery:8:Electronics:21:Electronics Tech
+31:Ship Ops:10:Gunnery:8:Electronics:22:Electronics Tech
+32:Ship Ops:11:Gunnery:9:Electronics:22:Electronics Tech
 1:Repair:3:Electronics:1:Null:0:Engineer
 2:Repair:4:Electronics:3:Null:0:Engineer
 3:Repair:5:Electronics:3:Null:0:Engineer
@@ -269,6 +285,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Repair:23:Electronics:13:Null:0:Engineer
 29:Repair:24:Electronics:13:Null:0:Engineer
 30:Repair:25:Electronics:14:Null:0:Engineer
+31:Repair:26:Electronics:14:Null:0:Engineer
+32:Repair:27:Electronics:15:Null:0:Engineer
 1:Rifles:2:Explore:2:Null:0:Exo-Scout
 2:Rifles:3:Explore:4:Null:0:Exo-Scout
 3:Rifles:3:Explore:5:Null:0:Exo-Scout
@@ -299,6 +317,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Rifles:13:Explore:23:Null:0:Exo-Scout
 29:Rifles:13:Explore:24:Null:0:Exo-Scout
 30:Rifles:14:Explore:25:Null:0:Exo-Scout
+31:Rifles:14:Explore:26:Null:0:Exo-Scout
+32:Rifles:15:Explore:27:Null:0:Exo-Scout
 1:Tactics:1:Electronics:1:Explore:2:Explorer
 2:Tactics:1:Electronics:2:Explore:4:Explorer
 3:Tactics:2:Electronics:2:Explore:4:Explorer
@@ -329,6 +349,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:7:Electronics:10:Explore:19:Explorer
 29:Tactics:7:Electronics:10:Explore:20:Explorer
 30:Tactics:8:Electronics:10:Explore:21:Explorer
+31:Tactics:8:Electronics:10:Explore:22:Explorer
+32:Tactics:9:Electronics:11:Explore:22:Explorer
 1:Ship Ops:2:Gunnery:4:Null:0:Gunner
 2:Ship Ops:3:Gunnery:4:Null:0:Gunner
 3:Ship Ops:3:Gunnery:5:Null:0:Gunner
@@ -359,6 +381,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Ship Ops:13:Gunnery:23:Null:0:Gunner
 29:Ship Ops:13:Gunnery:24:Null:0:Gunner
 30:Ship Ops:14:Gunnery:25:Null:0:Gunner
+31:Ship Ops:14:Gunnery:26:Null:0:Gunner
+32:Ship Ops:15:Gunnery:27:Null:0:Gunner
 1:Tactics:2:Navigation:4:Null:0:Hyperwarp Navigator
 2:Tactics:3:Navigation:4:Null:0:Hyperwarp Navigator
 3:Tactics:3:Navigation:5:Null:0:Hyperwarp Navigator
@@ -389,6 +413,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:13:Navigation:23:Null:0:Hyperwarp Navigator
 29:Tactics:13:Navigation:24:Null:0:Hyperwarp Navigator
 30:Tactics:14:Navigation:25:Null:0:Hyperwarp Navigator
+31:Tactics:14:Navigation:26:Null:0:Hyperwarp Navigator
+32:Tactics:15:Navigation:27:Null:0:Hyperwarp Navigator
 1:Ship Ops:2:Repair:3:Electronics:1:Mechanic
 2:Ship Ops:2:Repair:4:Electronics:1:Mechanic
 3:Ship Ops:2:Repair:4:Electronics:2:Mechanic
@@ -419,6 +445,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Ship Ops:10:Repair:19:Electronics:7:Mechanic
 29:Ship Ops:10:Repair:20:Electronics:7:Mechanic
 30:Ship Ops:10:Repair:21:Electronics:8:Mechanic
+31:Ship Ops:10:Repair:22:Electronics:8:Mechanic
+32:Ship Ops:11:Repair:22:Electronics:9:Mechanic
 1:Tactics:1:Command:1:Negotiate:2:Merchant
 2:Tactics:1:Command:2:Negotiate:4:Merchant
 3:Tactics:2:Command:2:Negotiate:4:Merchant
@@ -449,6 +477,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:7:Command:10:Negotiate:19:Merchant
 29:Tactics:7:Command:10:Negotiate:20:Merchant
 30:Tactics:8:Command:10:Negotiate:21:Merchant
+31:Tactics:8:Command:10:Negotiate:22:Merchant
+32:Tactics:9:Command:11:Negotiate:22:Merchant
 1:Pistols:1:Tactics:1:Command:2:Military Officer
 2:Pistols:2:Tactics:2:Command:3:Military Officer
 3:Pistols:2:Tactics:2:Command:4:Military Officer
@@ -479,6 +509,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Pistols:10:Tactics:7:Command:19:Military Officer
 29:Pistols:10:Tactics:7:Command:20:Military Officer
 30:Pistols:10:Tactics:8:Command:21:Military Officer
+31:Pistols:10:Tactics:8:Command:22:Military Officer
+32:Pistols:11:Tactics:9:Command:22:Military Officer
 1:Tactics:0:Pilot:4:Navigator:2:Pilot
 2:Tactics:0:Pilot:5:Navigator:2:Pilot
 3:Tactics:1:Pilot:5:Navigator:2:Pilot
@@ -509,6 +541,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Tactics:7:Pilot:19:Navigator:10:Pilot
 29:Tactics:7:Pilot:20:Navigator:10:Pilot
 30:Tactics:8:Pilot:21:Navigator:10:Pilot
+31:Tactics:8:Pilot:22:Navigator:10:Pilot
+32:Tactics:9:Pilot:22:Navigator:11:Pilot
 1:Pilot:2:Gunnery:1:Intimidate:1:Pirate
 2:Pilot:4:Gunnery:1:Intimidate:2:Pirate
 3:Pilot:4:Gunnery:2:Intimidate:2:Pirate
@@ -539,6 +573,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Pilot:19:Gunnery:7:Intimidate:10:Pirate
 29:Pilot:20:Gunnery:7:Intimidate:10:Pirate
 30:Pilot:21:Gunnery:8:Intimidate:10:Pirate
+31:Pilot:22:Gunnery:8:Intimidate:10:Pirate
+32:Pilot:22:Gunnery:9:Intimidate:11:Pirate
 1:Pistols:3:Evasion:1:Null:0:Pistoleer
 2:Pistols:4:Evasion:3:Null:0:Pistoleer
 3:Pistols:5:Evasion:3:Null:0:Pistoleer
@@ -569,6 +605,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Pistols:23:Evasion:13:Null:0:Pistoleer
 29:Pistols:24:Evasion:13:Null:0:Pistoleer
 30:Pistols:25:Evasion:14:Null:0:Pistoleer
+31:Pistols:26:Evasion:14:Null:0:Pistoleer
+32:Pistols:27:Evasion:15:Null:0:Pistoleer
 1:Ship Ops:1:Command:1:Intimidate:2:Quartermaster
 2:Ship Ops:1:Command:2:Intimidate:4:Quartermaster
 3:Ship Ops:2:Command:2:Intimidate:4:Quartermaster
@@ -599,6 +637,40 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Ship Ops:8:Command:8:Intimidate:20:Quartermaster
 29:Ship Ops:8:Command:9:Intimidate:20:Quartermaster
 30:Ship Ops:9:Command:9:Intimidate:21:Quartermaster
+31:Ship Ops:9:Command:9:Intimidate:22:Quartermaster
+32:Ship Ops:10:Command:10:Intimidate:22:Quartermaster
+1:Repair:1:Doctor:1:Explore:2:Scavenger
+2:Repair:3:Doctor:1:Explore:3:Scavenger
+3:Repair:3:Doctor:2:Explore:3:Scavenger
+4:Repair:3:Doctor:2:Explore:4:Scavenger
+5:Repair:4:Doctor:2:Explore:4:Scavenger
+6:Repair:4:Doctor:3:Explore:4:Scavenger
+7:Repair:4:Doctor:3:Explore:5:Scavenger
+8:Repair:5:Doctor:3:Explore:5:Scavenger
+9:Repair:5:Doctor:3:Explore:6:Scavenger
+10:Repair:5:Doctor:4:Explore:6:Scavenger
+11:Repair:6:Doctor:4:Explore:7:Scavenger
+12:Repair:6:Doctor:4:Explore:8:Scavenger
+13:Repair:6:Doctor:5:Explore:8:Scavenger
+14:Repair:7:Doctor:5:Explore:8:Scavenger
+15:Repair:8:Doctor:5:Explore:9:Scavenger
+16:Repair:8:Doctor:5:Explore:10:Scavenger
+17:Repair:9:Doctor:5:Explore:10:Scavenger
+18:Repair:10:Doctor:5:Explore:10:Scavenger
+19:Repair:10:Doctor:5:Explore:11:Scavenger
+20:Repair:10:Doctor:6:Explore:11:Scavenger
+21:Repair:10:Doctor:6:Explore:12:Scavenger
+22:Repair:11:Doctor:6:Explore:13:Scavenger
+23:Repair:12:Doctor:6:Explore:13:Scavenger
+24:Repair:13:Doctor:6:Explore:13:Scavenger
+25:Repair:13:Doctor:6:Explore:14:Scavenger
+26:Repair:14:Doctor:7:Explore:14:Scavenger
+27:Repair:14:Doctor:7:Explore:14:Scavenger
+28:Repair:14:Doctor:7:Explore:15:Scavenger
+29:Repair:15:Doctor:7:Explore:15:Scavenger
+30:Repair:15:Doctor:8:Explore:16:Scavenger
+31:Repair:15:Doctor:8:Explore:17:Scavenger
+32:Repair:16:Doctor:9:Explore:17:Scavenger
 1:Stealth:1:Negotiate:2:Intimidate:1:Smuggler
 2:Stealth:1:Negotiate:3:Intimidate:3:Smuggler
 3:Stealth:2:Negotiate:3:Intimidate:3:Smuggler
@@ -629,6 +701,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Stealth:7:Negotiate:16:Intimidate:13:Smuggler
 29:Stealth:7:Negotiate:17:Intimidate:13:Smuggler
 30:Stealth:8:Negotiate:17:Intimidate:14:Smuggler
+31:Stealth:8:Negotiate:18:Intimidate:14:Smuggler
+32:Stealth:9:Negotiate:18:Intimidate:15:Smuggler
 1:Rifles:3:Evasion:1:Null:0:Soldier
 2:Rifles:4:Evasion:3:Null:0:Soldier
 3:Rifles:5:Evasion:3:Null:0:Soldier
@@ -659,6 +733,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Rifles:23:Evasion:13:Null:0:Soldier
 29:Rifles:24:Evasion:13:Null:0:Soldier
 30:Rifles:25:Evasion:14:Null:0:Soldier
+31:Rifles:26:Evasion:14:Null:0:Soldier
+32:Rifles:27:Evasion:15:Null:0:Soldier
 1:Rifles:2:Evasion:1:Stealth:1:Sniper
 2:Rifles:4:Evasion:1:Stealth:2:Sniper
 3:Rifles:4:Evasion:2:Stealth:2:Sniper
@@ -689,6 +765,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Rifles:19:Evasion:7:Stealth:10:Sniper
 29:Rifles:20:Evasion:7:Stealth:10:Sniper
 30:Rifles:21:Evasion:8:Stealth:10:Sniper
+31:Rifles:22:Evasion:8:Stealth:10:Sniper
+32:Rifles:22:Evasion:9:Stealth:11:Sniper
 1:Pistols:1:Stealth:2:Electronics:1:Spy
 2:Pistols:1:Stealth:3:Electronics:3:Spy
 3:Pistols:2:Stealth:3:Electronics:3:Spy
@@ -719,6 +797,8 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Pistols:7:Stealth:13:Electronics:16:Spy
 29:Pistols:7:Stealth:13:Electronics:17:Spy
 30:Pistols:8:Stealth:14:Electronics:17:Spy
+31:Pistols:8:Stealth:14:Electronics:17:Spy
+32:Pistols:9:Stealth:15:Electronics:18:Spy
 1:Blades:3:Evasion:1:Null:0:Swordsman
 2:Blades:4:Evasion:3:Null:0:Swordsman
 3:Blades:5:Evasion:3:Null:0:Swordsman
@@ -749,6 +829,40 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Blades:23:Evasion:13:Null:0:Swordsman
 29:Blades:24:Evasion:13:Null:0:Swordsman
 30:Blades:25:Evasion:14:Null:0:Swordsman
+31:Blades:26:Evasion:14:Null:0:Swordsman
+32:Blades:27:Evasion:15:Null:0:Swordsman
+1:Rifles:2:Intimidate:1:Explore:1:Xeno Hunter
+2:Rifles:3:Intimidate:3:Explore:1:Xeno Hunter
+3:Rifles:3:Intimidate:3:Explore:2:Xeno Hunter
+4:Rifles:4:Intimidate:3:Explore:2:Xeno Hunter
+5:Rifles:4:Intimidate:4:Explore:2:Xeno Hunter
+6:Rifles:4:Intimidate:4:Explore:3:Xeno Hunter
+7:Rifles:5:Intimidate:4:Explore:3:Xeno Hunter
+8:Rifles:5:Intimidate:5:Explore:3:Xeno Hunter
+9:Rifles:6:Intimidate:5:Explore:3:Xeno Hunter
+10:Rifles:6:Intimidate:5:Explore:4:Xeno Hunter
+11:Rifles:7:Intimidate:6:Explore:4:Xeno Hunter
+12:Rifles:8:Intimidate:6:Explore:4:Xeno Hunter
+13:Rifles:8:Intimidate:6:Explore:5:Xeno Hunter
+14:Rifles:8:Intimidate:7:Explore:5:Xeno Hunter
+15:Rifles:9:Intimidate:8:Explore:5:Xeno Hunter
+16:Rifles:10:Intimidate:8:Explore:5:Xeno Hunter
+17:Rifles:10:Intimidate:9:Explore:5:Xeno Hunter
+18:Rifles:10:Intimidate:10:Explore:5:Xeno Hunter
+19:Rifles:11:Intimidate:10:Explore:5:Xeno Hunter
+20:Rifles:11:Intimidate:10:Explore:6:Xeno Hunter
+21:Rifles:12:Intimidate:10:Explore:6:Xeno Hunter
+22:Rifles:13:Intimidate:11:Explore:6:Xeno Hunter
+23:Rifles:13:Intimidate:12:Explore:6:Xeno Hunter
+24:Rifles:13:Intimidate:13:Explore:6:Xeno Hunter
+25:Rifles:14:Intimidate:13:Explore:6:Xeno Hunter
+26:Rifles:14:Intimidate:14:Explore:7:Xeno Hunter
+27:Rifles:14:Intimidate:14:Explore:7:Xeno Hunter
+28:Rifles:15:Intimidate:14:Explore:7:Xeno Hunter
+29:Rifles:15:Intimidate:15:Explore:7:Xeno Hunter
+30:Rifles:16:Intimidate:15:Explore:8:Xeno Hunter
+31:Rifles:17:Intimidate:15:Explore:8:Xeno Hunter
+32:Rifles:17:Intimidate:16:Explore:9:Xeno Hunter
 1:Blades:1:Command:1:Intimidate:2:Zealot
 2:Blades:1:Command:3:Intimidate:3:Zealot
 3:Blades:2:Command:3:Intimidate:3:Zealot
@@ -779,3 +893,5 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 28:Blades:7:Command:14:Intimidate:15:Zealot
 29:Blades:7:Command:15:Intimidate:15:Zealot
 30:Blades:8:Command:15:Intimidate:16:Zealot
+31:Blades:8:Command:15:Intimidate:17:Zealot
+32:Blades:9:Command:16:Intimidate:17:Zealot
