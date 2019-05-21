@@ -1,30 +1,33 @@
 Job:Starter
-Assassin:No
-Bounty Hunter:Yes
-Combat Medic:No
-Commander:No
-Crew Dog:No
-Diplomat:No
-Doctor:No
-Electronics Tech:No
-Engineer:No
-Exo-Scout:No
-Explorer:Yes
-Gunner:No
+Crew Dog:Yes
+Mechanic:Yes
+Electronics Tech:Yes
+Gunner:Yes
+Soldier:Yes
+Pistoleer:Yes
+Sniper:Yes
+Swordsman:Yes
+Assassin:Yes
+Combat Medic:Yes
+Doctor:Yes
+Diplomat:Yes
+Zealot:No
 Hyperwarp Navigator:No
-Mechanic:No
-Merchant:Yes
-Military Officer:Yes
-Pilot:No
-Pirate:Yes
-Pistoleer:No
-Quartermaster:No
+Wing Tech:No
+Exo-Scout:No
 Scavenger:No
-Smuggler:Yes
-Soldier:No
-Sniper:No
-Spy:Yes
-Swordsman:No
 Xeno Hunter:No
-Zealot:Yes
-None:No
+Commander:No
+Pilot:No
+Wing Commando:No
+Merchant:No
+Smuggler:No
+Pirate:No
+Bounty Hunter:No
+Military Officer:No
+Explorer:No
+Spy:No
+Engineer:No
+Quartermaster:No
+Wing Bomber:No
+Wing Leader:No

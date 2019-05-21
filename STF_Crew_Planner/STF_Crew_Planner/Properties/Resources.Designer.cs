@@ -62,33 +62,39 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Job:Starter
-        ///Assassin:No
-        ///Bounty Hunter:Yes
-        ///Combat Medic:No
-        ///Commander:No
-        ///Crew Dog:No
-        ///Diplomat:No
-        ///Doctor:No
-        ///Electronics Tech:No
-        ///Engineer:No
-        ///Exo-Scout:No
-        ///Explorer:Yes
-        ///Gunner:No
+        ///Crew Dog:Yes
+        ///Mechanic:Yes
+        ///Electronics Tech:Yes
+        ///Gunner:Yes
+        ///Soldier:Yes
+        ///Pistoleer:Yes
+        ///Sniper:Yes
+        ///Swordsman:Yes
+        ///Assassin:Yes
+        ///Combat Medic:Yes
+        ///Doctor:Yes
+        ///Diplomat:Yes
+        ///Zealot:No
         ///Hyperwarp Navigator:No
-        ///Mechanic:No
-        ///Merchant:Yes
-        ///Military Officer:Yes
+        ///Wing Tech:No
+        ///Exo-Scout:No
+        ///Scavenger:No
+        ///Xeno Hunter:No
+        ///Commander:No
         ///Pilot:No
-        ///Pirate:Yes
-        ///Pistoleer:No
+        ///Wing Commando:No
+        ///Merchant:No
+        ///Smuggler:No
+        ///Pirate:No
+        ///Bounty Hunter:No
+        ///Military Officer:No
+        ///Explorer:No
+        ///Spy:No
+        ///Engineer:No
         ///Quartermaster:No
-        ///Smuggler:Yes
-        ///Soldier:No
-        ///Sniper:No
-        ///Spy:Yes
-        ///Swordsman:No
-        ///Zealot:Yes
-        ///None:No.
+        ///Wing Bomber:No
+        ///Wing Leader:No
+        ///.
         /// </summary>
         internal static string job_list {
             get {
@@ -98,12 +104,12 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Name:Size:Current Mass:Pilot:Ship Ops:Gunnery:Electronics:Navigation:Cargo:Max Crew:Max Officers:Armour:Shield:Jump Cost:Fuel Tank:Guest:Prison:Medical
-        ///Adv. Mass Dampener 1:Medium:-300:0:4:0:0:0:0:0:0:0:0:0:0:0:0:0
-        ///Adv. Mass Dampener 2:Medium:-330:0:4:0:2:0:0:0:0:0:0:0:0:0:0:0
-        ///Adv. Mass Dampener 3:Medium:-360:0:5:0:1:0:0:0:0:0:0:0:0:0:0:0
-        ///Adv. Mass Dampener 4:Medium:-400:0:5:0:2:0:0:0:0:0:0:0:0:0:0:0
-        ///Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0:0:0:0:0:0:0:0
-        ///Aramech X2 Missile Battery:Small:125:0:2:1 [rest of string was truncated]&quot;;.
+        ///Adv. Mass Dampener 1:Medium:-300:0:3:0:0:0:0:0:0:0:0:5:0:0:0:0
+        ///Adv. Mass Dampener 2:Medium:-330:0:3:0:1:0:0:0:0:0:0:5:0:0:0:0
+        ///Adv. Mass Dampener 3:Medium:-360:0:4:0:1:0:0:0:0:0:0:6:0:0:0:0
+        ///Adv. Mass Dampener 4:Medium:-400:0:4:0:2:0:0:0:0:0:0:6:0:0:0:0
+        ///Advanced Medical Bay:Medium:325:0:3:0:3:0:0:0:0:0:1:0:0:0:0:6
+        ///Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ship_components {
             get {
@@ -150,7 +156,7 @@ namespace STF_CharacterPlanner.Properties {
         ///9:Blades:6:Evasion:1:Stealth:7:Assassin
         ///10:Blades:6:Evasion:1:Stealth:8:Assassin
         ///11:Blades:7:Evasion:2:Stealth:8:Assassin
-        ///12:Blades:7:Evasion:3: [rest of string was truncated]&quot;;.
+        ///12:Blades: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string skill_per_job_list {
             get {
@@ -160,17 +166,16 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Name:Mass:Speed:Agility:Fuel Cost:Combat Cost:Safety:Range Cost
-        ///M2400 Void Engine:2400:27:27:2:6:4:3
+        ///M2400 Void Engine-Balanced:2400:27:27:2:6:4:3
         ///M2400 Void Engine-Longhaul:2400:27:27:1:10:5:3
         ///M3400 Void Engine-Traveler:3400:29:24:2:9:7:3
         ///M3400 Void Engine-Chaser:3400:24:29:2:10:6:2
-        ///M3400 Void Engine:3400:24:24:2:8:5:3
+        ///M3400 Void Engine-Balanced:3400:24:24:2:8:5:3
         ///M3400 Void Engine-Longhaul:3400:23:23:1:7:7:3
         ///M5000 Void Engine-Traveler:5000:23:16:3:12:9:4
-        ///M5000 Void Engine:5000:19:19:2:13:7:4
+        ///M5000 Void Engine-Balanced:5000:19:19:2:13:7:4
         ///M5000 Void Engine-Chaser:5000:18:22:2:15:8:3
-        ///M6000 Void Engine-Longhaul:6000:15:15:2:16:8:4
-        ///M6 [rest of string was truncated]&quot;;.
+        ///M6000 Void Engine-Longhaul:6000:1 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_engine_data {
             get {
@@ -222,7 +227,7 @@ namespace STF_CharacterPlanner.Properties {
         ///Expert Planning:1:Automatically passes a failed Tactics test in any situation, including on patrol, deep space travel, or during a mission:3 weeks Cooldown:Military Officer:Skill Save
         ///Power Play:1:When completing steps in a Mission, increase Faction Reputation bonuses by Charisma %:3 weeks Cooldown:Military Officer:Reputation
         ///Militant Patrol:1:When Patrolling a system, increase rewards by 10% + Command Skill:3 weeks Cooldown:Military Officer:Patrol
-        ///Stiff Salute:1:When [rest of string was truncated]&quot;;.
+        ///Stiff Salute:1: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_talent_job {
             get {
@@ -240,7 +245,7 @@ namespace STF_CharacterPlanner.Properties {
         ///Vanguard Autocannon:Autocannon:100:0:0:1:1:6:15:25:6
         ///Lionheart Cannon:Autocannon:90:0:0:1:1:10:15:40:7
         ///Phoenix Lance:Lance:100:20:0:2:2:2:15:55:1
-        ///Starshot Lan [rest of string was truncated]&quot;;.
+        ///Starshot Lance Array: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_weapon_data {
             get {
@@ -263,7 +268,8 @@ namespace STF_CharacterPlanner.Properties {
         ///30:1
         ///32:1
         ///36:1
-        ///.
+        ///39:1
+        ///44:1.
         /// </summary>
         internal static string talent_points {
             get {
