@@ -145,18 +145,17 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
-        ///1:Blades:2:Evasion:1:Stealth:1:Assassin
-        ///2:Blades:3:Evasion:1:Stealth:3:Assassin
-        ///3:Blades:4:Evasion:1:Stealth:3:Assassin
-        ///4:Blades:4:Evasion:1:Stealth:4:Assassin
-        ///5:Blades:5:Evasion:1:Stealth:4:Assassin
-        ///6:Blades:5:Evasion:1:Stealth:5:Assassin
-        ///7:Blades:5:Evasion:1:Stealth:6:Assassin
-        ///8:Blades:6:Evasion:1:Stealth:6:Assassin
-        ///9:Blades:6:Evasion:1:Stealth:7:Assassin
-        ///10:Blades:6:Evasion:1:Stealth:8:Assassin
-        ///11:Blades:7:Evasion:2:Stealth:8:Assassin
-        ///12:Blades: [rest of string was truncated]&quot;;.
+        ///1:Ship Ops:4:Gunnery:1:Repair:1:Crew Dog
+        ///2:Ship Ops:4:Gunnery:1:Repair:2:Crew Dog
+        ///3:Ship Ops:4:Gunnery:2:Repair:2:Crew Dog
+        ///4:Ship Ops:5:Gunnery:2:Repair:2:Crew Dog
+        ///5:Ship Ops:5:Gunnery:2:Repair:3:Crew Dog
+        ///6:Ship Ops:6:Gunnery:2:Repair:3:Crew Dog
+        ///7:Ship Ops:6:Gunnery:2:Repair:4:Crew Dog
+        ///8:Ship Ops:7:Gunnery:2:Repair:4:Crew Dog
+        ///9:Ship Ops:7:Gunnery:3:Repair:4:Crew Dog
+        ///10:Ship Ops:8:Gunnery:3:Repair:4:Crew Dog
+        ///11:Ship Ops:9:Gunnery:3:Repair:5:Crew Dog        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string skill_per_job_list {
             get {
