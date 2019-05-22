@@ -1,357 +1,448 @@
 Name:Rank:Description:Cooldown:Job:Type
-Expert Planning:1:Automatically passes a failed Tactics test in any situation, including on patrol, deep space travel, or during a mission:3 weeks Cooldown:Military Officer:Skill Save
-Power Play:1:When completing steps in a Mission, increase Faction Reputation bonuses by Charisma %:3 weeks Cooldown:Military Officer:Reputation
-Militant Patrol:1:When Patrolling a system, increase rewards by 10% + Command Skill:3 weeks Cooldown:Military Officer:Patrol
-Stiff Salute:1:When encountering a Military Officer or Zealot Captain, a respectful military salute automatically ends the encounter with a Draw, Reputation penalties may still apply:3 weeks Cooldown:Military Officer:Encounter
-Tactical Edge:1:In crew combat, Buffs with +4 Initiative, +20% All Damage, +10% Armor for 3 Turns, pushes target 1 slot:Costs 6 Initiative to use:Military Officer:Combat
-Strict Search:1:Military discipline demands a thorough search, which uncovers secret hideaways on ships of defeated Smugglers, new lootable cargo is revealed:3 weeks Cooldown:Military Officer:Victory
-Damning Aim:5:In crew combat, Crippling Pistol Attack and causes -2 Initiative, -10% Deflection, -25% Armor for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Military Officer:Combat
-Leader in the Ranks:5:In crew combat, Removes all Debuffs, Restores entire team (10 + 0 Tactics) Morale:Costs 12 Initiative to use:Military Officer:Combat
-Deserving Rank:5:Price for military Rank is discounted by 10% + Command Skill:3 weeks Cooldown:Military Officer:Rank
-Commanding Sweep:5:When Patrolling a system, replace a card with a Reputation bonus or a Conflict Influence in the case of a Conflict.:3 weeks Cooldown:Military Officer:Patrol
-Recruiter's Eye:5:When Recruiting, discover one Trait from a new crew member. Your newly hired Recruit gains improved Attributes:3 weeks Cooldown:Military Officer:Recruit
-Call for Surrender:5:After a successful Boarding, demand for quick surrender cause 4 enemy crew to suffer 20-40 Morale loss, -10 Range Change, +25 Morale Dmg/Turn for next 4 Turns:9 weeks Cooldown:Military Officer:Boarding
-Overriding Discipline:8:Buffs Ship with +10% Boarding, +10% Accuracy, +10% Dmg, +10% Defense for next 3 Turns, Purges Ship of any Crippling Ship Effects, Restores Command Skill worth of Morale to 10 Crew:3 weeks Cooldown:Military Officer:Combat
-Military Discipline:8:Barked orders and rigid authority can snap a mutiny in seconds. The mutiny ends and Morale of entire crew is increased by 10 + Command skill:26 weeks Cooldown:Military Officer:Mutiny
-Steely Authority:8:In crew combat, Buffs 2 targets with +30% Deflection, +10% Armor, +75% To Resist Debuffs for 3 Turns and Restores (10 + 0 Tactics) Morale:Costs 12 Initiative to use:Military Officer:Combat
-Honorable Release:8:Increase profit when ransoming defeated ship back to their Faction by 10% + Command Skill, plus Wisdom % chance to gain small Reputation bonus:9 weeks Cooldown:Military Officer:Victory
-Incite Victory:11:Buffs Ship with +20% Boarding, +25% Accuracy, +25% Dmg, +25% Critical for next 3 Turns, Restores Command Skill worth of Morale to 10 Crew:3 weeks Cooldown:Military Officer:Ship Combat
-Boarding Rush:11:When making Initiative Roll in Crew Combat, Buff yourself with +2 Initiative, +10% All Accuracy, +10% All Damage for 2 Turns:Chance to activate at the start of each combat turn:Military Officer:On Init
-Guardian Vigil:11:When Patrolling a system, replace a risk card with Mission success reward card.:3 weeks Cooldown:Military Officer:Patrol
-Military Tribunal:15:Upon defeating an enemy captain during a Conflict, seize their ship through a local prize court. We must pay the court 75% of the ship's value in tithes and fees and we will lose 40 Reputation with the enemy while striking a mighty blow in the Conflict:36 weeks Cooldown:Military Officer:Victory
-Aura of Command:1:Automatically passes a failed Command test in any situation, including deep space travel, mutiny or during a mission:3 weeks Cooldown:Commander:Skill Save
-Steady Hands:1:Buffs Ship with +20% Defense for next 3 Turns, Purges your Ship's Crew of any Crippling Effects, Restores Command Skill worth of Morale to 10 Crew:3 weeks Cooldown:Commander:Ship Combat
-Discerning Glance:1:When Recruiting, discover one Trait from a new crew member. Your newly hired Recruit gains improved Attributes:3 weeks Cooldown:Commander:Recruit
-Loyalty Rousing:1:Upon defeating enemy ship, you give an inspiring speech which causes up to 10 crew gain 10 + Command Skill in Morale:3 weeks Cooldown:Commander:Victory
-Rallying Aura:1:In crew combat, Buffs entire team with +10% All Damage, +10% Critical, +10% Armor for 3 Turns and Restores (10 + 0 Command) Morale:Costs 12 Initiative to use:Commander:Combat
-Quell Mutiny:5:Powerful words from a strong leader pull the crew together. The mutiny ends and Morale of the entire crew is increased by 10 + Command skill:26 weeks Cooldown:Commander:Mutiny
-Barked Order:5:In crew combat, intimidating command causes -25% All Accuracy, -25% All Damage for 3 Turns, knocks target back 1 slot:Costs 12 Initiative to use:Commander:Combat
-Bolster:8:In crew combat, Removes all Debuffs, Restores (30 + 0 Command) Morale:Costs 6 Initiative to use:Commander:Combat
-Shrewd Dealings:8:When accepting a Mission, gain a (Charisma + Command %) chance to discover one of your Contact's hidden Traits:3 weeks Cooldown:Commander:Traits
-Precision Action:8:Purges your Ship of both Crew and Ship Crippling Effects:3 weeks Cooldown:Commander:Ship Combat
-Scorn:11:In crew combat, intimidating command hits 2 targets causes -4 Initiative, -25% Deflection for 2 Turns:Costs 8 Initiative to use:Commander:Combat
-Coordinated Fire:11:Buffs Ship with +35% Dmg, +25% Critical for next 3 Turns::Commander:Ship Combat
-Watchful Eye:1:Automatically passes a failed Ship Ops test in any situation, including deep space travel, landing, or hyperwarp jumps:3 weeks Cooldown:Quartermaster:Skill Save
-Stern Leader:1:Automatically passes a failed Command test in any situation, including deep space travel, mutiny or during a mission:3 weeks Cooldown:Quartermaster:Skill Save
-Perceptive Boss:1:When paying your crew, your intuition grants a 30% + Command Skill chance to learn hidden Trait from among your crew:3 weeks Cooldown:Quartermaster:Traits
-Contract Bargain:1:When landing in a zone, the highest level crew member who attempts to abandon the ship reconsiders, but their salary increases by $2:3 weeks Cooldown:Quartermaster:Deserter
-Rallying Cry:5:Buffs Ship with 20% Protection against Crew and Morale Dmg/Turn for next 2 Turns, Purges your Ship's Crew of any Crippling Effects, Restores Intimidate Skill worth of Morale to 20 Crew:3 weeks Cooldown:Quartermaster:Ship Combat
-Reliable Hand:5:Increases your payment for every step in a Mission by 10% + Intimidate Skill:3 weeks Cooldown:Quartermaster:Mission
-Calming Speech:5:Speaking as a leader but also as a member of the crew, the quartermaster knows what to say. The mutiny ends and Morale of the entire crew is increased by 20 + Command skill:3 weeks Cooldown:Quartermaster:Mutiny
-Welcoming Conscription:8:When conscripting enemy to serve in your crew after a ship victory, new crew member starts with higher Morale and do not gain new negative Traits:3 weeks Cooldown:Quartermaster:Victory
-Call to Arms:8:When encountering a xeno ship in space combat, prevents Morale loss on up to Intimidate Skill number of crew:3 weeks Cooldown:Quartermaster:Xeno
-Second Shadow:11:Watching crew like a hawk, saves a life during ship combat, blockade, spying, patrol or black market. Crew member is restored to HP equal to Command Skill + 3 x Medical Rating of onboard medical components:9 weeks Cooldown:Quartermaster:Life Save
-Regimented Order:11:Buffs Ship with 40% Protection against Crew Dmg for next 2 Turns, Purges your Ship's Crew of any Crippling Effects:9 weeks Cooldown:Quartermaster:Ship Combat
-Unwavering Attention:1:Automatically passes a failed Intimidate test in any situation, including deep space travel, mutiny, or during a mission:3 weeks Cooldown:Bounty Hunter:Skill Save
-Steadfast Aim:1:In crew combat, Rifle Attack. Successful attack Buffs yourself with +25% Ranged Accuracy, +25% Ranged Damage, +20% Armor Piercing for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Bounty Hunter:Combat
-Abiding Death:1:Price for death warrant Edict is discounted by 10% + Intimidate Skill:3 weeks Cooldown:Bounty Hunter:Edict
-Lethal Trap:1:In crew combat, Crippling Rifle Attack, successful hit Pins Target and causes -20% Deflection, -10% Armor for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Bounty Hunter:Combat
-Blood Game:1:In Ship Combat, allows a boarding attempt at any range during Mission-driven battles as the hunter tracks their prey:6 weeks Cooldown:Bounty Hunter:Ship Combat
-Tireless Pursuit:5:If any ship weapons hit, this Crippling Attack causes -10% Armor, -40 Escape for the next 3 Turns:3 weeks Cooldown:Bounty Hunter:Ship Combat
-Hunter's Challenge:5:In crew combat, intimidating command causes 20 (+Intimidate) Morale Loss, pulls target forward 1 slot:Costs 12 Initiative to use:Bounty Hunter:Combat
-Unfaltering Ire:5:In crew combat, intimidating command hits 2 targets, removes all Buffs and causes -25% All Accuracy, -25% All Damage for 3 Turns:Costs 8 Initiative to use:Bounty Hunter:Combat
-Red Badge:5:When completing steps in a Mission and bearing an Edict of the sponsoring Faction, your fearsome prestige reduces your Reputation loss by up to Intimidate Skill:3 weeks Cooldown:Bounty Hunter:Reputation
-Sustained Fire:8:In crew combat, Crippling Rifle Attack causes +12 Bleeding, -25% Armor for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Bounty Hunter:Combat
-Resolute Hound:8:In crew combat, Removes all Debuffs, Buff yourself with +25% Armor for 3 Turns, Heals (5 + 0 Intimidate) HP and Morale:Costs 8 Initiative to use:Bounty Hunter:Combat
-Frag Grenade:11:In crew combat, Grenade Attack hits 2 targets with 31-60 Dmg and Cripples with -2 Initiative, +20 Bleeding, -30% Deflection, -20% Armor for 3 Turns:Costs 16 Initiative to use:Bounty Hunter:Combat
-Shredding Shots:11:In crew combat, Crippling Rifle Attack causes +20 Bleeding, -20% Deflection for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Bounty Hunter:Combat
-Icy Stare:1:Automatically passes a failed Intimidate test in any situation, including deep space travel, mutiny, or during a mission:3 weeks Cooldown:Pirate:Skill Save
-Rigorous Search:1:A pirate's keen sense for treasure sniffs out secret hideaways from defeated Smugglers, new lootable cargo is added:3 weeks Cooldown:Pirate:Victory
-Corsair's Eye:1:During a Blockade of a system, replace a risk card with a Merchant card.:3 weeks Cooldown:Pirate:Blockade
-Furious Prodding:1:Purges your Ship's Crew of any Crippling Effects, Restores Intimidate Skill worth of Morale to 10 Crew:3 weeks Cooldown:Pirate:Ship Combat
-Unlawful Loot:1:When attempting to access a Black Market, reroll a risk card:3 weeks Cooldown:Pirate:Smuggle
-Barrel Roll:5:Buffs Ship with -25% Dmg, +35% Defense, +10% Shield, -10 Escape for next 3 Turns:3 weeks Cooldown:Pirate:Ship Combat
-Infamous Presence:5:During Blockade of a system, increase reward by 10% + Intimidate Skill:3 weeks Cooldown:Pirate:Blockade
-Terrifying Extortion:5:Frighten non-violent merchants into turning over their cargo in return for a promise of being unharmed at cost of Reputation loss:3 weeks Cooldown:Pirate:Encounter
-Acrobatic Dive:5:Buffs Ship with +25% Accuracy, +15 Range Change, -10 Escape for next 3 Turns:3 weeks Cooldown:Pirate:Ship Combat
-Menacing Demeanor:8:When completing steps in a Mission, your status as a known scoundrel mitigates your Reputation loss by up to Intimidate Skill:3 weeks Cooldown:Pirate:Reputation
-Lethal Example:8:Outright killing the lowest Morale mutineer sets a cruel example and reminds the crew who is in charge. The mutiny ends and Morale of the entire crew is increased by 20 + Intimidate Skill:26 weeks Cooldown:Pirate:Mutiny
-Faked Signature:8:Confusing or forged credentials are enough to throw even the most dogged pursuer, can be used to reduce the hostility of Bounty Hunters:3 weeks Cooldown:Pirate:Encounter
-Disabling Shot:11:If any ship weapons hit, this Crippling Attack causes -25% Defense, -25 Range Change for the next 4 Turns:3 weeks Cooldown:Pirate:Ship Combat
-Burner Skid:11:Infamous pirate maneuver, dangerous over-charging the engine for killing power. Buffs Ship with +25% Critical, +100 Radiation Dmg, Self-inflicts +20 Component Dmg/Turn, Self-inflicts +20 Morale Dmg/Turn for next 3 Turns:3 weeks Cooldown:Pirate:Ship Combat
-Terror of the Skies:11:During a Blockade of a system, replace a risk card with a Mission Success reward card.:3 weeks Cooldown:Pirate:Blockade
-Murderous Tribute:15:Upon defeating an enemy captain during a Conflict, seize their ship through a local prize court. We must pay the court 50% of the ship's value in tithes and fees and we will lose 90 Reputation with the enemy while striking a mighty blow in the Conflict:36 weeks Cooldown:Pirate:Victory
-Cunning Slip:1:Automatically passes a failed Stealth test in any situation, including exploring, landing or during a mission:3 weeks Cooldown:Smuggler:Skill Save
-Word in the Market:1:When gaining access to the Black Market, you may learn about a Rumor through illicit whispers.:3 weeks Cooldown:Smuggler:Smuggle
-Hideout:1:Prevents seizure of packages, prisoners or passengers when searched by an enemy vessel:3 weeks Cooldown:Smuggler:Encounter
-Backroom Deal:1:When attempting to access a Black Market, replace a risk card with a Market Access card:3 weeks Cooldown:Smuggler:Smuggle
-Illicit Notoriety:1:When accessing a Black Market, always gain access at one Access Level higher:3 weeks Cooldown:Smuggler:Smuggle
-Bootleg Profits:5:When executing a trade at the Black Market worth over $5,0, increase your profit of the trade by 20% + Negotiate Skill:9 weeks Cooldown:Smuggler:Smuggle
-Forged Permit:5:Well-forged documents can open doors, can be used to reduce the hostility of military ships encountered in travel:3 weeks Cooldown:Smuggler:Encounter
-Garbled Identity:5:Masks ship's signal to prevent identification. When ending a ship encounter in a draw, reduce possible Reputation damage by up to Stealth Skill:3 weeks Cooldown:Smuggler:Reputation
-Faked Signature:5:Confusing or forged credentials are enough to throw even the most dogged pursuer, can be used to reduce the hostility of Bounty Hunters:3 weeks Cooldown:Smuggler:Encounter
-Slippery Trader:5:When trading into a Trade Ban or War, reduces the Rep penalty by 30% + double Negotiate Skill:9 weeks Cooldown:Smuggler:Reputation
-Insider Trading:8:When executing a trade at the Black Market worth over $5,0, gain Reputation up to your Negotiate Skill with your Contact:9 weeks Cooldown:Smuggler:Smuggle
-Underworld Renown:8:When attempting to access a Black Market, replace a risk card with a Market Access card with Contact Influence bonus:3 weeks Cooldown:Smuggler:Smuggle
-Criminal Connections:11:When executing a trade at the Black Market worth over $5,0, gain a 30% + Charisma chance to learn about a Contact:9 weeks Cooldown:Smuggler:Smuggle
-Unlawful Royalty:11:When executing a trade at the Black Market worth over $50,0, gain a 50% + Charisma chance to learn about a Smuggler or Smuggler Prince Contact:9 weeks Cooldown:Smuggler:Smuggle
-Hotwire:1:Automatically passes a failed Electronics test in any situation, including spying, deep space travel, or during a mission:3 weeks Cooldown:Electronics Tech:Skill Save
-Alert Scanner:1:Upon entering the orbit of a new system, chance of learning a Rumor:9 weeks Cooldown:Electronics Tech:Rumor
-Signature Jammer:1:Masks ship's signal to prevent identification. When ending a ship encounter in a draw, reduce possible Reputation damage by up to Electronics Skill:3 weeks Cooldown:Electronics Tech:Reputation
-Storm Shielding:1:Protects the ship and crew from damage when flying through Radiation Storms (quadrant) and Ion Storms (system) by redirecting and modulating ship shielding:2 weeks Cooldown:Electronics Tech:Storm
-Buzzing Wires:1:When attempting to access a Black Market, remove a risk card:3 weeks Cooldown:Electronics Tech:Smuggle
-Wide Sweep:5:When Spying in the orbit of a system, reroll a card.:3 weeks Cooldown:Electronics Tech:Spy
-Static Talks:5:When Spying in the orbit of a system, learn a Rumor when scoring a positive result:9 weeks Cooldown:Electronics Tech:Spy
-Vigilant Scanners:8:Buffs Ship with +25% Accuracy, +25% Defense for next 2 Turns:3 weeks Cooldown:Electronics Tech:Ship Combat
-Listening Post:8:Upon landing in an Urban Zone, 10% + Electronics Skill chance of learning about a new Contact by snooping on local transmissions:13 weeks Cooldown:Electronics Tech:Contact
-Boosted Shields:11:Buffs Ship with +10% Shield, +50 Radiation Resist, +50 Void Resist for next 3 Turns:3 weeks Cooldown:Electronics Tech:Ship Combat
-Clink of Credits:11:When Spying in the orbit of a system, replace a risk card with a Credit Skim or Score reward card:3 weeks Cooldown:Electronics Tech:Spy
-Sly Move:1:Automatically passes a failed Stealth test in any situation, including exploring, landing or during a mission:3 weeks Cooldown:Spy:Skill Save
-Espionage Sweep:1:When Spying in the orbit of a system, remove a risk card:3 weeks Cooldown:Spy:Spy
-Disappearing Act:1:In crew combat, Buff yourself with +2 Initiative, +25% Parry, +25% Dodge, Engages Stealth Mode, +(10% + Stealth) Critical, lasts for 3 Turns:Costs 8 Initiative to use:Spy:Combat
-Close Observation:1:Sharp scrutiny grants Wisdom % to reveal a Contact's hidden Traits during any interaction where money changes hands:26 weeks Cooldown:Spy:Traits
-Shadowed Fire:1:In crew combat, Pistol Attack with +25% Ranged Damage, +25% Armor Piercing, +25% Critical, Requires Stealth Mode to use:Costs Weapon's Initiative to use (No Valid Weapon):Spy:Combat
-Deft Control:5:Automatically passes a failed Electronics test in any situation, including spying, deep space travel, or during a mission:3 weeks Cooldown:Spy:Skill Save
-Bolt:5:Buffs Ship with +30 Escape for next 3 Turns:3 weeks Cooldown:Spy:Ship Combat
-Distracting Shots:5:In crew combat, Pistol Attack with +10% Ranged Damage, +10% Armor Piercing, retreats 1 slot. Successful attack Buffs yourself with Engages Stealth Mode, +(10% + Stealth) Critical for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Spy:Combat
-Scouring Search:5:When Spying in the orbit of a system, replace a risk card with an Intel Records reward card.:3 weeks Cooldown:Spy:Spy
-Unauthorized Access:5:After a successful Boarding, breaking into the enemy ship's data banks, steals up to Electronics Skill in Intel Records:3 weeks Cooldown:Spy:Boarding
-Data Haul:8:Increases price for sold Intel Records by 10% + Electronics Skill. Contact Influence gains or losses increased by Charisma %:3 weeks Cooldown:Spy:Intel
-Faked Signature:8:Confusing or forged credentials are enough to throw even the most dogged pursuer, can be used to reduce the hostility of Bounty Hunters:3 weeks Cooldown:Spy:Encounter
-Sneak Attack:8:In crew combat, Crippling Pistol Attack with +10% Ranged Damage, +10% Critical, successful hit 50% Stun target and causes -4 Initiative for 3 Turns, Requires but ends Stealth Mode to use:Costs Weapon's Initiative to use (No Valid Weapon):Spy:Combat
-High Stakes:11:When Spying in the orbit of a system, increase all Intel rewards by 30% + Electronics Skill:3 weeks Cooldown:Spy:Spy
-Secrets Unbound:11:Upon landing in an Urban Zone, 10% + Electronics Skill chance to gather Intel Records about the local Faction:9 weeks Cooldown:Spy:Intel
-Cloak and Dagger:11:When Spying in the orbit of a system, replace a risk card with an Mission Success reward card:3 weeks Cooldown:Spy:Spy
-Killer's Aim:11:In crew combat, Requires Stealth Mode active, Buff yourself with +2 Initiative, +20% Armor Piercing, +35% Critical for 3 Turns:Costs 6 Initiative to use:Spy:Combat
-Smoke Bomb:1:In crew combat, Grenade Attack hits 2 targets causes -2 Initiative, -20% Parry for 2 Turns, if hits successfully Engages Stealth Mode, +(10% + Stealth) Critical for 2 Turns:Costs 12 Initiative to use:Assassin:Combat
-Hitman Rush:1:When making Initiative Roll in Crew Combat, Requires Stealth Mode active, Buff yourself with +2 Initiative, +25% Blade Accuracy, +10% Critical for 3 Turns:Chance to activate at the start of each combat turn:Assassin:On Init
-First Blood:1:When making Initiative Roll in Crew Combat, front line enemy suffers terror from unseen opponent, -3 Initiative, -10% All Accuracy, -25% Parry, -10% Armor for 3 Turns, Requires Stealth Mode to use:Chance to activate at the start of each combat turn:Assassin:On Init
-Venomous Blade:1:In crew combat, Crippling Blade Attack with +10% Blade Accuracy, +20% Melee Damage, successful hit causes +22 Bio-Poison Damage, -10% Armor for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Assassin:Combat
-Never There:5:Automatically passes a failed Stealth test in any situation, including exploring, landing or during a mission:5 weeks Cooldown:Assassin:Skill Save
-Gliding Advance:5:In crew combat, Buff yourself with +20% Melee Damage, +10% Critical, Engages Stealth Mode, +(10% + Stealth) Critical, lasts for 3 Turns, advances 1 slot:Costs 10 Initiative to use:Assassin:Combat
-Fatal Blow:5:In crew combat, Blade Attack with +10% Blade Accuracy, +50% Critical and removes all Buffs from target:Costs 1.5X Weapon's Initiative to use (No Valid Weapon):Assassin:Combat
-Targeted Killing:8:After a successful Boarding, a fleeting shadow moves among the enemy crew killing an unlucky target, one enemy crew member dies:9 weeks Cooldown:Assassin:Boarding
-Arterial Slash:8:In crew combat, Crippling Blade Attack with +10% Blade Accuracy, +10% Melee Damage, +10% Armor Piercing, successful hit causes -3 Initiative, +24 Bleeding for 3 Turns, Requires but ends Stealth Mode to use:Costs Weapon's Initiative to use (No Valid Weapon):Assassin:Combat
-Antidote:8:In crew combat, Removes all Debuffs, Buffs with +10% Armor, +32 Bio-Poison Resist for 3 Turns:Costs 6 Initiative to use:Assassin:Combat
-Death Among Shadows:11:In crew combat, terror from unseen opponent, -25% All Accuracy, -25% All Damage, -10% Armor for 3 Turns, pulls target forward 1 slot, Requires Stealth Mode to use:Costs 8 Initiative to use:Assassin:Combat
-Dissection:11:In crew combat, Crippling Blade Attack with +50% Melee Damage, successful hit hits 2 targets and causes +10 Bleeding for 2 Turns, Requires but ends Stealth Mode to use:Costs 2X Weapon's Initiative to use (No Valid Weapon):Assassin:Combat
-Gut the Leadership:15:After a successful Boarding, whirling shade strikes down a member of the enemy leadership, one enemy officer dies. If there is no officer to take the hit, the enemy Captain takes up to 30 + Stealth Skill Dmg:18 weeks Cooldown:Assassin:Boarding
-Careful Testing:1:Automatically passes a failed Repair test in any situation, including wild zone repairs or deep space travel:3 weeks Cooldown:Mechanic:Skill Save
-Discounted Repairs:1:Reduces cost of ship repair at a Starport by 10% + Repair Skill:3 weeks Cooldown:Mechanic:Repair
-Engine Precision:1:Buffs Ship with +2 Reactor Pts, +20% Defense, Self-inflicts +10 Component Dmg/Turn for next 2 Turns:3 weeks Cooldown:Mechanic:Ship Combat
-Expert Scavenger:1:Salvage the wreck of a destroyed ship for valuable scrap, add 10% + Repair Skill to your profits and repair equal % of your own Hull:3 weeks Cooldown:Mechanic:Victory
-System Flush:5:Purges Ship of any Crippling Ship Effects:3 weeks Cooldown:Mechanic:Ship Combat
-Thrown Wrench:5:After a successful Boarding, sabotages components to cause a ripple effect of damage and death, -3 Reactor Pts, +25 Component Dmg/Turn, +10 Crew Dmg/Turn for next 4 Turns:9 weeks Cooldown:Mechanic:Boarding
-Engine Reboot:5:Repairs Ship Engine up to 10% plus Repair Skill:9 weeks Cooldown:Mechanic:Ship Combat
-Helpful Hands:8:Discounts any upgrade of a ship component at the Starport by 10% + Repair Skill:3 weeks Cooldown:Mechanic:Discount
-Rushed Patches:8:Purges Ship of any Crippling Ship Effects, Repairs 10% Dmg to Ship Components:3 weeks Cooldown:Mechanic:Ship Combat
-Ordnance Overhaul:8:Repairs Ship Weapons up to 10% plus Repair Skill:9 weeks Cooldown:Mechanic:Ship Combat
-Reactor Surge:11:Buffs Ship with +3 Reactor Pts, +20% Accuracy, Self-inflicts +10 Component Dmg/Turn, Self-inflicts +10 Crew Dmg/Turn for next 1 Turns:3 weeks Cooldown:Mechanic:Ship Combat
-Close-Range Barrage:1:In crew combat, Crippling Pistol Attack with +25% Ranged Damage, successful hit causes -25% Blade Accuracy, -25% All Damage, -10% Critical Chance for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Pinning Shot:1:In crew combat, Crippling Pistol Attack, successful hit Pins Target and causes -20% Parry, -20% Dodge, -10% Armor for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Raining Steel:1:When making Initiative Roll in Crew Combat, Buff yourself with +3 Initiative, +15% Ranged Damage, +15% Critical for 3 Turns:Chance to activate at the start of each combat turn:Pistoleer:On Init
-Fading Shot:1:In crew combat, Pistol Attack, retreats 1 slot. Successful attack Buffs yourself with +25% Ranged Accuracy, +25% Armor for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Aimed Focus:1:In crew combat, Buff yourself with +25% Ranged Accuracy, +25% All Damage, +10% Critical for 3 Turns, Restores (10 + 0 Evasion) Morale:Costs 6 Initiative to use:Pistoleer:Combat
-Tricky Gunplay:5:In crew combat, Crippling Pistol Attack causes -6 Initiative, +6 Bleeding, -20% Deflection for 2 Turns:Costs 2X Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Dueler's Stance:5:In crew combat, Removes all Debuffs, Buff yourself with +20% Deflection, +25% Parry, +25% Dodge, +50% To Resist Debuffs for 3 Turns:Costs 6 Initiative to use:Pistoleer:Combat
-Terrifying Accuracy:8:In crew combat, Crippling Pistol Attack and causes +14 Bleeding for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Advancing Front:8:In crew combat, Pistol Attack with +10% Ranged Damage, +20% Armor Piercing, +35% Critical, advances 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-Rapid Fire:11:In crew combat, Crippling Pistol Attack hits 2 targets causes +16 Bleeding, -10% Deflection for 2 Turns:Costs 2X Weapon's Initiative to use (No Valid Weapon):Pistoleer:Combat
-First Aid:1:Automatically passes a failed Doctor test in any situation, including onboard healing, saving lives in accidents, or while exploring:3 weeks Cooldown:Combat Medic:Skill Save
-Bio-Poison Slugs:1:In crew combat, Crippling Pistol Attack causes +20 Bio-Poison Damage, -10% Parry, -10% Dodge for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Combat Medic:Combat
-E-Suture:1:In crew combat, Heals entire team (6 HP + 0 Doctor) HP:Costs 18 Initiative to use:Combat Medic:Combat
-Cleansing Purge:1:In crew combat, Removes all Debuffs, Restores (10 + 0 Doctor) HP and Morale:Costs 10 Initiative to use:Combat Medic:Combat
-Vaccination Watch:5:In crew combat, Buffs entire team with +10% Armor, +36 Bio-Poison Resist for 3 Turns:Costs 12 Initiative to use:Combat Medic:Combat
-Toxin Terror:5:In crew combat, bio-threat hits 2 targets causes -2 Initiative, -10 Bio-Poison Resist for 3 Turns:Costs 12 Initiative to use:Combat Medic:Combat
-Bio-Poison Grenade:5:In crew combat, Grenade Attack hits 2 targets with 31-50 Dmg and Cripples with -2 Initiative, +14 Bio-Poison Damage, -25% Parry, -25% Dodge, -10 Bio-Poison Resist for 3 Turns:Costs 16 Initiative to use:Combat Medic:Combat
-Bio-Agent Bomb:5:After a successful Boarding, release deadly bio-agents into the enemy ship's ventilation, +10 Morale Dmg/Turn, +25 Crew Dmg/Turn for next 4 Turns:9 weeks Cooldown:Combat Medic:Blockade
-Lifeline:8:In crew combat, Buffs with +2 Initiative, +10% Armor Piercing, +50% To Resist Debuffs for 3 Turns and Heals (36 + 0 Doctor) HP:Costs 12 Initiative to use:Combat Medic:Combat
-Flatline:8:In crew combat, Removes all Debuffs/Buffs, Restores entire team (10 + 0 Doctor) Morale:Costs 14 Initiative to use:Combat Medic:Combat
-Snakebite:11:In crew combat, Crippling Pistol Attack causes -25% Dodge, -15 Bio-Poison Resist for 3 Turns, knocks target back 1 slot::Combat Medic:Combat
-Medical Staff:1:Automatically passes a failed Doctor test in any situation, including onboard healing, saving lives in accidents, or while exploring:3 weeks Cooldown:Doctor:Skill Save
-Treat Wounded:1:Heals 3 crew, or up to (Medical Rating x 3) on ships with advanced medical facilities. Each patient gains 20 + Doctor Skill in HP:3 weeks Cooldown:Doctor:Ship Combat
-Field Surgery:1:In crew combat, Removes all Debuffs, Heals (20 HP + 0 Doctor) HP:Costs 6 Initiative to use:Doctor:Combat
-Assisted Care:1:Reduces the price for medical care at the Doctor by 10% + Doctor Skill:3 weeks Cooldown:Doctor:Discount
-Life Saver:5:Saves a life during ship combat, blockade, spying, patrol or black market. Crew member is restored to HP equal to Doctor Skill + 3 x Medical Rating of onboard medical components:9 weeks Cooldown:Doctor:Life Save
-Medical Ward:5:Upon defeating an enemy ship, heal 3 crew, or up to (Medical Rating x 3) on ships with advanced medical facilities. Each patient gains 10 + Doctor Skill in HP:3 weeks Cooldown:Doctor:Victory
-Generous in Service:8:If ship's Medical Rating exceeds landing zone's Economy Rating, provides free care to citizenry and gain Rep up to half Medical Rating:9 weeks Cooldown:Doctor:Reputation
-Voice of Reason:8:A ship's crew loves a good doctor, and a calm voice of reason can calm angry minds. The mutiny ends and Morale of entire crew is increased by 10 + Doctor skill:26 weeks Cooldown:Doctor:Mutiny
-Solace in Battle:11:Purges your Ship of both Crew and Ship Crippling Effects, Restores Doctor Skill worth of Morale to 20 Crew:3 weeks Cooldown:Doctor:Ship Combat
-Safety Protocols:1:Automatically passes a failed Ship Ops test in any situation, including deep space travel, landing, or hyperwarp jumps:3 weeks Cooldown:Crew Dog:Skill Save
-Failsafe Protocols:1:Purges Ship of any Crippling Ship Effects:3 weeks Cooldown:Crew Dog:Ship Combat
-Methodical Sweep:1:When Patrolling a system, reroll a card.:3 weeks Cooldown:Crew Dog:Patrol
-Relaxing Leave:1:When passing the Spice plate in the Hall, grant all other revelers a Morale bonus equal to 30% of your Charisma:9 weeks Cooldown:Crew Dog:Spice
-Talk in the Hall:5:When passing the Spice plate in the Hall, affable talk uncovers a new Rumor:3 weeks Cooldown:Crew Dog:Spice
-Hawkish Siege:5:When Blockading a system, reroll a card.:3 weeks Cooldown:Crew Dog:Blockade
-Methodical Maintenance:8:CURRENTLY NOT IMPLEMENTED. This Talent is not implemented and has no working features at this time.:3 weeks Cooldown:Crew Dog:NOT
-Battle Damage Repair:8:In the aftermath of a ship battle, repair one Ship Component damage equal to 10% + Repair Skill:3 weeks Cooldown:Crew Dog:Victory
-Veteran Clarity:11:Buffs Ship with +10% Critical, 10% Protection against Morale Dmg for next 2 Turns, Purges your Ship's Crew of any Crippling Effects:3 weeks Cooldown:Crew Dog:Ship Combat
-Attentive Overhaul:1:Automatically passes a failed Repair test in any situation, including wild zone repairs or deep space travel:3 weeks Cooldown:Engineer:Skill Save
-Unrivaled Patch:1:Purges Ship of any Crippling Ship Effects, Repairs 20% Dmg to Ship Components:3 weeks Cooldown:Engineer:Ship Combat
-Brace for Impact:1:Buffs Ship with +20% Shield, +20% Armor, 10% Protection against Crew Dmg for next 3 Turns:3 weeks Cooldown:Engineer:Ship Combat
-Port Maintenance:1:Upon landing, automatically repairs damage to 2 to 4 Ship Components equal to 10% up to Repair skill:9 weeks Cooldown:Engineer:Repair
-Boarder's Demolition:5:After a successful Boarding, rig an explosion which leaves the enemy ship vulnerable to continued attack, -15% Defense, -15% Shield, -15% Armor for next 4 Turns:9 weeks Cooldown:Engineer:Boarding
-Assisted Installation:5:Discounts any upgrade of a ship component at the Starport by 10% + Repair Skill:3 weeks Cooldown:Engineer:Discount
-Overclocked Reactor:5:Buffs Ship with +2 Reactor Pts, +10 Range Change, Self-inflicts +10 Crew Dmg/Turn for next 2 Turns:3 weeks Cooldown:Engineer:Ship Combat
-Warfare Patch:5:In the aftermath of a ship battle, repair damage to multiple Ship Components equal to 10% + Repair Skill:3 weeks Cooldown:Engineer:Victory
-Astounding Find:8:While Salvaging at an Orbital , replace a risk card with a Experience Bonus card:6 weeks Cooldown:Engineer:Salvage
-Stormhunter:8:Careful study of readings and conditions allows Engineer to guide the ship through Radiation Storms (quadrant) and Ion Storms (system) while granting additional Experience reward:6 weeks Cooldown:Engineer:Storm
-Hard Bargain:8:When buying a new ship, gain a discount up to Repair Skill with maximum of 15%:3 weeks Cooldown:Engineer:Discount
-Perilous Study:11:When encountering a xeno ship, rapid analysis of the ship's scanner data reveals new findings about the xeno and grants additional Experience reward:3 weeks Cooldown:Engineer:Xeno
-Unforeseen Discovery:11:While Exploring a Wild Zone, replace a risk card with a Experience bonus card::Engineer:Explore
-Scout's Intuition:1:Automatically passes a failed Explore test in any situation, including Exploration or during a mission:3 weeks Cooldown:Exo-Scout:Skill Save
-Persistent Search:1:While Exploring a Wild Zone, increase reward by 10% + Explore Skill:3 weeks Cooldown:Exo-Scout:Explore
-Bio-Agent Flechette:1:In crew combat, Crippling Rifle Attack causes -25% All Damage, +20 Bio-Poison Damage for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Exo-Scout:Combat
-Aggressive Advance:1:In crew combat, Rifle Attack, advances 1 slot. Successful attack Buffs yourself with +2 Initiative, +25% Ranged Accuracy, +25% Armor Piercing, +25% To Resist Debuffs for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Exo-Scout:Combat
-Steady Mobility:1:In crew combat, Rifle Attack. Successful attack Buffs yourself with +25% Ranged Damage, +25% Armor Piercing, +25% Dodge, +25% To Resist Debuffs for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Exo-Scout:Combat
-Hardened Soul:5:CURRENTLY NOT IMPLEMENTED. Fires on encountering a Xeno Craft,:3 weeks Cooldown:Exo-Scout:Xeno
-Keen Senses:5:While Exploring a Wild Zone, reroll any card:3 weeks Cooldown:Exo-Scout:Explore
-E-Shock Grenade:8:In crew combat, Grenade Attack hits 2 targets with 31-60 Dmg and Cripples with causes 25% Stun, -25% All Accuracy, -25% All Damage, -20% Deflection for 2 Turns:Costs 16 Initiative to use:Exo-Scout:Combat
-Know Thy Enemy:8:In crew combat against xeno only, Crippling Rifle Attack causes -25% Deflection, -25% Dodge, -40% Armor, -16 Plasma Shielding for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Exo-Scout:Combat
-Plas-Charge Slugs:11:In crew combat, Crippling Rifle Attack with +20 Plasma, +10% Armor Piercing, successful hit causes -25% Armor, -16 Plasma Shielding for 3 Turns, knocks target back 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Exo-Scout:Combat
-Resolute Hunter:11:While Exploring a Wild Zone, replace a risk card with an Artifacts reward card:3 weeks Cooldown:Exo-Scout:Explore
-Gut Instinct:1:Automatically passes a failed Explore test in any situation, including Exploration or during a mission:3 weeks Cooldown:Explorer:Skill Save
-Vigilant Search:1:While Exploring a Wild Zone, reroll any card:3 weeks Cooldown:Explorer:Explore
-Plentiful Rewards:1:While Exploring a Wild Zone, increase reward by 10% + Explore Skill:3 weeks Cooldown:Explorer:Explore
-Far Voyager:1:An expert rover knows the ins and outs of the Hyperwarp, reduces fuel cost by 2 + Explore Skill:3 weeks Cooldown:Explorer:Jump
-Unseen Traces:5:When landing in a Wild Zone, 10% + Explore Skill chance of discovering traces of a Contact who has operatives working in the area:13 weeks Cooldown:Explorer:Contact
-Reduced Exposure:5:While Exploring a Wild Zone, remove a risk card:3 weeks Cooldown:Explorer:Explore
-Artifact Hunter:5:When selling Xeno Artifacts, increase the profit of the deal by 25% + Explore Skill:9 weeks Cooldown:Explorer:Artifacts
-Makeshift Repairs:5:Upon landing in a Wild Zone, effects small repairs to damaged components equal to Richness rating up to Explore Skill:9 weeks Cooldown:Explorer:Repair
-Dredge Artifacts:8:Pick over the wreck of a destroyed xeno ship to recover a number of Artifacts up to your Explore Skill:3 weeks Cooldown:Explorer:Artifacts
-Face the Terror:8:When encountering a xeno ship in space combat, prevents Morale loss on up to Explorer Skill number of crew:3 weeks Cooldown:Explorer:Xeno
-Legacy Seeker:8:While Exploring a Wild Zone, replace a risk with a reward card:3 weeks Cooldown:Explorer:Explore
-Digging Deeper:11:While Exploring a Wild Zone, increase all resource or artifact rewards by 30% + Explorer Skill:3 weeks Cooldown:Explorer:Explore
-Mark the Beast:11:CURRENTLY NOT IMPLEMENTED. This Talent is not implemented and has no working features at this time.:3 weeks Cooldown:Explorer:NOT
-Driven Prospector:11:While Exploring a Wild Zone, replace a risk with a Mission Success reward card:3 weeks Cooldown:Explorer:Explore
-Raking Fire:1:Softening your target increases the damage of every additional hit. If any ship weapons hit, this Crippling Attack causes -25% Shield, -10% Armor for the next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Targeting Lock:1:Once a lock is established, your enemy is less likely to escape. If any ship weapons hit, this Crippling Attack causes -10% Armor, -20 Escape for the next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Loot Armory:1:As an expert in military hardware, looting a captured vessel repairs up to 3 of your Ship's Weapon Components by 10% + Gunnery Skill:3 weeks Cooldown:Gunner:Victory
-Signature Homing:1:Closing in and locking on makes it hard to dodge your fire. If any ship weapons hit, this Crippling Attack causes -25% Defense, -10% Armor for the next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Bombardment:1:Under continual attack an enemy ship struggles to return fire. If any ship weapons hit, this Crippling Attack causes -25% Accuracy, -10% Dmg, -10% Armor for the next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Boarding Assault:1:In Ship Combat, allows a boarding attempt from range 3 or below as gunners give heavy covering fire to assault shuttle:6 weeks Cooldown:Gunner:Ship Combat
-Meteor Defense:5:Reduces damage caused to your ship and crew from a Meteor Storm in orbit of a system by up to Gunnery Skill:2 weeks Cooldown:Gunner:Storm
-Supremacy of Firepower:5:When Patrolling a system, remove a risk card.:3 weeks Cooldown:Gunner:Patrol
-Disarming Sabotage:5:After a successful Boarding, ruthless sabotage disables best enemy weapon, causing 80% damage:9 weeks Cooldown:Gunner:Boarding
-Twitchy Trigger:8:When Blockading a system, remove a risk card.:3 weeks Cooldown:Gunner:Blockade
-Scattershot:8:If any ship weapons hit, this Crippling Attack causes -10% Armor, -25 Range Change, -10 Escape for the next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Firing Orders:11:Buffs Ship with +35% Accuracy, +35% Dmg for next 3 Turns:3 weeks Cooldown:Gunner:Ship Combat
-Settlement:1:Automatically passes a failed Negotiate test in any situation, including deep space travel, mutiny or during a mission:3 weeks Cooldown:Diplomat:Skill Save
-Winning Compromise:1:Increases your payment for every step in a Mission by 10% + Negotiate Skill:3 weeks Cooldown:Diplomat:Mission
-Silver Tongue:1:Price for military Rank is discounted by 10% + Negotiate Skill:3 weeks Cooldown:Diplomat:Discount
-Expose Quality:1:Empathetic sense grants Wisdom % to reveal a Contact's hidden Traits during any interaction where money changes hands:26 weeks Cooldown:Diplomat:Traits
-Hand that Feeds:5:When paying your crew, increase Morale bonus for those paid. Any Morale penalty for any unpaid crew is reduced:3 weeks Cooldown:Diplomat:Morale
-Upstaged Success:5:Increase Contact Reputation and Influence bonuses when completing a Mission by Charisma %:3 weeks Cooldown:Diplomat:Reputation
-Warm Invitation:5:Receive a [10 + Negotiate]% discount on price of Contact Introductions:3 weeks Cooldown:Diplomat:Discount
-Magnanimous Victory:8:Forgiving and charitable even in victory over another ship, negates Reputation damage up to your Negotiate Skill:3 weeks Cooldown:Diplomat:Victory
-Legal Pressure:8:Increase profit when ransoming defeated ship back to their Faction by 10% + Intimidate Skill:9 weeks Cooldown:Diplomat:Victory
-Political Hooks:11:Increase Conflict Score bonus by 10% + Faction Rank when impacting a Conflict through Missions, Spying, Blockade or Patrol:3 weeks Cooldown:Diplomat:Conflict
-Wise Counsel:1:Automatically passes a failed Negotiate test in any situation, including deep space travel, mutiny or during a mission:3 weeks Cooldown:Merchant:Skill Save
-Known Trader:1:Discounts price for trading Permit by 10% + Negotiate Skill. Contact spends Charisma % less Reputation:3 weeks Cooldown:Merchant:Discount
-Market Confidant:1:When executing a trade at the Exchange worth over $5,0, you have a 10% + Charisma chance of gaining an introduction to a Contact from the local Faction:9 weeks Cooldown:Merchant:Contact
-Friendly Banter:1:When passing the Spice plate, you have a Charisma % chance to learn about a Contact from the idle banter in the Hall:13 weeks Cooldown:Merchant:Contact
-Garner Favor:5:When executing a trade at the Exchange worth over $5,0, gain Reputation up to your Negotiate Skill with the local Faction:9 weeks Cooldown:Merchant:Reputation
-Cordial Invitation:5:Receive up to your Negotiate Skill in Reputation bonus with a new Contact when buying an Introduction:3 weeks Cooldown:Merchant:Reputation
-Generosity:5:When paying your crew, increase Morale bonus for those paid. Any Morale penalty for any unpaid crew is reduced:3 weeks Cooldown:Merchant:Morale
-Jettison Cargo:5:Dumping one randomized type of our ship's cargo into space buys time to escape a Pirate before Ship Combat starts:3 weeks Cooldown:Merchant:Encounter
-Righteous Profits:8:When executing a trade at the Exchange worth over $5,0, barters for better price by 10% + Negotiate Skill:9 weeks Cooldown:Merchant:Trade
-Trader's Reciprocity:8:When executing a trade at the Exchange worth over $5,0, gain Reputation equal to your Trade Permit Rank with all local known Contacts:9 weeks Cooldown:Merchant:Reputation
-Bold Statement:11:Trading into a Trade Ban or War grants Rep bonus with second Faction up to the Rep penalty with the offended Faction:9 weeks Cooldown:Merchant:Reputation
-Lucrative Wholesale:11:When executing a trade at the Exchange worth over $50,0, generates Intel Records up to Negotiate Skill from market insight::Merchant:Intel
-Read Charts:1:Automatically passes a failed Navigation test in any situation, including hyperwarp jumps or deep space travel:3 weeks Cooldown:Hyperwarp Navigator:Skill Save
-Fast Getaway:1:Rapid Navigation calculations make for a quick escape. Buffs Ship with +5% Armor, +20 Escape for next 2 Turns:3 weeks Cooldown:Hyperwarp Navigator:Ship Combat
-Efficient Route:1:Methodical planning of Hyperwarp Jumps reduces fuel cost by 4 + Navigation skill:3 weeks Cooldown:Hyperwarp Navigator:Jump
-Storm Navigator:1:Astute and careful direction from the helm protects the ship and crew from damage when flying through Radiation Storms (quadrant) and Ion Storms (system):2 weeks Cooldown:Hyperwarp Navigator:Storm
-Exacting Design:1:Automatically passes a failed Tactics test in any situation, including on patrol, deep space travel, or during a mission:3 weeks Cooldown:Hyperwarp Navigator:Skill Save
-Orderly Drop:5:Lands efficiently in a zone, reduces operation time to 1 Turn and Fuel Cost to 1:3 weeks Cooldown:Hyperwarp Navigator:Landing
-Perfected Approach:5:Faultless tracking of the enemy allows rapid closing. Buffs Ship with +1 Reactor Pts, +5% Shield, +25 Range Change, -10 Escape for next 2 Turns:3 weeks Cooldown:Hyperwarp Navigator:Ship Combat
-Distant Commission:8:Increases Mission payment for Missions that require more than 4 Hyperwarp jumps, adding 3% for each jump over 4, to a maximum of 30% bonus:3 weeks Cooldown:Hyperwarp Navigator:Mission
-Talk of Far Worlds:8:When passing the Spice plate in the Hall, talk of distant worlds grants a 10% + Navigation Skill chance for an introduction to a new Contact:13 weeks Cooldown:Hyperwarp Navigator:Contact
-Skip Off the Void:11:Use a short-burst of the hyperwarp drive to 'bounce' a short distance and escape ship combat. Causes 30-70% Damage to the drive, mitigated by entire crew's Navigation Skill and burns Fuel equal to a hyperwarp jump:Hyperwarp Navigator:Encounter
-Expert Maneuver:1:Automatically passes a failed Pilot test in any situation, including deep space travel, landing, or hyperwarp travel:3 weeks Cooldown:Pilot:Skill Save
-Guided Fire:1:Buffs Ship with +15% Accuracy, +10% Critical for next 3 Turns:3 weeks Cooldown:Pilot:Ship Combat
-Sure Landfall:1:Lands efficiently on a world, reduces operation time to 1 Turn and Fuel Cost to 1:3 weeks Cooldown:Pilot:Landing
-Evasive Maneuvers:1:Buffs Ship with +25% Defense, +5% Shield, +10% Armor for next 3 Turns:3 weeks Cooldown:Pilot:Ship Combat
-Sharp Steering:1:Buffs Ship with +15 Range Change, +10 Escape for next 3 Turns:3 weeks Cooldown:Pilot:Ship Combat
-Swift Route:5:Precision planning and twitch reflexes in Hyperwarp Jump reduces fuel cost by 2 + Navigation Skill:3 weeks Cooldown:Pilot:Jump
-Broadside Angle:5:Buffs Ship with +25% Accuracy, +40% Dmg, -25% Defense, -15% Armor for next 3 Turns:3 weeks Cooldown:Pilot:Ship Combat
-Twitch Surge:5:Guarantees successful movement to closer range, 10% + Quickness chance to advance 2 positions:3 weeks Cooldown:Pilot:Ship Combat
-Swift Sweep:8:When Spying in the orbit of a system, remove a risk card.:3 weeks Cooldown:Pilot:Spy
-Devastating Approach:8:If any ship weapons hit, this Crippling Attack causes -25% Dmg, -15 Range Change for the next 4 Turns:3 weeks Cooldown:Pilot:Ship Combat
-Not Implemented:11:CURRENTLY NOT IMPLEMENTED. This Talent is not implemented and has no working features at this time.:3 weeks Cooldown:Pilot:NOT
-Not Implemented:11:CURRENTLY NOT IMPLEMENTED. This Talent is not implemented and has no working features at this time.:3 weeks Cooldown:Pilot:NOT
-Ferocity:1:When making Initiative Roll in Crew Combat, Buff yourself with -10% Ranged Accuracy, +30% Ranged Damage, +15% Critical, -25% Dodge for 3 Turns:Chance to activate at the start of each combat turn:Soldier:On Init
-Burst Fire:1:In crew combat, Rifle Attack hits 2 targets with -35% All Damage, +10% Armor Piercing, +10% Critical:Costs 2X Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Discipline:1:In crew combat, Removes all Debuffs, Buff yourself with +25% Dodge, +10% Armor, +25% To Resist Debuffs for 3 Turns:Costs 6 Initiative to use:Soldier:Combat
-Suppressing Fire:1:In crew combat, Crippling Rifle Attack with +25% Ranged Accuracy, successful hit causes -25% All Accuracy for 2 Turns, knocks target back 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Roaring Barrels:1:In crew combat, Rifle Attack with +25% Ranged Damage, +20% Armor Piercing and removes all Buffs from target:Costs Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Backline Leader:5:In crew combat, Buffs entire team with +10% Ranged Accuracy, +10% All Damage, +10% Armor, +25% To Resist Debuffs for 3 Turns:Costs 10 Initiative to use:Soldier:Combat
-Covering Fire:5:In crew combat, Crippling Rifle Attack, successful hit Pins Target and causes 25% Stun for 2 Turns, retreats 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Ferocious Crossfire:5:After a successful Boarding, spraying corridor and decks with hexshell fire and leaves a trail of wounded, 4 enemy crew suffer 30-50 Damage:9 weeks Cooldown:Soldier:Boarding
-Blowback:5:In crew combat, Crippling Rifle Attack, successful hit causes 25% Stun, +14 Bleeding, -20% Deflection for 3 Turns, knocks target back 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Full Auto:8:In crew combat, Rifle Attack hits 2 targets with +15% Ranged Damage, +10% Armor Piercing, +25% Critical. Successful attack Debuffs yourself with -25% Ranged Accuracy, -25% All Damage, -10% Dodge for 2 Turns:Costs 2X Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Concussion Grenade:8:In crew combat, Grenade Attack hits 2 targets with 20-30 Morale Dmg and Cripples with causes 50% Stun, -4 Initiative for 3 Turns:Costs 16 Initiative to use:Soldier:Combat
-Frontline Brave:8:In crew combat, Buffs entire team with +2 Initiative, +10% All Damage, +10% Critical, +10% Armor for 3 Turns:Costs 12 Initiative to use:Soldier:Combat
-Fearsome Charge:11:In crew combat, Rifle Attack, advances 1 slot. Successful attack Buffs yourself with +25% All Damage, +25% Critical for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Soldier:Combat
-Bullet Trace:1:In crew combat, Crippling Rifle Attack with +25% Ranged Accuracy, +15% Armor Piercing, successful hit causes -15% Deflection, -15% Dodge for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Sniper:Combat
-Vanishing Act:1:In crew combat, Buff yourself with +2 Initiative, +10% Armor Piercing, +25% Dodge, +15% Armor, Engages Stealth Mode, +(10% + Stealth) Critical, lasts for 2 Turns, retreats 1 slot:Costs 8 Initiative to use:Sniper:Combat
-Dominant Eye:1:When making Initiative Roll in Crew Combat, Requires Stealth Mode active, Buff yourself with +25% Ranged Accuracy, +20% Armor Piercing, +10% Critical, +10% Dodge for 3 Turns:Chance to activate at the start of each combat turn:Sniper:On Init
-Target Acquired:1:When making Initiative Roll in Crew Combat, front line enemy suffers terror from unseen opponent, -2 Initiative, -25% Dodge, -10% Armor for 3 Turns, Requires Stealth Mode to use:Chance to activate at the start of each combat turn:Sniper:On Init
-Eagle Eye:5:In crew combat, Buff yourself with +2 Initiative, +10% Ranged Accuracy, +10% Ranged Damage, +10% Critical, +25% To Resist Debuffs for 3 Turns:Costs 8 Initiative to use:Sniper:Combat
-Staggering Hit:5:In crew combat, Crippling Rifle Attack with +50% Armor Piercing, +10% Critical, successful hit causes +28 Bleeding, -20% Deflection for 2 Turns, knocks target back 1 slot, Requires Stealth Mode to use:Costs 1.5X Weapon's Initiative to use (No Valid Weapon):Sniper:Combat
-Crafty Twist:5:Automatically passes a failed Stealth test in any situation, including exploring, landing or during a mission:5 weeks Cooldown:Sniper:Skill Save
-Unseen Fear:8:Threat of a hidden sniper sows terror among those in the open. terror from unseen threat, hits 2 targets and Pins Target and causes -2 Initiative, -25% Dodge for 2 Turns in addition to (15 + 0 Stealth) Morale Loss:Costs 12 Initiative to use:Sniper:Combat
-Parting Gift:8:After a successful Boarding, firing one final shot with deadly accuracy kills an unlucky target, one enemy crew member dies:9 weeks Cooldown:Sniper:Boarding
-One-Shot:11:In crew combat, Rifle Attack with +10% Ranged Damage, +15% Armor Piercing, +45% Critical, Requires Stealth Mode to use:Costs 2X Weapon's Initiative to use (No Valid Weapon):Sniper:Combat
-Rash Courage:1:In crew combat, Buff yourself with +30% Blade Accuracy, +30% Melee Damage, +10% Armor Piercing, -10% Armor for 4 Turns, advances 1 slot:Costs 6 Initiative to use:Swordsman:Combat
-Bravery Line:1:When making Initiative Roll in Crew Combat, Buff yourself with +3 Initiative, +15% Critical, +15% Parry for 3 Turns:Chance to activate at the start of each combat turn:Swordsman:On Init
-Sharp Counter:1:In crew combat, Blade Attack. Successful attack Buffs yourself with +25% Parry, +10% Armor, Counter-attacks enemy attacker in front 2 rows, 50% chance to end after each counter for 3 Turns:Costs 1.5X Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Balanced Blade:1:In crew combat, Blade Attack. Successful attack Buffs yourself with +25% Blade Accuracy, +10% Melee Damage, +10% Armor Piercing, +25% Parry for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Slashing Retreat:1:In crew combat, Blade Attack, retreats 1 slot. Successful attack Buffs yourself with +10% Armor Piercing, +25% Parry, +25% Dodge, +10% Armor for 2 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Strength of Steel:5:In crew combat, Buff yourself with +40% Parry, +50% To Resist Debuffs for 3 Turns, Heals (10 + 0 Blades) HP and Morale:Costs 6 Initiative to use:Swordsman:Combat
-Devastating Charge:5:In crew combat, Crippling Blade Attack, successful hit causes 50% Stun, -2 Initiative, -25% Parry for 2 Turns, advances 1 slot:Costs 1.5X Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Flash Fury:5:In crew combat, Blade Attack with +25% Armor Piercing, +25% Critical and removes all Buffs from target, knocks target back 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Skewering Thrust:8:In crew combat, Blade Attack hits 2 targets with +25% Blade Accuracy, +10% Melee Damage, +10% Critical, advances 1 slot:Costs 2X Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Bladesman Rally:8:In crew combat, Removes all Debuffs, Restores (30 + 0 Tactics) Morale:Costs 4 Initiative to use:Swordsman:Combat
-Blade and Hilt:11:In crew combat, Blade Attack hits 2 targets. Successful attack Buffs yourself with +10% Melee Damage, +10% Armor Piercing, +25% Critical, -15% Parry, -15% Dodge for 3 Turns:Costs 2X Weapon's Initiative to use (No Valid Weapon):Swordsman:Combat
-Famous Fury:1:Automatically passes a failed Intimidate test in any situation, including deep space travel, mutiny, or during a mission:3 weeks Cooldown:Zealot:Skill Save
-Righteous Rank:1:Price for military Rank is discounted by 10% + Command Skill:3 weeks Cooldown:Zealot:Discount
-Rough Interrogation:1:Upon victory in ship combat, thoroughly questioning the enemy crew creates up to your Intimidate Skill in Intel Records but causes further Rep loss:9 weeks Cooldown:Zealot:Victory
-Unbending Law:1:When landing in a zone, the highest level crew member who attempts to abandon the ship reconsiders, but their salary increases by $2:3 weeks Cooldown:Zealot:Deserter
-Devoted Service:1:When completing steps in a Mission, increase Faction Reputation bonuses 10% + Command Skill:3 weeks Cooldown:Zealot:Reputation
-Unstoppable Force:1:In crew combat, Buff yourself with +25% Armor, +75% To Resist Debuffs for 3 Turns, Restores (20 + 0 Intimidate) Morale:Costs 6 Initiative to use:Zealot:Combat
-Fanatical Siege:5:During a Blockade of a system, replace a risk card with a Tithe or Influence Conflict reward card.:3 weeks Cooldown:Zealot:Blockade
-Obsessive Defense:5:When Patrolling a system, replace a card with a Pirate reward card:3 weeks Cooldown:Zealot:Patrol
-Retribution Justice:5:Increase Conflict Score bonus by 10% + Faction Rank when impacting a Conflict through Missions, Spying, Blockade or Patrol:3 weeks Cooldown:Zealot:Conflict
-Bloodletting Blow:5:In crew combat, Crippling Blade Attack causes +24 Bleeding, -20% Deflection for 3 Turns, knocks target back 1 slot:Costs Weapon's Initiative to use (No Valid Weapon):Zealot:Combat
-Fervor:8:In crew combat, Removes all Debuffs, Buffs 3 targets with +2 Initiative for 3 Turns and Restores (10 + 0 Command) Morale:Costs 6 Initiative to use:Zealot:Combat
-Summary Execution:8:Capital punishment of the lowest Morale mutineer quickly reminds the crew who is in charge. The mutiny ends and Morale of the entire crew is increased by 20 + Intimidate Skill:26 weeks Cooldown:Zealot:Mutiny
-Infliction Rage:11:When making Initiative Roll in Crew Combat, Buff yourself with +3 Initiative, +25% All Damage, +25% Armor for 3 Turns, Restores (5 + 0 Intimidate) Morale:Chance to activate at the start of each combat turn:Zealot:On Init
-Diehard Defense:11:When Patrolling a system, replace a risk card with Mission success reward card.:3 weeks Cooldown:Zealot:Patrol
-Fanatical Court:15:Upon defeating an enemy captain during a Conflict, seize their ship through a local prize court. We must pay the court 65% of the ship's value in tithes and fees and we will lose 60 Reputation with the enemy while striking a mighty blow in the Conflict:36 weeks Cooldown:Zealot:Victory
-Unstoppable Hunt:15:While Exploring a Wild Zone, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Explorer:Explore
-Incorrigible Sneak:15:When attempting to access a Black Market, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Smuggler:Smuggle
-Enduring Defender:15:When Patrolling a system, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Zealot:Patrol
-Rampant Theft:15:When Spying in the orbit of a system, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Spy:Spy
-Unbridled Raider:15:During a Blockade of a system, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Pirate:Blockade
-Stalwart Loyalist:15:When Patrolling a system, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Military Officer:Patrol
-Pick Clean:1:While Salvaging at an Orbital, increase cargo rewards by 10% + Explore Skill:6 weeks Cooldown:Scavenger:Salvage
-Artful Solder:1:Automatically passes a failed Repair test in any situation, including wild zone repairs or deep space travel:3 weeks Cooldown:Scavenger:Skill Save
-Calculated Search:1:While Salvaging at an Orbital, reroll a risk card:3 weeks Cooldown:Scavenger:Salvage
-Diamond in the Debris:1:While Exploring a Wild Zone, increase reward by 10% + Explore Skill:6 weeks Cooldown:Scavenger:Explore
-Careful EVA:5:While Salvaging at an Orbital, remove a risk card:9 weeks Cooldown:Scavenger:Salvage
-Picky Looters:5:While Salvaging at an Orbital, replace a risk card with a credit-bearing Salvage card:9 weeks Cooldown:Scavenger:Salvage
-Light-Foot Tracker:5:While Exploring a Wild Zone, remove a risk card:3 weeks Cooldown:Scavenger:Explore
-Cascading Destruction:5:After a successful Boarding, rapidly sabotaging a nearby component causes 40% + Repair Skill in damage:13 weeks Cooldown:Scavenger:Boarding
-Patchwork:8:While Exploring a Wild Zone, replace a risk card with a Ship Repairs card:6 weeks Cooldown:Scavenger:Explore
-Dogged Treatment:8:Automatically passes a failed Doctor test in any situation, including on board healing, saving lives in accidents, or while exploring:6 weeks Cooldown:Scavenger:Skill Save
-Redemption Purge:8:Purges Ship of any Crippling Ship Effects, Repairs 10% + Repair Skill in Dmg to 2-4 Ship Components:6 weeks Cooldown:Scavenger:Ship Combat
-Rescue Mission:11:While Salvaging at an Orbital, replace a risk with a Mission Success reward card:3 weeks Cooldown:Scavenger:Salvage
-Scrappy Recovery:11:While Exploring a Wild Zone, replace a risk card with a Scrappy Healing card:3 weeks Cooldown:Scavenger:Explore
-Master Reclaimer:15:When Salvaging at an Orbital, reroll all 5 cards and draw a new hand:21 weeks Cooldown:Scavenger:Salvage
-Daunting Presence:1:Automatically passes a failed Intimidate test in any situation, including deep space travel, mutiny, or during a mission:3 weeks Cooldown:Xeno Hunter:Skill Save
-Unflinching Risk:1:While Exploring a Wild Zone, reroll any card:3 weeks Cooldown:Xeno Hunter:Explore
-Irid-Laced Resolve:1:When making Initiative Roll in Crew Combat against Xeno, Buffs entire team with +2 Initiative, +15% Parry, +15% Armor, +25% To Resist Debuffs for 3 Turns:Chance to activate at the start of each combat turn:Xeno Hunter:On Init
-Grenade Launch:1:In crew combat, Crippling Grenade Attack hits 2 targets with 31-60 Dmg and causes 25% Stun, -15% Parry, -15% Dodge, -20% Armor, -26 Energy (Plas/Rad) Resist for 3 Turns:Costs 16 Initiative to use:Xeno Hunter:Combat
-We The Hunters:1:When encountering a xeno ship in space combat, prevents Morale loss on up to Intimidate Skill number of crew:6 weeks Cooldown:Xeno Hunter:Xeno
-Blooded Lure:1:While Exploring a Wild Zone, replace a risk card with a dreaded Xeno card with an Explorer Skill chance draw Artifacts guarded by xeno card instead:3 weeks Cooldown:Xeno Hunter:Explore
-Here Be Monsters:5:When Patrolling a system, replace a card with a dreaded Xeno Ship card:3 weeks Cooldown:Xeno Hunter:Patrol
-Macabre Harvest:5:Upon victory in crew combat against xeno, xenobiological expertise allows harvesting a number of Xeno Artifacts up to Explorer Skill:9 weeks Cooldown:Xeno Hunter:Victory
-Unfailing Stand:5:In crew combat, Removes all Debuffs, Buff yourself with +25% Deflection, +20% Armor, +50% To Resist Debuffs for 3 Turns, Heals (10 + 0 Intimidate) HP and Morale:Costs 10 Initiative to use:Xeno Hunter:Combat
-Puncture Points:5:In crew combat, Crippling Rifle Attack with +16 Plasma Damage, +20% Armor Piercing, successful hit causes -25% Deflection, -5% Armor, -20 Energy (Plas/Rad) Resist for 3 Turns:Costs Weapon's Initiative to use (No Valid Weapon):Xeno Hunter:Combat
-Death Haunt:8:In crew combat, Removes all Debuffs, Buffs 3 targets with +10% Critical for 3 Turns and Restores (30 + 0 Intimidate) Morale:Costs 12 Initiative to use:Xeno Hunter:Combat
-Plasma Burner:8:In crew combat, Rifle Attack hits 2 targets with +36 Plasma Damage, +5% Critical:Costs 2X Weapon's Initiative to use (No Valid Weapon):Xeno Hunter:Combat
-Soul Piercer:8:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits:3 weeks Cooldown:Xeno Hunter:Recruit
-Triumphant Predator:11:Upon victory in ship combat against xeno, mastery over the void's terrors restores 10 + up to Intimidate Skill Morale to every crew member:18 weeks Cooldown:Xeno Hunter:Victory
-Exalted Hunter:11:When accepting a Mission to hunt xeno, increases payment by Charisma + Intimidate Skill % in addition to bonuses from standard Mission Talents:9 weeks Cooldown:Xeno Hunter:Mission
-Eradication Prize:15:When salvaging a destroyed xeno ship in the void, gain 30% + Explorer Skill bonus to Experience, Rep and credit gains:18 weeks Cooldown:Xeno Hunter:Victory
+Slash:1:Auto-granted attack for carring a Blade:1::-1
+Open Fire:1:Auto-granted attack for carring a Pistol:1::-1
+Short Burst:1:Auto-granted attack for carring a Rifle:1::-1
+Aura of Command:1::30:Commander:7
+Steady Hands:1::60:Commander:-2
+Discerning Glance:1:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Commander:13
+Loyalty Rousing:1:In the aftermath of a ship battle, give an inspiring speech which causes up to 10 crew gain 10 + Command Skill in Morale:60:Commander:83
+Rallying Aura:1::12:Commander:-1
+Damning Aim:5::1:Military Officer:-1
+Quell Mutiny:5:Powerful words from a strong leader pull the crew together. The mutiny ends and Morale of the entire crew is increased by 10 + Command skill:260:Commander:42
+Bolster:8::6:Commander:-1
+Barked Order:5::12:Commander:-1
+Shrewd Dealings:8:When accepting a Mission, gain a (Charisma + Command %) chance to discover one of your Contact's hidden Traits:180:Commander:10
+Precision Action:8::60:Commander:-2
+Scorn:11::8:Commander:-1
+Coordinated Fire:11::30:Commander:-2
+Expert Maneuver:1:Prevent Pilot Failures.:30:Pilot:2
+Guided Fire:1::30:Pilot:-2
+Sure Landfall:1:Lands efficiently on a world, reduces operation time to 1 Turn and Fuel Cost to 1:30:Pilot:63
+Evasive Maneuvers:1::30:Pilot:-2
+Sharp Steering:1::30:Pilot:-2
+Swift Route:5:Precision planning and twitch reflexes in Hyperwarp Jump reduces fuel cost by 2 + Navigation Skill:30:Pilot:35
+Broadside Angle:5::30:Pilot:-2
+Twitch Surge:5:Guarantees successful movement to closer range; 10% + Quickness chance to advance 2 positions:30:Pilot:-2
+Swift Sweep:8:When Spying in the orbit of a system, remove a risk card:30:Pilot:53
+Devastating Shot:8::30:Pilot:-2
+Forward Thrusters:11::30:Pilot:-2
+Wild Flying:11::30:Pilot:-2
+Wise Counsel:1:Prevent Negotiate Failures.:30:Merchant:24
+Known Trader:1:Discounts price for trading Permit by 10% + Negotiate Skill. Contact spends Charisma % less Reputation:30:Merchant:32
+Market Confidant:1:When executing a trade at the Exchange worth over $5,000, you have a 10% + Charisma chance of gaining an introduction to a Contact from the local Faction:90:Merchant:36
+Friendly Banter:1:When on spice leave in the hall, you have a Charisma % chance to learn about a Contact from the idle banter in the Hall:130:Merchant:18
+Garner Favor:5:When executing a trade at the Exchange worth over $5,000, gain Reputation up to your Negotiate Skill with the local Faction:90:Merchant:36
+Cordial Invitation:5:Receive up to your Negotiate Skill in Reputation bonus with a new Contact when buying an Introduction:30:Merchant:91
+Generosity:5:When paying your crew, increase Morale bonus for those paid. Any Morale penalty for any unpaid crew is reduced:30:Merchant:21
+Jettison Cargo:5:Dumping one randomized type of our ship's cargo into space buys time to escape a Pirate before Ship Combat starts:30:Merchant:72
+Righteous Profits:8:When executing a trade at the Exchange worth over $5,000, barters to increase your profit of sale or reduce price of purchase by 10% + Negotiate Skill:90:Merchant:36
+Trader's Reciprocity:8:When executing a trade at the Exchange worth over $5,000, gain Reputation equal to your Trade Permit Rank with all known Contacts in the zone of the trade:90:Merchant:36
+Bold Statement:11:Trading into a Trade Ban or War grants Rep bonus with second Faction up to the Rep penalty with the offended Faction:90:Merchant:96
+Lucrative Wholesale:11:When executing a trade at the Exchange worth over $50,000, generates Intel Records up to Negotiate Skill from market insight:90:Merchant:95
+Cunning Slip:1:Prevent Stealth Failures.:30:Smuggler:25
+Underground Whispers:1:When accessing a Black Market, replace a risk card with a Learn Rumor card:30:Smuggler:79
+Hideout:1:Prevents seizure of packages, prisoners or passengers when searched by an enemy vessel:30:Smuggler:65
+Backroom Deal:1:When attempting to access a Black Market, replace a risk card with a Market Access card:30:Smuggler:79
+Insider Trading:8:When executing a trade at the Black Market worth over $5,000, gain Reputation up to your Negotiate Skill with your Contact:90:Smuggler:38
+Bootleg Profits:5:When executing a trade at the Black Market worth over $5,000, increase your profit of sale or reduce price of purchase by 20% + Negotiate Skill:90:Smuggler:38
+Forged Permit:5:Well-forged documents can open doors; can be used to reduce the hostility of military ships encountered in travel:30:Smuggler:71
+Garbled Identity:5:Masks ship's signal to prevent identification. When ending a ship encounter in a draw, reduce possible Reputation damage by up to Stealth Skill:30:Smuggler:64
+Underworld Renown:8:When attempting to access a Black Market, replace a risk card with a Market Access card that includes Contact Influence bonus:30:Smuggler:79
+Illicit Notoriety:1:When accessing a Black Market, always gain access at one Access Level higher:30:Smuggler:80
+Criminal Connections:11:When executing a trade at the Black Market worth over $5,000, gain a 30% + Charisma chance to learn about a Contact:90:Smuggler:38
+Unlawful Royalty:11:When executing a trade at the Black Market worth over $50,000, gain a 50% + Charisma chance to learn about a Smuggler or Smuggler Prince Contact:90:Smuggler:94
+Icy Stare:1:Prevent Intimidate Failures.:30:Pirate:9
+Rigorous Search:1:A pirate's keen sense for treasure sniffs out secret hideaways from defeated Smugglers; new lootable cargo is added:30:Pirate:68
+Corsair's Eye:1:During a Blockade of a system, replace a risk card with a Merchant card:30:Pirate:57
+Furious Prodding:1::60:Pirate:-2
+Unlawful Loot:1:When attempting to access a Black Market, reroll a risk card:30:Pirate:79
+Barrel Roll:5::30:Pirate:-2
+Infamous Presence:5:During Blockade of a system, increase rewards by 10% + Intimidate Skill:60:Pirate:58
+Terrifying Extortion:5:Frighten non-violent merchants into turning over their cargo in return for a promise of being unharmed at cost of Reputation loss:90:Pirate:74
+Menacing Demeanor:8:When completing steps in a Mission using Intimidate Skill, your status as a known scoundrel mitigates your Reputation loss by up to Intimidate Skill:180:Pirate:11
+Lethal Example:8:Outright killing the lowest Morale mutineer sets a cruel example and reminds the crew who is in charge. The mutiny ends and Morale of the entire crew is increased by 20 + Intimidate Skill:260:Pirate:42
+Disabling Approach:11::30:Pirate:-2
+Burner Skid:11:Infamous pirate maneuver, dangerous over-charging the engine for killing power:30:Pirate:-2
+Unwavering Attention:1:Prevent Navigation Failures.:30:Bounty Hunter:9
+Steadfast Aim:1::1:Bounty Hunter:-1
+Abiding Death:1:Price for death warrant Edict is discounted by 10% + Intimidate Skill:30:Bounty Hunter:33
+Lethal Trap:1::1:Bounty Hunter:-1
+Tireless Pursuit:5::30:Bounty Hunter:-2
+Hunter's Challenge:5::10:Bounty Hunter:-1
+Unfaltering Ire:5::10:Bounty Hunter:-1
+Blood Game:1:In Ship Combat, always allows a boarding attempt at range 1 to 3; only allows an attempt at range 4 or 5 during Mission battles as the hunter tracks their prey:60:Bounty Hunter:-2
+Sustained Fire:8::1:Bounty Hunter:-1
+Resolute Hound:8::8:Bounty Hunter:-1
+Frag Grenade:11::16:Bounty Hunter:-1
+Shredding Shots:11::1:Bounty Hunter:-1
+Expert Planning:1:Prevent Tactics Failures.:30:Military Officer:5
+Power Play:1:When completing steps in a Mission, increase Faction Reputation bonuses by Charisma %:90:Military Officer:11
+Leader in the Ranks:5::12:Military Officer:-1
+Militant Patrol:1:When Patrolling a system, increase rewards by 10% + Command Skill:60:Military Officer:56
+Stiff Salute:1:When encountering a hostile Military Officer or Zealot Captain, a respectful military salute automatically ends the encounter with a Draw; Reputation penalties may still apply:90:Military Officer:71
+Tactical Edge:1::6:Military Officer:-1
+Deserving Rank:5:Price for military Rank is discounted by 10% + Command Skill:30:Military Officer:31
+Commanding Sweep:5:When Patrolling a system, replace a card with a Reputation bonus or a Conflict Influence in the case of a Conflict:30:Military Officer:55
+Recruiter's Eye:5:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Military Officer:13
+Overriding Discipline:8::60:Military Officer:-2
+Military Discipline:8:Barked orders and rigid authority can snap a mutiny in seconds. The mutiny ends and Morale of entire crew is increased by 10 + Command skill:260:Military Officer:42
+Incite Victory:11::30:Military Officer:-2
+Boarding Rush:11::0:Military Officer:29
+Gut Instinct:1:Prevent Explorer Failures.:30:Explorer:26
+Vigilant Search:1:When Exploring a Wild Zone, reroll any card:30:Explorer:51
+Plentiful Rewards:1:When Exploring a Wild Zone, increase reward by 10% + Explore Skill:60:Explorer:52
+Far Voyager:1:An expert rover knows the ins and outs of the Hyperwarp, reduces fuel cost by 2 + Explore Skill:30:Explorer:35
+Unseen Traces:5:When landing in a Wild Zone, 10% + Explore Skill chance of discovering traces of a Contact who has operatives working in the area:130:Explorer:47
+Reduced Exposure:5:When Exploring a Wild Zone, remove a risk card:30:Explorer:51
+Artifact Profiteer:5:When selling Xeno Artifacts, increase the profit of the deal by 25% + Explore Skill:90:Explorer:37
+Makeshift Repairs:5:Upon landing in a Wild Zone, automatically repair damage to 2 Ship Components equal to Richness rating up to Explore Skill:130:Explorer:47
+Dredge Artifacts:8:Pick over the wreck of a destroyed xeno ship to recover a number of Artifacts up to your Explore Skill:60:Explorer:67
+Face the Terror:8:When encountering a xeno ship in space combat, prevents Morale loss on up to Explorer Skill number of crew:60:Explorer:19
+Legacy Seeker:8:When Exploring a Wild Zone, replace a risk with a reward card:30:Explorer:51
+Digging Deeper:11:When Exploring a Wild Zone, increase all resource or artifact rewards by 30% + Explorer Skill:60:Explorer:52
+Tag the Beast:11:Experienced explorer knows how to stay one step ahead:90:Explorer:-2
+Deft Control:5:Prevent Electronics Failures.:30:Spy:3
+Sly Move:1:Prevent Stealth Failures.:30:Spy:25
+Bolt:5::30:Spy:-2
+Espionage Sweep:1:When Spying in the orbit of a system, remove a risk card:30:Spy:53
+Distracting Shots:5::1:Spy:-1
+Scouring Search:5:When Spying in the orbit of a system, replace a risk card with an Intel Records reward card.:30:Spy:53
+Disappearing Act:1::8:Spy:-1
+Close Observation:1:Sharp scrutiny grants Wisdom % to reveal a Contact's hidden Traits during any interaction where money changes hands:180:Spy:34
+Shadowed Fire:1::1:Spy:-1
+Data Haul:8:Increases price for sold Intel Records by 10% + Electronics Skill. Contact Influence gains or losses increased by Charisma %:30:Spy:82
+High Stakes:11:When Spying in the orbit of a system, increase all Intel rewards by 30% + Electronics Skill:60:Spy:54
+Secrets Unbound:11:Upon landing in an Urban Zone, 10% + Electronics Skill chance to gather Intel Records about the local Faction:130:Spy:15
+Attentive Overhaul:1::30:Engineer:6
+Unrivaled Patch:1::60:Engineer:-2
+Brace for Impact:1::30:Engineer:-2
+Port Maintenance:1:Upon landing, automatically repairs damage to 2 to 4 Ship Components equal to 10% up to Repair skill:130:Engineer:15
+Boarder's Demolition:5:rig an explosion which leaves the enemy ship vulnerable to continued attack:90:Engineer:77
+Assisted Installation:5:Discounts any upgrade of a ship component at the Starport by 10% + Repair Skill:30:Engineer:44
+Overclocked Reactor:5::30:Engineer:-2
+Warfare Patch:5:In the aftermath of a victorious ship battle, repair damage to multiple Ship Components equal to 10% + Repair Skill:60:Engineer:83
+Stormhunter:8:Protects the ship and crew from damage when flying through Radiation Storms (quadrant) and Ion Storms (system) while granting additional Experience reward:60:Engineer:20
+Perilous Study:11:When encountering a xeno ship, rapid analysis of the ship's scanner data reveals new findings about the xeno and grants additional Experience reward:30:Engineer:19
+Unforeseen Discovery:11:When Exploring a Wild Zone, replace a risk card with a Experience bonus card:90:Engineer:51
+Watchful Eye:1:Prevents Ship Ops failures.:30:Quartermaster:1
+Stern Leader:1:Prevents Command failures.:30:Quartermaster:7
+Perceptive Boss:1:When paying your crew, your intuition grants a 30% + Command Skill chance to learn hidden Trait from among your crew:90:Quartermaster:21
+Rallying Cry:5::60:Quartermaster:-2
+Hard Bargain:8:When buying a new ship, gain a discount up to Repair Skill with maximum of 15%:30:Engineer:45
+Contract Bargain:1:When landing in a zone, the highest level crew member who attempts to abandon the ship reconsiders, but their salary increases by $2:30:Quartermaster:41
+Reliable Hand:5:When accepting a Mission, increases payment by 10% + Intimidate Skill:30:Quartermaster:10
+Calming Speech:5:Speaking as a leader but also as a member of the crew, the quartermaster knows what to say. The mutiny ends and Morale of the entire crew is increased by 20 + Command skill:130:Quartermaster:42
+Welcoming Conscription:8:When conscripting enemy to serve in your crew after a ship victory, new crew member starts with higher Morale and does not gain new negative Traits:30:Quartermaster:84
+Call to Arms:8:When encountering a xeno ship in space combat, prevents Morale loss on up to Intimidate Skill number of crew:60:Quartermaster:19
+Second Shadow:11:Watching crew like a hawk, saves a life during ship combat, blockade, spying, patrol or black market. Crew member is restored to HP equal to Command Skill + 3 x Medical Rating of onboard medical components:90:Quartermaster:49
+Regimented Order:11::60:Quartermaster:-2
+Safety Protocols:1:Prevent Ship Ops Failures.:30:Crew Dog:1
+Talk in the Hall:5:When passing the Spice plate in the Hall, affable talk uncovers a new Rumor:30:Crew Dog:18
+Failsafe Protocols:1::60:Crew Dog:-2
+Methodical Sweep:1:When Patrolling a system, reroll a risk card:30:Crew Dog:55
+Relaxing Leave:1:When passing the Spice plate in the Hall, grant all other revelers a Morale bonus equal to 30% of your Charisma:90:Crew Dog:18
+Hawkish Siege:5:When Blockading a system, reroll a risk card:30:Crew Dog:57
+Engine Lockdown:8:Routing reactor power to defenses and weaponry:90:Crew Dog:-2
+Battle Damage Repair:8:In the aftermath of a ship battle, repair one Ship Component damage equal to 10% + Repair Skill:60:Crew Dog:83
+Veteran Clarity:11::60:Crew Dog:-2
+Careful Testing:1:Prevent Repair Failures.:30:Mechanic:6
+Discounted Repairs:1:Reduces cost of ship and small craft repair at a Starport by 10% + Repair Skill:30:Mechanic:43
+Engine Precision:1::30:Mechanic:-2
+Orchestrated Salvage:1:Salvage the wreck of a destroyed ship for valuable scrap, add 10% + Repair Skill to your profits and repair equal % of your own Hull :30:Mechanic:67
+System Flush:5::60:Mechanic:-2
+Thrown Wrench:5:sabotages components to cause a ripple effect of damage and death:90:Mechanic:77
+Helpful Hands:8:Discounts any upgrade of a ship component at the Starport by 10% + Repair Skill:30:Mechanic:44
+Rushed Patches:8::60:Mechanic:-2
+Reactor Surge:11::30:Mechanic:-2
+Hotwire:1:Prevent Electronics Failures.:30:Electronics Tech:3
+Alert Scanner:1:Upon entering the orbit of a new system, 10% + Electronics Skill chance to learning a Rumor:90:Electronics Tech:39
+Signature Jammer:1:Masks ship's signal to prevent identification. When ending a ship encounter in a draw, reduce possible Reputation damage by up to Electronics Skill:30:Electronics Tech:64
+Storm Shielding:1:Protects the ship and crew from damage when flying through Radiation Storms (quadrant) and Ion Storms (system) by redirecting and modulating ship shielding:20:Electronics Tech:20
+Wide Sweep:5:When Spying in the orbit of a system, reroll a risk card:30:Electronics Tech:53
+Static Talks:5:When Spying in the orbit of a system, learn a Rumor when scoring a positive result:90:Electronics Tech:54
+Vigilant Scanners:8::30:Electronics Tech:-2
+Listening Post:8:Upon landing in an Urban Zone, 10% + Electronics Skill chance of learning about a new Contact by snooping on local transmissions:130:Electronics Tech:15
+Boosted Shields:11::30:Electronics Tech:-2
+Meteor Defense:5:Reduces damage caused to your ship and crew from a Meteor Storm in orbit of a system by up to Gunnery Skill:20:Gunner:46
+Raking Fire:1:Softening your target increases the damage of every additional hit:30:Gunner:-2
+Targeting Lock:1:Once a lock is established, your enemy is less likely to escape:30:Gunner:-2
+Loot Armory:1:As an expert in military hardware, looting a captured vessel repairs up to 3 of your Ship's Weapon Components by 10% + Gunnery Skill:60:Gunner:66
+Supremacy of Firepower:5:When Patrolling a system, remove a risk card:30:Gunner:55
+Twitchy Trigger:8:When Blockading a system, remove a risk card:30:Gunner:57
+Disarming Sabotage:5:ruthless sabotage disables the highest level enemy weapon, causing 80% damage:90:Gunner:77
+Scattershot:8::30:Gunner:-2
+Firing Orders:11::30:Gunner:-2
+Read Charts:1:Prevent Navigation Failures.:30:Hyperwarp Navigator:4
+Fast Getaway:1:Rapid Navigation calculations make for a quick escape:30:Hyperwarp Navigator:-2
+Efficient Route:1:Methodical planning of Hyperwarp Jumps reduces fuel cost by 4 + Navigation skill:30:Hyperwarp Navigator:35
+Orderly Drop:5:Lands efficiently in a zone, reduces operation time to 1 Turn and Fuel Cost to 1:30:Hyperwarp Navigator:63
+Storm Navigator:1:Astute and careful direction from the helm protects the ship and crew from damage when flying through Radiation Storms (quadrant) and Ion Storms (system) :20:Hyperwarp Navigator:20
+Distant Commission:8:When accepting a Mission that requires more than 4 Hyperwarp jumps, increase payment by 3% bonus per jump, to a maximum of 30% bonus:30:Hyperwarp Navigator:10
+Perfected Approach:5:Faultless tracking of the enemy allows rapid closing:30:Hyperwarp Navigator:-2
+Talk of Far Worlds:8:When on spice leave in the hall, talk of distant worlds grants a 10% + Navigation Skill chance for an introduction to a new Contact:130:Hyperwarp Navigator:18
+Skip Off the Void:11:Uses a short-burst of the hyperwarp drive to 'bounce' a short distance and escape ship combat. Causes 30-60% Damage to the drive, mitigated by Navigation Skill and burns Fuel equal to a hyperwarp jump:90:Hyperwarp Navigator:70
+Ferocity:1::0:Soldier:29
+Burst Fire:1::2:Soldier:-1
+Discipline:1::6:Soldier:-1
+Suppressing Fire:1::1:Soldier:-1
+Backline Leader:5::10:Soldier:-1
+Covering Fire:5::1:Soldier:-1
+Full Auto:8::2:Soldier:-1
+Concussion Grenade:8::16:Soldier:-1
+Fearsome Charge:11::1:Soldier:-1
+Close-Range Barrage:1::1:Pistoleer:-1
+Pinning Shot:1::1:Pistoleer:-1
+Raining Steel:1::0:Pistoleer:29
+Fading Shot:1::1:Pistoleer:-1
+Aimed Focus:1::6:Pistoleer:-1
+Tricky Gunplay:5::2:Pistoleer:-1
+Dueler's Stance:5::6:Pistoleer:-1
+Terrifying Accuracy:8::1:Pistoleer:-1
+Advancing Front:8::1:Pistoleer:-1
+Rapid Fire:11::2:Pistoleer:-1
+Rash Courage:1::6:Swordsman:-1
+Bravery Line:1::0:Swordsman:29
+Sharp Counter:1::3:Swordsman:-1
+Balanced Blade:1::3:Swordsman:-1
+Slashing Retreat:1::1:Swordsman:-1
+Skewering Thrust:8::2:Swordsman:-1
+Strength of Steel:5::6:Swordsman:-1
+Devastating Charge:5::3:Swordsman:-1
+Bladesman Rally:8::6:Swordsman:-1
+Blade and Hilt:11::2:Swordsman:-1
+First Aid:1:Prevents Doctor Failures.:30:Combat Medic:8
+Bio-Poison Slugs:1::1:Combat Medic:-1
+E-Suture:1::12:Combat Medic:-1
+Cleansing Purge:1::10:Combat Medic:-1
+Vaccination Watch:5::12:Combat Medic:-1
+Toxin Terror:5::12:Combat Medic:-1
+Lifeline:8::12:Combat Medic:-1
+Flatline:8::14:Combat Medic:-1
+Snakebite:11::1:Combat Medic:-1
+Medical Staff:1:Prevent Doctor Failures.:30:Doctor:8
+Treat Wounded:1::60:Doctor:-2
+Field Surgery:1::10:Doctor:-1
+Life Saver:5:Saves a life during ship combat, blockade, spying, patrol or black market. Crew member is restored to HP equal to Doctor Skill + 3 x Medical Rating of onboard medical components:90:Doctor:49
+Assisted Care:1:Reduces the price for medical care at the Doctor by 10% + Doctor Skill:30:Doctor:81
+Medical Ward:5:Upon defeating an enemy ship, heal 3 crew, or up to (Medical Rating x 3) on ships with advanced medical facilities. Each patient gains 10 + Doctor Skill in HP:60:Doctor:83
+Generous in Service:8:If ship's Medical Rating exceeds zone's Economy Rating, free medical care to citizenry gains Rep up to Medical Rating but max 10 with diminishing returns above 40 Rep:130:Doctor:15
+Voice of Reason:8:A ship's crew loves a good doctor, and a calm voice of reason can calm angry minds. The mutiny ends and Morale of entire crew is increased by 10 + Doctor skill:260:Doctor:42
+Solace in Battle:11::60:Doctor:-2
+Settlement:1:Prevents Negotiate Failures.:30:Diplomat:24
+Winning Compromise:1:When accepting a Mission, increases your payment for every step in a Mission by 10% + Negotiate Skill:30:Diplomat:10
+Silver Tongue:1:Price for military Rank is discounted by 10% + Negotiate Skill:30:Diplomat:31
+Expose Quality:1:Empathetic sense grants Wisdom % chance to reveal a Contact's hidden Traits during any interaction where money changes hands:180:Diplomat:34
+Hand that Feeds:5:When paying your crew, increase Morale bonus for those paid. Any Morale penalty for any unpaid crew is reduced:30:Diplomat:21
+Upstaged Success:5:When completing steps in a Mission, increase Contact Reputation and Influence bonuses by Charisma %:90:Diplomat:11
+Magnanimous Victory:8:Forgiving and charitable even in victory over another ship, negates Reputation damage up to your Negotiate Skill:60:Diplomat:66
+Legal Pressure:8:Increase profit when ransoming defeated ship back to their faction by 20% + Intimidate Skill at the cost of 0-2 extra Rep loss:90:Diplomat:87
+Political Hooks:11:Increase Conflict Score bonus by 10% + Faction Rank when impacting a Conflict through Missions, Spying, Blockade or Patrol:30:Diplomat:88
+Scout's Intuition:1:Prevents Explorer Failures.:30:Exo-Scout:26
+Burrowing Shots:5::3:Exo-Scout:-1
+Persistent Search:1:When Exploring a Wild Zone, increase reward by 10% + Explore Skill:60:Exo-Scout:52
+Bio-Agent Flechette:1::1:Exo-Scout:-1
+Keen Senses:5:When Exploring a Wild Zone, reroll any card:30:Exo-Scout:51
+E-Shock Grenade:8::16:Exo-Scout:-1
+Aggressive Advance:1::1:Exo-Scout:-1
+Steady Mobility:1::1:Exo-Scout:-1
+Plas-Charge Slugs:11::1:Exo-Scout:-1
+Know Thy Enemy:8::1:Exo-Scout:-1
+Famous Fury:1:Prevents Intimidate failure.:30:Zealot:9
+Righteous Rank:1:Price for military Rank is discounted by 10% + Command Skill:30:Zealot:31
+Rough Interrogation:1:Upon victory in ship combat, thoroughly questioning the enemy crew creates up to your Intimidate Skill in Intel Records but causes further Rep loss:90:Zealot:66
+Unbending Law:1:When landing in a zone, the highest level crew member who attempts to abandon the ship reconsiders, but their salary increases by $2:30:Zealot:41
+Fanatical Siege:5:During a Blockade of a system, replace a risk card with a Tithe or Influence Conflict reward card:30:Zealot:57
+Obsessive Defense:5:When Patrolling a system, replace a card with a Pirate reward card:30:Zealot:55
+Fervor:8::6:Zealot:-1
+Retribution Justice:5:Increase Conflict Score bonus by 10% + Faction Rank when impacting a Conflict through Missions, Spying, Blockade or Patrol:30:Zealot:88
+Infliction Rage:11::0:Zealot:29
+Faked Signature:5:Confusing or forged credentials are enough to throw even the most dogged pursuer; can be used to reduce the hostility of Bounty Hunters:30:Smuggler:73
+Counterfeit Identity:8:Confusing or forged credentials are enough to throw even the most dogged pursuer; can be used to reduce the hostility of Bounty Hunters:30:Spy:73
+Blackheart Fraud:8:Confusing or forged credentials are enough to throw even the most dogged pursuer; can be used to reduce the hostility of Bounty Hunters:30:Pirate:73
+Strict Search:1:Military discipline demands a thorough search, which uncovers secret hideaways on ships of defeated Smugglers; new lootable cargo is revealed:90:Military Officer:68
+Refocus:100:Ends Turn and restores HP and Morale. Restoration amount diminishes each Turn.:16::-1
+Buzzing Wires:1:When attempting to access a Black Market, remove a risk card:30:Electronics Tech:79
+Acrobatic Dive:5::30:Pirate:-2
+Clink of Credits:11:When Spying in the orbit of a system, replace a risk card with a Credit Skim or Score reward card:30:Electronics Tech:53
+Devoted Service:1:When completing steps in a Mission, increase Faction Reputation bonuses 10% + Command Skill:90:Zealot:11
+Signature Homing:1:Closing in and locking on makes it hard to dodge your fire:30:Gunner:-2
+Cloak and Dagger:11:When Spying in the orbit of a system, replace a risk card with an Mission Success reward card:30:Spy:53
+Driven Prospector:11:When Exploring a Wild Zone, replace a risk with a Mission Success reward card:30:Explorer:51
+Terror of the Skies:11:During a Blockade of a system, replace a risk card with a Mission Success reward card:30:Pirate:57
+Guardian Vigil:11:When Patrolling a system, replace a risk card with Mission success reward card:30:Military Officer:55
+Diehard Defense:11:When Patrolling a system, replace a risk card with Mission success reward card:30:Zealot:55
+Artifact Hunter:11:When Exploring a Wild Zone, replace a risk card with an Artifacts reward card; however there is a Danger-based chance to draw Artifacts guarded by xeno card instead:90:Exo-Scout:51
+Sneak Attack:8::1:Spy:-1
+Close Blast:1:Auto-granted attack for carring a Snubber:1::-1
+Precision Shot:1:Auto-grantedattack  for carring a Sniper Rifle:1::-1
+Steely Authority:8::12:Military Officer:-1
+Killer's Aim:11::6:Spy:-1
+Unstoppable Force:1::6:Zealot:-1
+Bloodletting Blow:5::1:Zealot:-1
+Bio-Poison Grenade:5::16:Combat Medic:-1
+Roaring Barrels:1::1:Soldier:-1
+Frontline Brave:8::12:Soldier:-1
+Bombardment:1:Under continual attack an enemy ship struggles to return fire:30:Gunner:-2
+Boarding Assault:1:In Ship Combat, allows a boarding attempt from range 3 or below as gunners give heavy covering fire to assault shuttle:60:Gunner:-2
+Bio-Agent Bomb:5:release deadly bio-agents into the enemy ship's ventilation:90:Combat Medic:77
+Warm Invitation:5:Discount price of Contact Introductions by 10% + Negotiate Skill:30:Diplomat:91
+Exacting Design:1:Prevent Tactics Failures.:30:Hyperwarp Navigator:5
+Ferocious Crossfire:5:sprays the corridor and decks with hexshell fire and leaves a trail of wounded; 4 enemy crew suffer 30-50 Damage:90:Soldier:77
+Call for Surrender:5:demand for quick surrender cause 4 enemy crew to suffer Morale loss up to 30 + Tactics Skill:90:Military Officer:77
+Blowback:5::1:Soldier:-1
+Unauthorized Access:5:breaks into the enemy ship's data banks and steals up to Electronics Skill in Intel Records:90:Spy:77
+Summary Execution:8:Capital punishment of the lowest Morale mutineer quickly reminds the crew who is in charge. The mutiny ends and Morale of the entire crew is increased by 20 + Intimidate Skill:260:Zealot:42
+Engine Reboot:5::90:Mechanic:-2
+Ordnance Overhaul:8::90:Mechanic:-2
+Red Badge:5:When completing steps in a Mission and bearing an Edict of the sponsoring Faction, your fearsome prestige reduces your Reputation loss by up to Intimidate Skill:180:Bounty Hunter:93
+Honorable Release:8:Increase profit when ransoming defeated ship back to their Faction by 10% + Command Skill, plus Wisdom % chance to gain small Reputation bonus:90:Military Officer:87
+Slippery Trader:5:When trading into a Trade Ban or War, reduces the Rep penalty by 30% + double Negotiate Skill:90:Smuggler:96
+Flash Fury:5::1:Swordsman:-1
+Plas-Punch:1::1::-1
+Bullet Trace:1::1:Sniper:-1
+Vanishing Act:1::8:Sniper:-1
+Dominant Eye:1::0:Sniper:29
+Target Acquired:1::0:Sniper:29
+Eagle Eye:5::8:Sniper:-1
+Staggering Hit:5::3:Sniper:-1
+Crafty Twist:5::50:Sniper:25
+Unseen Fear:8:Threat of a hidden sniper sows terror among those in the open. :12:Sniper:-1
+Parting Gift:8:fires one final shot with deadly accuracy and kills an unlucky target; one enemy crew member dies:90:Sniper:77
+One-Shot:11::2:Sniper:-1
+Smoke Bomb:1::12:Assassin:-1
+Hitman Rush:1::0:Assassin:29
+First Blood:1::0:Assassin:29
+Venomous Blade:1::1:Assassin:-1
+Never There:5::50:Assassin:25
+Gliding Advance:5::8:Assassin:-1
+Fatal Blow:5::3:Assassin:-1
+Targeted Killing:8:a fleeting shadow moves among the enemy crew killing an unlucky target; one enemy crew member dies:90:Assassin:77
+Arterial Slash:8::1:Assassin:-1
+Death Among Shadows:11::8:Assassin:-1
+Dissection:11::2:Assassin:-1
+Murderous Tribute:15:Seize a defeated enemy ship during a Conflict at a local prize court (limited ship types by Conflicts). Requires Military Rank or Edict and a tithe of 40% of the ship's value but strike a blow in the Conflict, losing 75 Reputation with the enemy:360:Pirate:97
+Fanatical Court:15:Seize a defeated enemy ship during a Conflict at a local prize court (limited ship types by Conflicts). Requires Military Rank or Edict and a tithe of 65% of the ship's value but strike a blow in the Conflict, losing 40 Reputation with the enemy:360:Zealot:97
+Military Tribunal:15:Seize a defeated enemy ship during a Conflict at a local prize court (limited ship types by Conflicts). Requires Military Rank or Edict and a tithe of 75% of the ship's value but strike a blow in the Conflict, losing 30 Reputation with the enemy:360:Military Officer:97
+Antidote:8::6:Assassin:-1
+Gut the Leadership:15:whirling shade strikes down an enemy leader; one enemy officer dies. If there is no officer to take the hit, the enemy Captain takes up to 30 + Stealth Skill Dmg:180:Assassin:77
+Unstoppable Hunt:15:When Exploring a Wild Zone, reroll all 5 cards and draw a new hand:210:Explorer:51
+Incorrigible Sneak:15:When attempting to access a Black Market, reroll all 5 cards and draw a new hand:210:Smuggler:79
+Enduring Defender:15:When Patrolling a system, reroll all 5 cards and draw a new hand:210:Zealot:55
+Rampant Theft:15:When Spying in the orbit of a system, reroll all 5 cards and draw a new hand:210:Spy:53
+Unbridled Raider:15:During a Blockade of a system, reroll all 5 cards and draw a new hand:210:Pirate:57
+Stalwart Loyalist:15:When Patrolling a system, reroll all 5 cards and draw a new hand:210:Military Officer:55
+Adept Mediation:5:When completing steps in a Mission using Negotiation Skill legally (not bribes), your careful mediation mitigates your Reputation loss by up to Negotiation Skill:180:Diplomat:11
+Stealth Op:5:When completing steps in a Mission with Stealth Skill, your carefully established cover mitigates your Reputation loss by up to Stealth Skill:180:Spy:11
+Raider's Scrutiny:1:Experienced pirates can spot the slightest signs and anomalies in an arc scanner reading, identifying how many units of raw, manufactured and rare cargo a ship is carrying:90:Pirate:70
+Dubious Handshake:1:When encountering a Smuggler Captain, a subtle greeting among criminals ends the encounter in a peaceful Draw; 30% + Negotiation chance to learn a new Rumor:120:Smuggler:103
+Pick Clean:1:While Salvaging at an Orbital, increase cargo rewards by 10% + Explore Skill:60:Scavenger:102
+Artful Solder:1:Prevent Repair Failures.:30:Scavenger:6
+Calculated Search:1:While Salvaging at an Orbital, reroll a risk card:30:Scavenger:101
+Diamond in the Debris:1:When Exploring a Wild Zone, increase reward by 10% + Explore Skill:60:Scavenger:52
+Careful EVA:5:While Salvaging at an Orbital, remove a risk card:90:Scavenger:101
+Picky Looters:5:While Salvaging at an Orbital, replace a risk card with a credit-bearing Salvage card:90:Scavenger:101
+Light-Foot Tracker:5:When Exploring a Wild Zone, remove a risk card:30:Scavenger:51
+Cascading Destruction:5:rapidly sabotaging a nearby component causes 40% + Repair Skill in damage:130:Scavenger:77
+Patchwork :8:When Exploring a Wild Zone, replace a risk card with a Ship Repairs card:60:Scavenger:51
+Dogged Treatment:8:Prevent Doctor Failures.:60:Scavenger:8
+Rescue Mission:11:While Salvaging at an Orbital, replace a risk with a Mission Success reward card:30:Scavenger:101
+Scrappy Recovery:11:When Exploring a Wild Zone, replace a risk card with a Scrappy Healing card:30:Scavenger:51
+Master Reclamation:15:When Salvaging at an Orbital, reroll all 5 cards and draw a new hand:210:Scavenger:101
+Redemption Purge:8::60:Scavenger:-2
+Recovery Plan:1:While Salvaging at an Orbital, reroll a risk card:60:Crew Dog:101
+Scrap Procedures:5:While Salvaging at an Orbital, increase credit rewards by 20% + Repair Skill:60:Crew Dog:102
+Weakened System:5:While Salvaging at an Orbital, increase credit and Intel rewards by 10% + Electronics Skill:60:Electronics Tech:102
+Orbital Guard:5:While Salvaging at an Orbital, remove a risk card:60:Gunner:101
+Prowling the Void:8:While Salvaging at an Orbital, increase any Reputation rewards by 10% + Gunnery Skill:60:Gunner:102
+Repurposed Parts:5:While Salvaging at an Orbital, replace a risk card with a Ship Repairs card:90:Mechanic:101
+Entropic Estimate:1:While Salvaging at an Orbital, predicts the time remaining on the orbital salvage Rumor:180:Mechanic:102
+Astounding Find:8:While Salvaging at an Orbital, replace a risk card with a Experience Bonus card:60:Engineer:101
+Nose for Loot:8:While Salvaging at an Orbital, replace a risk card with a Rare Trade Loot card:130:Pirate:101
+Light-Fingers:8:While Salvaging at an Orbital, increase cargo rewards by 10% + Stealth Skill:60:Smuggler:102
+Flash Charge:15:Uses a short hyperwarp burst to charge an enemy ship; start battle at Range 4 or 3 based on an Engine Agility test. Causes 5-15% Damage to the drive and burns Fuel equal to a 25% of a hyperwarp jump:90:Hyperwarp Navigator:70
+Rarest Find:11:When Exploring a Wild Zone, replace a risk card with an Rare Trade Goods reward card; however there is a Danger-based chance to draw Rare Trade Goods guarded by pirates instead:90:Explorer:51
+Cold-blooded Threats:8:threats of merciless reprisal cause 3 enemy crew to suffer Morale loss up to 40 + Intimidate Skill:130:Bounty Hunter:77
+Silent Executioner:5:Price for death warrant Edict is discounted by 10% + Stealth Skill:30:Assassin:33
+Trick of the Eye:15::0:Sniper:29
+Daunting Presence:1:Prevent Intimidate Failures.:30:Xeno Hunter:9
+Unflinching Risk:1:When Exploring a Wild Zone, reroll any card:30:Xeno Hunter:51
+Here Be Monsters:5:When Patrolling a system, replace a card with a dreaded Xeno Ship card:30:Xeno Hunter:55
+Irid-Laced Resolve:1::0:Xeno Hunter:29
+Grenade Launch:1::16:Xeno Hunter:-1
+Macabre Harvest:5:Upon victory in crew combat against xeno, xenobiological expertise allows harvesting a number of Xeno Artifacts up to Explorer Skill:90:Xeno Hunter:78
+We The Hunters:1:When encountering a xeno ship in space combat, prevents Morale loss on up to Intimidate Skill number of crew:60:Xeno Hunter:19
+Blooded Lure:1:When Exploring a Wild Zone, replace a risk card with a dreaded Xeno card with an Explorer Skill chance draw Artifacts guarded by xeno card instead:30:Xeno Hunter:51
+Unfailing Stand:5::10:Xeno Hunter:-1
+Puncture Points:5::1:Xeno Hunter:-1
+Death Haunt:8::12:Xeno Hunter:-1
+Plasma Burner:8::2:Xeno Hunter:-1
+Soul Piercer:8:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Xeno Hunter:13
+Triumphant Predator:11:Upon victory in ship combat against xeno, mastery over the void's terrors restores 10 + up to Intimidate Skill Morale to every crew member:180:Xeno Hunter:105
+Eradication Prize:15:When salvaging a destroyed xeno ship in the void, gain 30% + Explorer Skill bonus to Experience, Rep and credit gains:180:Xeno Hunter:106
+Exalted Hunter:11:When accepting a Mission to hunt xeno, increases payment by Charisma + Intimidate Skill % in addition to bonuses from standard Mission Talents:90:Xeno Hunter:10
+Flawless Reset:15::90:Mechanic:-2
+All The Power:15:Routing more power to the void reactor to escape:90:Engineer:-2
+Elusive Barrage:1:Well-aimed shots prevent pursuit:90:Gunner:-2
+Whirling Blade:1::3:Wing Commando:-1
+Breakneck Assault:1::2:Wing Commando:-1
+Breacher's Assault:1:Launch a Shuttle craft with a 4 Turn flight plan (close, board, retreat, land) to make a boarding run against the enemy ship:0:Wing Commando:113
+Trapped Compartments:1:deadly devices brought from the Shuttle and hidden within the ship surprise, maim and kill:90:Wing Commando:77
+Scrambled Authorization:5:When accessing a Black Market as the pilot of a Shuttle craft, replace a risk card with Market Access 2 to 4:30:Wing Commando:79
+Launchpad Spike:1:attacking a carrier's hangers and bays damages all landed craft up to 20% + Pilot Skill of their max hull:90:Wing Commando:77
+Knife Work:5::12:Wing Commando:-1
+Behind Enemy Lines:5:clever sabotage disables best enemy weapon, causing 80% Damage:90:Wing Commando:77
+Ripcord:8:When fighting in a boarding combat as the pilot of a Shuttle craft, make a quick escape to your shuttle and exit combat immediately, leaving any other squad members behind:10:Wing Commando:-1
+Boarder's Storm:8:Launch a Shuttle craft with a 4 Turn flight plan (close, board, retreat, land) to make a boarding run against the enemy ship:0:Wing Commando:113
+Predictive Intel:11::0:Wing Commando:29
+Grandiose Arrival:11:When completing Mission steps that pick up or drop off a new Passenger or Prisoner on an urban zone, gain up to 20% + Pilot Skill profit:180:Wing Commando:11
+Bombing Run:1:Launch a Bomber craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a bombing run against the enemy ship:0:Wing Bomber:113
+Hull Buster:1:Launch a Bomber craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a bombing run against the enemy ship:0:Wing Bomber:113
+Vanguard Scan:1::30:Wing Bomber:-2
+Synchronized Strikes:1::30:Wing Bomber:-2
+Ensnare:1:When Blockading a system as the pilot of a Bomber craft, remove a risk card:30:Wing Bomber:57
+Explosive Screen:1:Reduces damage caused to your ship and crew from a Meteor Storm in orbit of a system by up to Electronics Skill:20:Wing Bomber:46
+Shutter Strike Pattern:5:Launch a Bomber craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a bombing run against the enemy ship:0:Wing Bomber:113
+PX Incendiary Payload:5:Launch a Bomber craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a bombing run against the enemy ship:0:Wing Bomber:113
+Intimidating Fly Over:5:When completing Mission steps in an urban zone, increase faction Reputation bonuses 20% + Pilot Skill with a chance add -1 Rep loss with local faction:90:Wing Bomber:11
+Ruthless Destruction:5:Bombing a disabled ship into complete oblivion increases both credit and Solar War Rep rewards from destroy and salvage by 10% + Electronics Skill:30:Wing Bomber:66
+Deliberate Destruction:8:While Salvaging at an Orbital as the pilot of a Bomber craft, replace a risk card with Bombed Salvage card (20-40K credits). If used on a Orbital Construction or Disaster Rumor, drawing Bombed Salvage causes 2-4 Rep loss:90:Wing Bomber:101
+Alarming Pass:8:When Blockading a system as the pilot of a Bomber craft, increase all credit rewards by 20% + Electronics:90:Wing Bomber:58
+Havoc Burst Pattern:11:Launch a Bomber craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a bombing run against the enemy ship:0:Wing Bomber:113
+Aegis Pattern:1:Launch an Interdictor craft with a 3 Turn flight plan to defend against enemy craft and shoot down up to one Missile or Torpedo a Turn:0:Wing Leader:113
+Strafing Run:1:Launch a Interdictor craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a attack run against the enemy ship:0:Wing Leader:113
+Protective Escort:1::10:Wing Leader:-2
+Bolstering Fly-By:1::30:Wing Leader:-2
+Unexpected Swoop:1:When Patrolling a system as the pilot of an Interdictor craft, remove a risk card:30:Wing Leader:55
+Precise Pursuit:5:Launch a Interdictor craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a attack run against the enemy ship:0:Wing Leader:113
+Tip of the Spear:5:Launch an Interdictor craft with a 3 Turn flight plan to defend against enemy craft and shoot down up to one Missile or Torpedo a Turn:0:Wing Leader:113
+Ransom Escort:5:Interdictor escort increases profit when ransoming defeated ship back to their Faction by 10% + Pilot Skill, plus Quickness % chance to gain small Reputation bonus:90:Wing Leader:87
+Long Range Support:8:When Exploring a Wild Zone as the pilot of a Shuttle craft, increase rewards by 20% + Pilot Skill:90:Wing Commando:52
+Extended Vigil:8:When Patrolling a system as the pilot of an Interdictor craft, increase rewards by 20% + Gunnery Skill:90:Wing Leader:56
+Interdiction Swarm:11:Launch a Interdictor craft with a 4 Turn flight plan (close, bomb, retreat, land) to make a attack run against the enemy ship:0:Wing Leader:113
+Screening Swarm:11:Launch an Interdictor craft with a 3 Turn flight plan to defend against enemy craft and shoot down up to one Missile or Torpedo a Turn:0:Wing Leader:113
+X12 Interference:1::90:Wing Tech:-2
+Void-Side Fix:1::30:Wing Tech:-2
+Recovery Pod:1:When a craft is destroyed in ship combat, the pilot is saved and restored to HP equal to Doctor Skill + 3 x Medical Rating of onboard medical components:30:Wing Tech:109
+Airtight Plan:1:Tactics save:30:Wing Tech:5
+Fleet Maintenance:1:Reduces cost of ship and small craft repair at a Starport by 10% + Repair Skill:30:Wing Tech:43
+Discounted Acquisition:5:Reduces cost of purchasing a new small craft by Repair Skill %:180:Wing Tech:111
+Rapid Refurb:5:Whenever a craft would incur Maintenance Points, automatically prevents up to 1 Maintenance Point:30:Wing Tech:112
+Unerring Calculations:5::30:Wing Tech:-2
+Hanger Triage:8:In the aftermath of a victorious ship battle, repair hull of 2-3 small craft up to 10% + Repair Skill:30:Wing Tech:83
+Weapons Hot:8::30:Wing Tech:-2
+Sharp Wing:8::30:Wing Tech:-2
+Emergency Grounding:11:Recalls and immediately lands all craft as first action regardless of the current progress of their flight plan:130:Wing Tech:-2
+Long Patrol:8:While Salvaging at an Orbital as the pilot of an Interdictor craft, remove a risk card:90:Wing Leader:101
+Cull the Chaff:8:When Recruiting the trained eye of a soldier spots the best, new crew member gains improved Attributes and you discover one of their hidden Traits:30:Wing Commando:13
+Hostile Tribunal:15:Seize a defeated enemy ship during a Conflict at a local prize court (limited ship types by Conflicts). Requires Military Rank or Edict and a tithe of 50% of the ship's value but strike a blow in the Conflict, losing 60 Reputation with the enemy:360:Wing Commando:97
+Knock From the Void:15:Overwhelming interference immediately forces one enemy craft to land regardless of the current progress of their flight plan:180:Electronics Tech:-2
+Swooping Marauder:5::90:Pirate:-2
+ECM Surge:5::90:Electronics Tech:-2
+Hunt and Seek:8::90:Electronics Tech:-2
+Close-In Defenses:8::90:Gunner:-2
+Lightning Lock:5::90:Gunner:-2
+Peak Reactor Burn:15:In ship combat, increases the flight plan duration of all currently launched and defensive Interdictors:90:Mechanic:-2
+Inspiring Squadron:5::90:Commander:-2
+Jammer Warfare:5::90:Hyperwarp Navigator:-2
+Bullseye Certainty:1:Tactics save:30:Gunner:5
+Pathfinder's Lead:11:Tactics save:30:Hyperwarp Navigator:7

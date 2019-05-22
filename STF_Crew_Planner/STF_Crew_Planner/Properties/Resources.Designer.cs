@@ -223,10 +223,13 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Name:Rank:Description:Cooldown:Job:Type
-        ///Expert Planning:1:Automatically passes a failed Tactics test in any situation, including on patrol, deep space travel, or during a mission:3 weeks Cooldown:Military Officer:Skill Save
-        ///Power Play:1:When completing steps in a Mission, increase Faction Reputation bonuses by Charisma %:3 weeks Cooldown:Military Officer:Reputation
-        ///Militant Patrol:1:When Patrolling a system, increase rewards by 10% + Command Skill:3 weeks Cooldown:Military Officer:Patrol
-        ///Stiff Salute:1: [rest of string was truncated]&quot;;.
+        ///Slash:1:Auto-granted attack for carring a Blade:1::-1
+        ///Open Fire:1:Auto-granted attack for carring a Pistol:1::-1
+        ///Short Burst:1:Auto-granted attack for carring a Rifle:1::-1
+        ///Aura of Command:1::30:Commander:7
+        ///Steady Hands:1::60:Commander:-2
+        ///Discerning Glance:1:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Commander:13
+        ///Loyalty Rousing:1:In the aftermath of a ship battle, give an inspiring speech which ca [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_talent_job {
             get {
