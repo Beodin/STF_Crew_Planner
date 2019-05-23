@@ -103,13 +103,14 @@ namespace STF_CharacterPlanner.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Name:Size:Current Mass:Pilot:Ship Ops:Gunnery:Electronics:Navigation:Cargo:Max Crew:Max Officers:Armour:Shield:Jump Cost:Fuel Tank:Guest:Prison:Medical
-        ///Adv. Mass Dampener 1:Medium:-300:0:3:0:0:0:0:0:0:0:0:5:0:0:0:0
-        ///Adv. Mass Dampener 2:Medium:-330:0:3:0:1:0:0:0:0:0:0:5:0:0:0:0
-        ///Adv. Mass Dampener 3:Medium:-360:0:4:0:1:0:0:0:0:0:0:6:0:0:0:0
-        ///Adv. Mass Dampener 4:Medium:-400:0:4:0:2:0:0:0:0:0:0:6:0:0:0:0
-        ///Advanced Medical Bay:Medium:325:0:3:0:3:0:0:0:0:0:1:0:0:0:0:6
-        ///Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0: [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Name:Size:Current Mass:Pilot:Ship Ops:Gunnery:Electronics:Navigation:Cargo:Max Crew:Max Officers:Jump Cost:Armour:Fuel Tank:Guest:Prison:Medical:Shield
+        ///Bridge:Medium:300:5:3:0:4:5:0:0:1:0:0:0:0:0:0:0
+        ///Scout Bridge:Small:100:4:2:0:3:3:0:0:3:0:0:0:0:0:0:0
+        ///Capital Bridge:Large:600:9:5:0:8:8:0:0:1:0:0:0:0:0:0:0
+        ///Bridge 2:Medium:300:6:3:0:5:5:0:0:1:0:0:0:0:0:0:0
+        ///Bridge 3:Medium:300:6:4:0:5:6:0:0:1:0:1:0:0:0:0:0
+        ///Bridge 4:Medium:300:7:4:0:5:7:0:0:1:0:1:0:0:0:0:0
+        ///Scout Bridge 2:Small:100:5:3:0:4:4:0:0:3:0:0:0: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ship_components {
             get {

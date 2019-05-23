@@ -1,282 +1,343 @@
-Name:Size:Current Mass:Pilot:Ship Ops:Gunnery:Electronics:Navigation:Cargo:Max Crew:Max Officers:Armour:Shield:Jump Cost:Fuel Tank:Guest:Prison:Medical
-Adv. Mass Dampener 1:Medium:-300:0:3:0:0:0:0:0:0:0:0:5:0:0:0:0
-Adv. Mass Dampener 2:Medium:-330:0:3:0:1:0:0:0:0:0:0:5:0:0:0:0
-Adv. Mass Dampener 3:Medium:-360:0:4:0:1:0:0:0:0:0:0:6:0:0:0:0
-Adv. Mass Dampener 4:Medium:-400:0:4:0:2:0:0:0:0:0:0:6:0:0:0:0
-Advanced Medical Bay:Medium:325:0:3:0:3:0:0:0:0:0:1:0:0:0:0:6
-Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0:0:0:0:0:0:0:0
-Aramech X2 Missile Battery:Small:125:0:2:11:1:0:0:0:0:0:0:0:0:0:0:0
-Archangel Dual-R Railgun:Medium:300:0:3:4:1:0:0:0:0:0:0:0:0:0:0:0
-Archangel Railgun:Medium:300:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Ares Missile System:Medium:300:0:1:4:1:0:0:0:0:0:0:0:0:0:0:0
-Armored Bulkheads:Small:150:0:0:0:0:0:0:0:0:2:1:3:0:0:0:0
-Armored Bulkheads 2:Small:150:0:0:0:0:0:0:0:0:2:2:5:0:0:0:0
-Armored Bulkheads 3:Small:150:0:0:0:0:0:0:0:0:3:3:7:0:0:0:0
-Armored Bulkheads 4:Small:150:0:0:0:0:0:0:0:0:4:3:8:0:0:0:0
-Armored Storage:Medium:325:0:3:0:0:0:10:0:0:1:1:1:0:0:0:0
-Arratech Missile Pod:Small:125:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
-Barracks 1:Medium:325:0:0:0:0:0:0:12:0:0:0:0:0:0:0:0
-Barracks 2:Medium:325:0:0:0:0:0:0:18:0:0:0:0:0:0:0:0
-Barracks 3:Medium:325:0:0:0:0:0:0:24:0:0:0:0:0:0:0:0
-Barracks 4:Medium:325:0:0:0:0:0:0:30:0:0:0:0:0:0:0:0
-Barracks 5:Medium:325:0:0:0:0:0:0:36:0:0:0:0:0:0:0:0
-Barracks 6:Large:650:0:0:0:0:0:0:42:0:0:0:0:0:0:0:0
-Barracks 7:Large:650:0:0:0:0:0:0:48:0:0:0:0:0:0:0:0
-Barracks 8:Large:650:0:0:0:0:0:0:54:0:0:0:0:0:0:0:0
-Battle Prow 1:Large:650:0:1:0:1:0:0:0:0:10:0:9:0:0:0:0
-Battle Prow 2:Large:650:0:1:0:2:0:0:0:0:12:0:9:0:0:0:0
-Battle Prow 3:Large:650:0:1:0:3:0:0:0:0:14:0:10:0:0:0:0
-Boarding Assault System:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
-Boarding Assault System 2:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
-Boarding Assault System 3:Small:150:3:3:0:0:0:0:0:0:0:0:0:0:0:0:0
-Boarding Assault System 4:Small:150:3:3:0:0:0:0:0:0:0:0:0:0:0:0:0
+Name:Size:Current Mass:Pilot:Ship Ops:Gunnery:Electronics:Navigation:Cargo:Max Crew:Max Officers:Jump Cost:Armour:Fuel Tank:Guest:Prison:Medical:Shield
 Bridge:Medium:300:5:3:0:4:5:0:0:1:0:0:0:0:0:0:0
-Bridge 2:Medium:300:6:3:0:5:5:0:0:1:0:0:0:0:0:0:0
-Bridge 3:Medium:300:6:4:0:5:6:0:0:1:1:0:0:0:0:0:0
-Bridge 4:Medium:300:7:4:0:5:7:0:0:1:1:0:0:0:0:0:0
+Scout Bridge:Small:100:4:2:0:3:3:0:0:3:0:0:0:0:0:0:0
 Capital Bridge:Large:600:9:5:0:8:8:0:0:1:0:0:0:0:0:0:0
+Bridge 2:Medium:300:6:3:0:5:5:0:0:1:0:0:0:0:0:0:0
+Bridge 3:Medium:300:6:4:0:5:6:0:0:1:0:1:0:0:0:0:0
+Bridge 4:Medium:300:7:4:0:5:7:0:0:1:0:1:0:0:0:0:0
+Scout Bridge 2:Small:100:5:3:0:4:4:0:0:3:0:0:0:0:0:0:1
+Scout Bridge 3:Small:100:6:3:0:4:4:0:0:3:1:1:0:0:0:0:2
+Scout Bridge 4:Small:100:7:4:0:5:5:0:0:3:3:3:0:0:0:0:3
 Capital Bridge 2:Large:600:9:5:0:9:9:0:0:1:0:0:0:0:0:0:0
-Capital Bridge 3:Large:600:9:6:0:10:9:0:0:1:1:0:0:0:0:0:0
-Capital Bridge 4:Large:600:10:6:0:10:10:0:0:1:1:0:1:0:0:0:0
-Cargo Hold 1:Large:625:0:2:0:0:0:25:0:0:0:0:0:40:0:0:0
-Cargo Hold 2:Large:625:0:2:0:0:0:35:0:0:0:0:0:50:0:0:0
-Cargo Hold 3:Large:625:0:4:0:0:0:40:0:0:0:0:0:60:0:0:0
-Cargo Hold 4:Large:625:0:4:0:0:0:45:0:0:0:0:0:70:0:0:0
-Cargo-Fuel Storage:Medium:325:0:3:0:0:0:15:0:0:0:0:0:15:0:0:0
-Centurion Radiation Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Cloudstrike Lance:Small:150:0:3:6:1:0:0:0:0:0:0:0:0:0:0:0
-Combat Hospital:Large:650:0:5:0:3:0:0:0:0:1:2:3:0:0:0:8
-Commander PC-1:Small:100:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
-Commander Plasma Artillery:Medium:410:0:3:9:2:0:0:0:0:0:0:0:0:0:0:0
-Deathgun:Medium:300:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Defense Pattern Matrix:Small:125:2:2:0:3:0:0:0:0:0:0:2:0:0:0:0
-Defense Pattern Matrix 2:Small:125:2:2:0:3:0:0:0:0:0:0:2:0:0:0:0
-Defense Pattern Matrix 3:Small:125:3:3:0:3:0:0:0:0:0:0:3:0:0:0:0
-Defense Pattern Matrix 4:Small:125:3:3:0:4:0:0:0:0:0:0:4:0:0:0:0
-Deflector Array:Medium:350:0:2:0:2:0:0:0:0:0:6:1:0:0:0:0
-Deflector Array 2:Medium:350:0:2:0:1:0:0:0:0:0:8:3:0:0:0:0
-Deflector Array 3:Medium:350:0:3:0:2:0:0:0:0:0:9:5:0:0:0:0
-Deflector Array 4:Medium:350:0:3:0:3:0:0:0:0:0:11:7:0:0:0:0
-Depth Scanner Omega:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Depth Scanner Omega-X:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Digestive Void:Large:625:0:2:0:0:0:25:0:0:0:0:0:40:0:0:0
-Digestive Void:Large:625:0:2:0:0:0:35:0:0:0:0:0:50:0:0:0
-Dual-Arc Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Dual-Linked Autocannon:Small:100:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Dual-Linked Missile Battery:Small:125:0:2:9:1:0:0:0:0:0:0:0:0:0:0:0
-Duranium Coating:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-ECCM Screen Matrix 1:Small:150:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
-ECCM Screen Matrix 2:Small:150:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
-ECCM Screen Matrix 3:Small:150:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
-ECCM Screen Matrix 4:Small:150:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
-Elomag Railgun:Medium:300:0:4:5:2:0:0:0:0:0:0:0:0:0:0:0
-Escape Shuttle Bay:Large:1800:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-EVA Airlock:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Exo-Crawler:Large:650:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Extraction Drill:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Ferrochromium Mesh:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Ferrochromium Plating:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Fighter Bay:Large:1000:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Firestorm Torpedo:Small:110:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
-Fuel Tank:Medium:325:0:1:0:2:0:0:0:0:0:0:0:40:0:0:0
-Fuel Tank 2:Medium:325:0:2:0:2:0:0:0:0:0:0:0:48:0:0:0
-Fuel Tank 3:Medium:325:0:3:0:3:0:0:0:0:0:0:0:56:0:0:0
-Fuel Tank 4:Medium:325:0:3:0:4:0:0:0:0:0:0:0:64:0:0:0
-Hardened Medical Facility:Large:650:0:5:0:3:0:0:0:0:2:3:4:0:0:0:9
-Harvester Bay:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Helios Railgun:Medium:300:0:3:4:1:0:0:0:0:0:0:0:0:0:0:0
-Helios X Railgun:Medium:300:0:3:5:1:0:0:0:0:0:0:0:0:0:0:0
-Helios X2 Railgun Array:Medium:300:0:4:5:2:0:0:0:0:0:0:0:0:0:0:0
+Capital Bridge 3:Large:600:9:6:0:10:9:0:0:1:0:1:0:0:0:0:0
+Capital Bridge 4:Large:600:10:6:0:10:10:0:0:1:1:1:0:0:0:0:0
+Battle Bridge:Medium:250:6:3:0:4:6:0:0:1:4:2:0:0:0:0:0
+Cargo Hold 1:Large:625:0:2:0:0:0:25:0:0:0:0:40:0:0:0:0
+Cargo Hold 2:Large:625:0:2:0:0:0:35:0:0:0:0:50:0:0:0:0
+Storage Cache:Small:125:0:1:0:0:0:10:0:0:0:0:0:0:0:0:0
+Cargo Hold 3:Large:625:0:4:0:0:0:40:0:0:0:0:60:0:0:0:0
+Storage Hold:Medium:325:0:3:0:0:0:25:0:0:0:0:0:0:0:0:0
+Armored Storage:Medium:325:0:3:0:0:0:10:0:0:1:1:0:0:0:0:1
+Cargo-Fuel Storage:Medium:325:0:3:0:0:0:15:0:0:0:0:15:0:0:0:0
+Cargo Hold 4:Large:625:0:4:0:0:0:45:0:0:0:0:70:0:0:0:0
+Reinforced Fuel Tank:Medium:325:0:3:0:0:0:0:0:0:2:2:35:0:0:0:0
+Cargo Hold 5:Large:625:0:4:0:0:0:50:0:0:2:0:75:0:0:0:0
+Cargo-Fuel Pod:Small:120:0:1:0:0:0:5:0:0:0:0:10:0:0:0:0
+Reinforced Fuel Pod:Small:110:0:2:0:0:0:0:0:0:1:1:18:0:0:0:0
+Armored Cargo Hold 4:Large:625:0:4:0:0:0:40:0:0:3:3:65:0:0:0:1
+Fuel-Cargo Hold 4:Large:625:0:4:0:0:0:35:0:0:0:0:95:0:0:0:0
+M2400 Void Engine Balanced:Large:200:7:6:0:6:2:0:0:0:0:3:0:0:0:0:1
+M2400 Void Engine Longhaul:Large:200:6:6:0:7:2:0:0:0:0:3:0:0:0:0:1
+M3400 Void Engine Traveler:Large:400:7:7:0:9:2:0:0:0:0:2:0:0:0:0:0
+M3400 Void Engine Chaser:Large:400:9:7:0:7:2:0:0:0:0:2:0:0:0:0:0
+M3400 Void Engine Balanced:Large:400:8:8:0:7:2:0:0:0:0:2:0:0:0:0:0
+M3400 Void Engine Longhaul:Large:400:7:9:0:7:2:0:0:0:0:2:0:0:0:0:0
+M5000 Void Engine Traveler:Large:700:8:10:0:6:0:0:0:0:0:0:0:0:0:0:0
+M5000 Void Engine Balanced:Large:700:9:9:0:6:0:0:0:0:0:0:0:0:0:0:0
+M5000 Void Engine Chaser:Large:700:10:8:0:6:0:0:0:0:0:0:0:0:0:0:0
+M6000 Void Engine Longhaul:Large:1100:10:11:0:7:0:0:0:0:0:0:0:0:0:0:0
+M6000 Void Engine Balanced:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
+M7000 Void Engine Chaser:Large:1300:10:9:0:10:0:0:0:0:0:0:0:0:0:0:0
+M7000 Void Engine Traveler:Large:1300:12:11:0:9:0:0:0:0:0:0:0:0:0:0:0
+M7000 Void Engine Balanced:Large:1300:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
+M8000 Void Engine Balanced:Large:1500:14:12:0:11:0:0:0:0:0:0:0:0:0:0:0
+M2400 Void Engine Traveler:Large:200:6:6:0:6:2:0:0:0:0:3:0:0:0:0:1
+M2400 Void Engine Chaser:Large:200:7:6:0:6:2:0:0:0:0:3:0:0:0:0:1
+M5000 Void Engine Longhaul:Large:700:9:9:0:6:0:0:0:0:0:0:0:0:0:0:0
+M6000 Void Engine Traveler:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
+M6000 Void Engine Chaser:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
+M7000 Void Engine Longhaul:Large:1300:12:10:0:9:0:0:0:0:0:0:0:0:0:0:0
+M8000 Void Engine Longhaul:Large:1500:15:14:0:12:0:0:0:0:0:0:0:0:0:0:0
+M8000 Void Engine Traveler:Large:1500:14:13:0:9:0:0:0:0:0:0:0:0:0:0:0
+M8000 Void Engine Chaser:Large:1500:16:12:0:11:0:0:0:0:0:0:0:0:0:0:0
+M9000 Void Engine Longhaul:Large:1750:15:15:0:10:0:0:0:0:0:0:0:0:0:0:0
+M9000 Void Engine Traveler:Large:1750:14:16:0:11:0:0:0:0:0:0:0:0:0:0:0
+M9000 Void Engine Chaser:Large:1750:15:14:0:10:0:0:0:0:0:0:0:0:0:0:0
+M9000 Void Engine Balanced:Large:1750:13:13:0:10:0:0:0:0:0:0:0:0:0:0:0
+M2400 Void Engine Warhammer:Large:200:6:6:0:6:2:0:0:0:3:3:0:0:0:0:2
+M3400 Void Engine Warhammer:Large:450:7:9:0:7:2:0:0:0:3:2:0:0:0:0:2
+M5000 Void Engine Warhammer:Large:750:9:9:0:7:1:0:0:0:3:1:0:0:0:0:2
+M6000 Void Engine Warhammer:Large:1100:11:9:0:8:1:0:0:0:3:1:0:0:0:0:2
+M7000 Void Engine Warhammer:Large:1300:12:10:0:10:1:0:0:0:3:1:0:0:0:0:2
+M8000 Void Engine Warhammer:Large:1500:14:12:0:12:2:0:0:0:3:1:0:0:0:0:2
+M9000 Void Engine Warhammer:Large:1750:16:12:0:12:2:0:0:0:3:1:0:0:0:0:2
+M2400 Void Engine Behemoth:Large:200:6:6:0:6:2:0:0:0:3:5:0:0:0:0:3
+M3400 Void Engine Behemoth:Large:450:7:9:0:7:2:0:0:0:3:4:0:0:0:0:2
+M5000 Void Engine Behemoth:Large:750:9:9:0:7:1:0:0:0:3:4:0:0:0:0:2
+M6000 Void Engine Behemoth:Large:1100:11:9:0:8:1:0:0:0:3:5:0:0:0:0:2
+M7000 Void Engine Behemoth:Large:1300:12:10:0:10:1:0:0:0:3:5:0:0:0:0:3
+M8000 Void Engine Behemoth:Large:1500:14:12:0:12:2:0:0:0:3:5:0:0:0:0:3
+M9000 Void Engine Behemoth:Large:1750:16:12:0:12:2:0:0:0:3:5:0:0:0:0:3
+M2400 Void Engine Dual-Field:Large:140:7:6:0:6:2:0:0:0:6:3:0:0:0:0:1
+M3400 Void Engine Dual-Field:Large:300:8:8:0:7:2:0:0:0:6:2:0:0:0:0:0
+M5000 Void Engine Dual-Field:Large:450:9:9:0:6:0:0:0:0:6:0:0:0:0:0:0
+M6000 Void Engine Dual-Field:Large:775:11:9:0:8:0:0:0:0:6:0:0:0:0:0:0
+M7000 Void Engine Dual-Field:Large:1040:11:9:0:8:0:0:0:0:6:0:0:0:0:0:0
+M8000 Void Engine Dual-Field:Large:1200:14:12:0:11:0:0:0:0:6:0:0:0:0:0:0
+Valiant Autocannon:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
+Phoenix Lance:Small:150:0:2:4:0:0:0:0:0:0:0:0:0:0:0:0
 Hellfire Torpedo:Small:110:0:2:4:0:0:0:0:0:0:0:0:0:0:0:0
-Hospital Unit:Large:650:0:5:0:3:0:0:0:0:0:0:2:0:0:0:7
-Hull Plating 1:Large:620:0:2:0:1:0:0:0:0:0:10:5:0:0:0:0
-Hull Plating 2:Large:620:0:2:0:2:0:0:0:0:0:12:7:0:0:0:0
-Hull Plating 3:Large:620:0:0:0:3:0:0:0:0:0:14:9:0:0:0:0
-HX-2 Lance:Small:150:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
-HX-Cycle Lance:Small:150:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
-Hydra Missile Array:Small:125:0:2:4:1:0:0:0:0:0:0:0:0:0:0:0
-Hyperion Exo-Suits:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+Starshot Lance Array:Medium:350:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
 Imperator PC-1:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
-Imperator Plasma Artillery:Medium:300:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
-Inferno Torpedo:Small:110:0:2:11:2:0:0:0:0:0:0:0:0:0:0:0
-Inner Hull:Medium:325:0:2:0:2:0:0:0:0:0:6:1:0:0:0:0
-Inner Hull:Medium:-225:0:2:0:1:0:0:0:0:0:0:-2:0:0:0:0
-Interlocking Sensor Matrix:Small:125:0:0:2:3:0:0:0:0:0:0:2:0:0:0:0
-Interlocking Sensor Matrix 2:Small:125:0:0:2:3:0:0:0:0:0:0:2:0:0:0:0
-Interlocking Sensor Matrix 3:Small:125:0:0:3:3:0:0:0:0:0:0:3:0:0:0:0
-Interlocking Sensor Matrix 4:Small:125:0:0:3:4:0:0:0:0:0:0:4:0:0:0:0
-Iridlaentine Weave:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Javat Mechi-Reaper:Large:650:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-JUK Gravcannon:Medium:350:0:2:7:0:0:0:0:0:0:0:0:0:0:0:0
-JUK Gravity Array:Medium:350:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
-JUK-22 Gravcannon:Medium:350:0:2:7:0:0:0:0:0:0:0:0:0:0:0:0
-JUK-24 Gravcannon:Medium:350:0:3:8:0:0:0:0:0:0:0:0:0:0:0:0
-L-Support Rover:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Large Fuel Tank:Large:620:0:1:0:2:0:0:0:0:0:0:0:75:0:0:0
-Large Fuel Tank 2:Large:620:0:2:0:3:0:0:0:0:0:0:0:90:0:0:0
-Large Fuel Tank 3:Large:620:0:3:0:3:0:0:0:0:0:0:0:105:0:0:0
-Large Fuel Tank 4:Large:620:0:3:0:3:0:0:0:0:0:0:0:130:0:0:0
 Light Railgun:Small:125:0:2:3:0:0:0:0:0:0:0:0:0:0:0:0
-Lionheart Cannon:Small:100:0:3:7:0:0:0:0:0:0:0:0:0:0:0:0
-Luxury Cabin:Medium:325:0:0:0:0:0:0:0:0:1:1:0:0:1:0:0
-Luxury Suites:Large:500:0:0:0:0:0:0:0:0:0:2:0:0:3:0:0
-M2400 Hyperwarp:Medium:200:0:0:0:1:4:0:0:0:0:0:14:0:0:0:0
-M2400 Hyperwarp EX:Medium:200:0:0:0:2:6:0:0:0:0:0:10:0:0:0:0
-M2400 Hyperwarp KS:Medium:200:0:0:0:2:5:0:0:0:1:1:12:0:0:0:0
-M2400 Void Engine-Balanced:Large:200:4:5:0:4:0:0:0:0:0:0:0:0:0:0:0
-M2400 Void Engine-Chaser:Large:200:4:5:0:4:0:0:0:0:0:0:0:0:0:0:0
-M2400 Void Engine-Longhaul:Large:200:4:5:0:4:0:0:0:0:0:0:0:0:0:0:0
-M2400 Void Engine-Traveler:Large:200:4:5:0:4:0:0:0:0:0:0:0:0:0:0:0
-M3200 Hyperwarp EX:Medium:225:0:0:0:3:10:0:0:0:0:0:14:0:0:0:0
-M3400 Hyperwarp:Medium:225:0:0:0:2:8:0:0:0:0:0:18:0:0:0:0
-M3400 Hyperwarp KS:Medium:225:0:0:0:3:9:0:0:0:1:1:16:0:0:0:0
-M3400 Void Engine-Balanced:Large:700:6:7:0:5:0:0:0:0:0:0:0:0:0:0:0
-M3400 Void Engine-Chaser:Large:700:7:6:0:5:0:0:0:0:0:0:0:0:0:0:0
-M3400 Void Engine-Longhaul:Large:700:5:8:0:5:0:0:0:0:0:0:0:0:0:0:0
-M3400 Void Engine-Traveler:Large:700:5:6:0:7:0:0:0:0:0:0:0:0:0:0:0
-M5000 Hyperwarp:Medium:225:0:0:0:3:12:0:0:0:0:0:22:0:0:0:0
-M5000 Hyperwarp EX:Medium:225:0:0:0:4:14:0:0:0:0:0:18:0:0:0:0
-M5000 Hyperwarp KS:Medium:225:0:0:0:4:13:0:0:0:1:0:20:0:0:0:0
-M5000 Void Engine-Balanced:Large:800:9:9:0:6:0:0:0:0:0:0:0:0:0:0:0
-M5000 Void Engine-Chaser:Large:800:10:8:0:6:0:0:0:0:0:0:0:0:0:0:0
-M5000 Void Engine-Longhaul:Large:800:9:9:0:6:0:0:0:0:0:0:0:0:0:0:0
-M5000 Void Engine-Traveler:Large:800:8:10:0:6:0:0:0:0:0:0:0:0:0:0:0
-M6000 Hyperwarp:Medium:300:0:0:0:4:16:0:0:0:0:0:26:0:0:0:0
-M6000 Hyperwarp EX:Medium:300:0:0:0:6:19:0:0:0:0:0:22:0:0:0:0
-M6000 Hyperwarp KS:Medium:300:0:0:0:5:16:0:0:0:1:1:24:0:0:0:0
-M6000 Void Engine-Balanced:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
-M6000 Void Engine-Chaser:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
-M6000 Void Engine-Longhaul:Large:1100:10:11:0:7:0:0:0:0:0:0:0:0:0:0:0
-M6000 Void Engine-Traveler:Large:1100:11:9:0:8:0:0:0:0:0:0:0:0:0:0:0
-M7000 Hyperwarp:Large:500:0:0:0:6:18:0:0:0:0:0:28:0:0:0:0
-M7000 Hyperwarp EX:Large:500:0:0:0:8:21:0:0:0:0:0:25:0:0:0:0
-M7000 Hyperwarp KS:Large:500:0:0:0:7:18:0:0:0:1:1:26:0:0:0:0
-M7000 Void Engine-Balanced:Large:1300:15:12:0:9:0:0:0:0:0:0:0:0:0:0:0
-M7000 Void Engine-Chaser:Large:1300:12:12:0:12:0:0:0:0:0:0:0:0:0:0:0
-M7000 Void Engine-Longhaul:Large:1300:15:12:0:9:0:0:0:0:0:0:0:0:0:0:0
-M7000 Void Engine-Traveler:Large:1300:14:14:0:8:0:0:0:0:0:0:0:0:0:0:0
-M8000 Hyperwarp:Large:550:0:0:0:8:20:0:0:0:0:0:32:0:0:0:0
-M8000 Hyperwarp EX:Large:550:0:0:0:10:23:0:0:0:0:0:28:0:0:0:0
-M8000 Hyperwarp KS:Large:550:0:0:0:9:20:0:0:0:1:1:30:0:0:0:0
-M8000 Void Engine-Balanced:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
-M8000 Void Engine-Chaser:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
-M8000 Void Engine-Longhaul:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
-M8000 Void Engine-Traveler:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
+Archangel Railgun:Medium:300:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
+Vengence Gravcannon:Medium:325:0:1:5:0:0:0:0:0:0:0:0:0:0:0:0
+Ares Missile System:Medium:300:0:1:4:1:0:0:0:0:0:0:0:0:0:0:0
+Torpedo Mk-Alpha:Medium:325:0:1:5:1:0:0:0:0:0:0:0:0:0:0:0
 M90 Barrel-Cannon :Medium:300:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
-M9000 Hyperwarp:Large:750:0:0:0:8:20:0:0:0:0:0:36:0:0:0:0
-M9000 Hyperwarp EX:Large:750:0:0:0:10:23:0:0:0:0:0:30:0:0:0:0
-M9000 Void Engine-Balanced:Large:1750:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
-M9000 Void Engine-Chaser:Large:1750:17:17:0:13:0:0:0:0:0:0:0:0:0:0:0
-M9000 Void Engine-Longhaul:Large:1750:16:17:0:13:0:0:0:0:0:0:0:0:0:0:0
-M9000 Void Engine-Traveler:Large:1750:17:17:0:12:0:0:0:0:0:0:0:0:0:0:0
 M92 Barrel-Cannon:Small:100:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
 M94 Barrel-Cannon:Medium:300:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
-Magnamech Plating:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Mass Dampener 1:Small:-150:0:1:0:0:0:0:0:0:0:0:2:0:0:0:0
-Mass Dampener 2:Small:-180:0:1:0:0:1:0:0:0:0:0:4:0:0:0:0
-Mass Dampener 3:Small:-210:0:2:0:0:2:0:0:0:0:0:5:0:0:0:0
-Mass Dampener 4:Small:-240:0:2:0:0:2:0:0:0:0:0:6:0:0:0:0
-Mass Modulator 1:Small:-100:2:0:0:0:0:0:0:0:0:0:1:0:0:0:0
-Mass Modulator 2:Small:-125:2:0:0:1:0:0:0:0:0:0:2:0:0:0:0
-Mass Modulator 3:Small:-150:3:0:0:1:0:0:0:0:0:0:3:0:0:0:0
-Mass Modulator 4:Small:-165:3:0:0:2:0:0:0:0:0:0:4:0:0:0:0
-Mass Reducer 1:Medium:-225:0:1:0:0:0:0:0:0:0:0:2:0:0:0:0
-Mass Reducer 2:Medium:-240:0:2:0:1:0:0:0:0:0:0:3:0:0:0:0
-Mass Reducer 3:Medium:-260:0:3:0:1:0:0:0:0:0:0:4:0:0:0:0
-Mass Reducer 4:Medium:-280:0:3:0:1:0:0:0:0:0:0:5:0:0:0:0
-Matchweave EVA Suits:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Medical Bay:Medium:325:0:2:0:2:0:0:0:0:0:0:0:0:0:0:4
-Medical Bay 2:Medium:325:0:4:0:2:0:0:0:0:0:0:0:0:0:0:5
-Medical Chamber:Small:125:0:2:0:1:0:0:0:0:0:0:0:0:0:0:1
-Medical Chamber 2:Small:125:0:3:0:2:0:0:0:0:0:0:0:0:0:0:2
-Mesa Radiate-Seal:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-MK Plasma Ordnance:Medium:340:0:2:8:1:0:0:0:0:0:0:0:0:0:0:0
-Multi-Signal Array:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Nav Assist Module:Small:125:0:0:0:2:4:0:0:0:0:0:-2:0:0:0:0
-Nav Assist Module 2:Small:125:0:0:0:3:5:0:0:0:0:0:-2:0:0:0:0
-Nav Assist Module 3:Small:125:0:0:0:4:6:0:0:0:0:0:-3:0:0:0:0
-Nav Assist Module 4:Small:125:0:0:0:5:7:0:0:0:0:0:-3:0:0:0:0
-Officer Cabin:Small:75:0:0:0:0:0:0:0:1:0:0:0:0:0:0:0
-Orbital Fuel Scoop 1:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Orbital Fuel Scoop 2:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Orbital Fuel Scoop 3:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Orbital Fuel Scoop 4:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Passenger Cabin:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:1:0:0
-Passenger Suites:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:2:0:0
-Peak Velocity Matrix:Medium:350:2:2:0:2:0:0:0:0:0:0:2:0:0:0:0
-Phoenix Lance:Small:150:0:2:4:0:0:0:0:0:0:0:0:0:0:0:0
-Pilot Assist Module:Small:125:4:2:0:0:0:0:0:0:0:0:0:0:0:0:0
-Pilot Assist Module 2:Small:125:5:2:0:0:0:0:0:0:0:0:0:0:0:0:0
-Pilot Assist Module 3:Small:125:6:3:0:0:0:0:0:0:0:0:0:0:0:0:0
-Pilot Assist Module 4:Small:125:7:3:0:0:0:0:0:0:0:0:0:0:0:0:0
-Plasma Spitter:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
-Prison Cell:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:1:0
-Prison Cellblock:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:3:0
-Radi-Shield Pulse Booster:Small:125:0:2:0:2:0:0:0:0:1:0:2:0:0:0:0
-Radiation Seals:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Reactor Spike Module:Small:125:0:1:0:2:0:0:0:0:0:0:0:10:0:0:0
-Reactor Spike Module 2:Small:125:0:2:0:3:0:0:0:0:0:0:0:15:0:0:0
-Reactor Spike Module 3:Small:125:0:2:0:4:0:0:0:0:0:0:0:25:0:0:0
-Reactor Spike Module 4:Small:125:0:3:0:4:0:0:0:0:0:0:0:35:0:0:0
-Regeneration Pool:Medium:325:0:2:0:2:0:0:0:0:0:0:0:0:0:0:6
-Reinforced Barracks 4:Medium:325:0:0:0:0:0:0:30:0:3:3:0:0:0:0:0
-Reinforced Barracks 5:Medium:325:0:0:0:0:0:0:36:0:2:2:0:0:0:0:0
-Reinforced Barracks 6:Large:650:0:0:0:0:0:0:42:0:4:2:0:0:0:0:0
-Reinforced Barracks 8:Large:650:0:0:0:0:0:0:54:0:3:2:0:0:0:0:0
-Reinforced Hull:Medium:325:0:0:0:0:0:0:0:0:8:2:2:0:0:0:0
-Reinforced Officer Cabin:Small:75:0:0:0:0:0:0:0:1:1:1:0:0:0:0:0
-Reinforced Structures:Medium:325:0:0:0:0:0:0:0:0:6:2:3:0:0:0:0
-Reinforced Structures 2:Medium:325:0:0:0:0:0:0:0:0:7:3:5:0:0:0:0
-Reinforced Structures 3:Medium:325:0:0:0:0:0:0:0:0:8:3:7:0:0:0:0
-Reinforced Structures 4:Medium:325:0:0:0:0:0:0:0:0:9:4:8:0:0:0:0
-Resource Processor:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Retaliation Gravcannon:Medium:350:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Retribution Gravcannon:Large:625:0:3:9:0:0:0:0:0:0:0:0:0:0:0:0
-Scout Bridge:Small:100:4:2:0:3:3:0:0:3:0:0:0:0:0:0:0
-Scout Bridge 2:Small:100:5:3:0:4:4:0:0:3:0:1:0:0:0:0:0
-Scout Bridge 3:Small:100:6:3:0:4:4:0:0:3:1:2:1:0:0:0:0
-Scout Bridge 4:Small:100:7:4:0:5:5:0:0:3:3:3:3:0:0:0:0
-Sensor Array 1:Small:50:0:0:0:4:2:0:0:0:0:0:0:0:0:0:0
-Sensor Array 2:Small:50:0:0:0:5:2:0:0:0:0:0:0:0:0:0:0
-Sensor Array 3:Small:50:0:0:0:5:3:0:0:0:0:0:0:0:0:0:0
-Sensor Array 4:Small:50:0:0:0:6:3:0:0:0:0:0:0:0:0:0:0
-Sig Dampener:Small:125:0:2:0:4:0:0:0:0:0:0:0:0:0:0:0
-Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Small Fuel Tank:Small:125:0:1:0:1:0:0:0:0:0:0:0:20:0:0:0
-Small Fuel Tank 2:Small:125:0:2:0:1:0:0:0:0:0:0:0:26:0:0:0
-Small Fuel Tank 3:Small:125:0:2:0:2:0:0:0:0:0:0:0:32:0:0:0
-Small Fuel Tank 4:Small:125:0:3:0:2:0:0:0:0:0:0:0:38:0:0:0
-Stalwart PC-1:Small:100:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
-Starfall Lance Array:Medium:350:0:2:8:1:0:0:0:0:0:0:0:0:0:0:0
-Starshot Lance Array:Medium:350:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Storage Cache:Small:150:0:1:0:0:0:5:0:0:0:0:0:0:0:0:0
-Storage Hold:Medium:325:0:3:0:0:0:20:0:0:0:0:0:0:0:0:0
-Surface Scanner:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Targeting Matrix:Small:125:0:0:4:2:0:0:0:0:0:0:2:0:0:0:0
-Targeting Matrix 2:Small:125:0:0:4:2:0:0:0:0:0:0:2:0:0:0:0
-Targeting Matrix 3:Small:125:0:0:5:2:0:0:0:0:0:0:3:0:0:0:0
-Targeting Matrix 4:Small:125:0:0:5:3:0:0:0:0:0:0:4:0:0:0:0
-Thunder XK3 Lance Array:Medium:350:0:3:7:2:0:0:0:0:0:0:0:0:0:0:0
-Torpedo Dual-Laced Array:Small:110:0:3:12:3:0:0:0:0:0:0:0:0:0:0:0
-Torpedo Mk-Alpha:Medium:325:0:1:5:1:0:0:0:0:0:0:0:0:0:0:0
-Torpedo MK2-Alpha:Medium:325:0:3:13:3:0:0:0:0:0:0:0:0:0:0:0
-Tri-Cast Missile Battery:Small:125:0:2:10:1:0:0:0:0:0:0:0:0:0:0:0
-Triple-Arc Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Unknown Weapon:Large:625:0:3:9:0:0:0:0:0:0:0:0:0:0:0:0
-Valiant Autocannon:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
+Dual-Linked Autocannon:Small:100:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
 Vanguard Autocannon:Small:100:0:3:6:0:0:0:0:0:0:0:0:0:0:0:0
-Vengence Gravcannon:Medium:325:0:1:5:0:0:0:0:0:0:0:0:0:0:0:0
+Lionheart Cannon:Small:100:0:3:7:0:0:0:0:0:0:0:0:0:0:0:0
+HX-Cycle Lance:Small:150:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
+HX-2 Lance:Small:150:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
+Starfall Lance Array:Medium:350:0:2:8:1:0:0:0:0:0:0:0:0:0:0:0
+Cloudstrike Lance:Small:150:0:3:6:1:0:0:0:0:0:0:0:0:0:0:0
+Thunder XK3 Lance Array:Medium:350:0:3:7:2:0:0:0:0:0:0:0:0:0:0:0
+Stalwart PC-1:Small:100:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
+Imperator Plasma Artillery:Medium:300:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
+Commander PC-1:Small:100:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
+MK Plasma Ordnance:Medium:300:0:2:8:1:0:0:0:0:0:0:0:0:0:0:0
+X2 Plasma Battery:Small:100:0:3:6:2:0:0:0:0:0:0:0:0:0:0:0
+Commander Plasma Artillery:Medium:300:0:3:9:2:0:0:0:0:0:0:0:0:0:0:0
+Helios Railgun:Medium:300:0:3:4:1:0:0:0:0:0:0:0:0:0:0:0
+Helios X Railgun:Medium:300:0:3:5:1:0:0:0:0:0:0:0:0:0:0:0
+Archangel Dual-R Railgun:Medium:300:0:3:5:1:0:0:0:0:0:0:0:0:0:0:0
+Elomag Railgun:Medium:300:0:4:5:2:0:0:0:0:0:0:0:0:0:0:0
+Helios X2 Railgun Array:Medium:300:0:4:5:2:0:0:0:0:0:0:0:0:0:0:0
+Retaliation Gravcannon:Medium:350:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
+JUK Gravity Array:Medium:350:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
+JUK Gravcannon:Medium:350:0:2:7:0:0:0:0:0:0:0:0:0:0:0:0
+JUK-22 Gravcannon:Medium:350:0:2:7:0:0:0:0:0:0:0:0:0:0:0:0
+JUK-24 Gravcannon:Medium:350:0:3:8:0:0:0:0:0:0:0:0:0:0:0:0
+Retribution Gravcannon:Large:600:0:3:9:0:0:0:0:0:0:0:0:0:0:0:0
+Hydra Missile Array:Small:125:0:2:4:1:0:0:0:0:0:0:0:0:0:0:0
+Arratech Missile Pod:Small:125:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
+Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0:0:0:0:0:0:0:0
+Dracos Missile Array:Small:125:0:2:9:1:0:0:0:0:0:0:0:0:0:0:0
+Dracos X2 Missile Battery:Small:125:0:2:10:1:0:0:0:0:0:0:0:0:0:0:0
+Aramech X2 Missile Battery:Small:125:0:2:11:1:0:0:0:0:0:0:0:0:0:0:0
+Firestorm Torpedo:Small:110:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
 Void-Lance Torpedo:Medium:325:0:3:6:3:0:0:0:0:0:0:0:0:0:0:0
-Void-Shield Pulse Booster:Small:125:0:2:0:2:0:0:0:0:1:0:2:0:0:0:0
-Warp Darts:Small:110:0:2:4:0:0:0:0:0:0:0:0:0:0:0:0
-Warp Modulator:Small:125:0:1:0:2:0:0:0:0:0:0:0:10:0:0:0
-Warp Sack:Large:550:0:0:0:8:20:0:0:0:0:0:32:0:0:0:0
-Water-Fuel Reclamation:Medium:325:0:6:0:2:0:0:0:0:0:0:-2:12:0:0:0
+Inferno Torpedo:Small:110:0:2:11:2:0:0:0:0:0:0:0:0:0:0:0
+Torpedo MK2-Alpha:Medium:325:0:3:13:3:0:0:0:0:0:0:0:0:0:0:0
+Torpedo Dual-Laced Array:Small:110:0:3:12:3:0:0:0:0:0:0:0:0:0:0:0
+Lightspear Railgun:Small:125:0:2:3:2:0:0:0:0:0:0:0:0:0:0:0
+Vector Missile System:Medium:300:0:3:7:1:0:0:0:0:0:0:0:0:0:0:0
+Blazelight Railgun:Small:125:0:2:4:2:0:0:0:0:0:0:0:0:0:0:0
+Dual-Linked Vector Missile:Medium:300:0:3:10:1:0:0:0:0:0:0:0:0:0:0:0
+Radiance Railgun:Small:125:0:3:4:3:0:0:0:0:0:0:0:0:0:0:0
+Goliath Missile Battery:Medium:300:0:3:11:2:0:0:0:0:0:0:0:0:0:0:0
+Obliterator PK-1:Large:550:0:2:7:2:0:0:0:0:0:0:0:0:0:0:0
+Obliterator PK-2:Large:550:0:3:8:2:0:0:0:0:0:0:0:0:0:0:0
+Obliterator PKX-3:Large:550:0:4:10:2:0:0:0:0:0:0:0:0:0:0:0
+Ruut 82 Gravcannon:Large:600:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
+Ruut 84 Gravcannon:Large:600:0:2:8:0:0:0:0:0:0:0:0:0:0:0:0
+Barracks 2:Medium:325:0:0:0:0:0:0:18:0:0:0:0:0:0:0:0
+Officer Cabin:Small:75:0:0:0:0:0:0:0:1:0:0:0:0:0:0:0
+Barracks 3:Medium:325:0:0:0:0:0:0:24:0:0:0:0:0:0:0:0
+Barracks 1:Medium:325:0:0:0:0:0:0:12:0:0:0:0:0:0:0:0
+Barracks 5:Medium:325:0:0:0:0:0:0:36:0:0:0:0:0:0:0:0
+Barracks 4:Medium:325:0:0:0:0:0:0:30:0:0:0:0:0:0:0:0
+Barracks 6:Large:650:0:0:0:0:0:0:42:0:0:0:0:0:0:0:0
+Reinforced Officer Cabin:Small:75:0:0:0:0:0:0:0:1:1:1:0:0:0:0:1
+Reinforced Barracks 5:Medium:325:0:0:0:0:0:0:36:0:3:2:0:0:0:0:2
+Reinforced Barracks 4:Medium:325:0:0:0:0:0:0:30:0:3:3:0:0:0:0:3
+Reinforced Barracks 6:Large:650:0:0:0:0:0:0:42:0:3:4:0:0:0:0:2
+Officer Suites:Medium:275:0:0:0:0:0:0:0:2:0:0:0:0:0:0:0
+Shielded Officer Suites:Medium:275:0:0:0:0:0:0:0:2:0:0:0:0:0:0:2
+Armored Officer Suites:Medium:275:0:0:0:0:0:0:0:2:0:2:0:0:0:0:0
+Shielded Barracks 4:Medium:325:0:0:0:0:0:0:30:0:3:0:0:0:0:0:4
+Reinforced Barracks 3:Medium:325:0:0:0:0:0:0:24:0:2:3:0:0:0:0:3
+Reinforced Medical Chamber:Small:125:0:2:0:1:0:0:0:0:0:1:0:0:0:2:0
+Basic Medical Bay:Medium:325:0:2:0:2:0:0:0:0:0:0:0:0:0:4:0
+Shielded Medical Chamber:Small:125:0:3:0:3:0:0:0:0:0:0:0:0:0:2:1
+Medical Bay:Medium:325:0:4:0:2:0:0:0:0:0:0:0:0:0:5:0
+Advanced Medical Ward:Large:650:0:5:0:3:0:0:0:0:5:0:0:0:0:9:0
+Combat Medical Ward:Large:650:0:5:0:3:0:0:0:0:5:2:0:0:0:8:2
+Reinforced Medical Ward:Large:650:0:5:0:3:0:0:0:0:5:4:0:0:0:8:0
+Advanced Medical Bay:Medium:325:0:3:0:4:0:0:0:0:2:0:0:0:0:6:1
+Medical Clinic:Large:650:0:6:0:2:0:0:0:1:5:0:0:0:0:8:0
+Advanced Medical Clinic:Large:650:0:6:0:3:0:0:0:1:5:0:0:0:0:9:0
+Combat Medical Clinic:Medium:325:0:3:0:2:0:0:0:1:5:1:0:0:0:6:1
+Plague Ward:Medium:275:0:3:0:0:0:0:0:0:5:0:0:0:1:7:2
+Launch Bay:Large:650:0:0:0:0:0:0:0:0:10:0:25:0:0:0:0
+Shielded Launch Bay:Large:650:0:0:0:0:0:0:0:0:11:0:15:0:0:0:2
+Micro Launch Bay:Medium:325:0:0:0:0:0:0:0:0:6:0:0:0:0:0:0
+Reinforced Launch Bay:Large:650:0:0:0:0:0:0:0:0:12:2:20:0:0:0:0
+Advanced Launch Bay:Large:650:0:0:0:0:0:0:0:0:8:2:40:0:0:0:0
+Armored Bulkheads:Small:150:0:0:0:0:0:0:0:0:3:2:0:0:0:0:1
+Deflector Array:Medium:350:0:2:0:2:0:0:0:0:1:0:0:0:0:0:6
+Sig Dampener:Small:125:0:2:0:4:0:0:0:0:0:0:0:0:0:0:0
+Adv. Mass Dampener 1:Medium:-300:0:3:0:0:0:0:0:0:5:0:0:0:0:0:0
+Reinforced Structures:Medium:325:0:0:0:0:0:0:0:0:3:6:0:0:0:0:2
+Mass Dampener 1:Small:-150:0:1:0:0:0:0:0:0:2:0:0:0:0:0:0
+Mass Modulator 1:Small:-100:2:0:0:0:0:0:0:0:1:0:0:0:0:0:0
+Mass Reducer 1:Medium:-225:0:1:0:0:0:0:0:0:2:0:0:0:0:0:0
+Armored Bulkheads 2:Small:150:0:0:0:0:0:0:0:0:5:2:0:0:0:0:2
+Armored Bulkheads 3:Small:150:0:0:0:0:0:0:0:0:7:3:0:0:0:0:3
+Armored Bulkheads 4:Small:150:0:0:0:0:0:0:0:0:8:4:0:0:0:0:3
+Reinforced Structures 2:Medium:325:0:0:0:0:0:0:0:0:5:7:0:0:0:0:3
+Reinforced Structures 3:Medium:325:0:0:0:0:0:0:0:0:7:8:0:0:0:0:3
+Reinforced Structures 4:Medium:325:0:0:0:0:0:0:0:0:8:9:0:0:0:0:4
+Deflector Array 2:Medium:350:0:2:0:1:0:0:0:0:3:0:0:0:0:0:8
+Deflector Array 3:Medium:350:0:3:0:2:0:0:0:0:5:0:0:0:0:0:9
+Deflector Array 4:Medium:350:0:3:0:3:0:0:0:0:7:0:0:0:0:0:11
+Mass Dampener 2:Small:-180:0:1:0:0:1:0:0:0:4:0:0:0:0:0:0
+Mass Dampener 3:Small:-210:0:2:0:0:2:0:0:0:5:0:0:0:0:0:0
+Mass Dampener 4:Small:-240:0:2:0:0:2:0:0:0:6:0:0:0:0:0:0
+Mass Modulator 2:Small:-125:2:0:0:1:0:0:0:0:2:0:0:0:0:0:0
+Mass Modulator 3:Small:-150:3:0:0:1:0:0:0:0:3:0:0:0:0:0:0
+Mass Modulator 4:Small:-165:3:0:0:2:0:0:0:0:4:0:0:0:0:0:0
+Mass Reducer 2:Medium:-240:0:2:0:1:0:0:0:0:3:0:0:0:0:0:0
+Mass Reducer 3:Medium:-260:0:3:0:1:0:0:0:0:4:0:0:0:0:0:0
+Mass Reducer 4:Medium:-280:0:3:0:1:0:0:0:0:5:0:0:0:0:0:0
+Adv. Mass Dampener 2:Medium:-330:0:3:0:1:0:0:0:0:5:0:0:0:0:0:0
+Adv. Mass Dampener 3:Medium:-360:0:4:0:1:0:0:0:0:6:0:0:0:0:0:0
+Adv. Mass Dampener 4:Medium:-400:0:4:0:2:0:0:0:0:6:0:0:0:0:0:0
+Battle Prow 1:Large:650:0:1:0:1:0:0:0:0:9:10:0:0:0:0:0
+Battle Prow 2:Large:650:0:1:0:2:0:0:0:0:9:12:0:0:0:0:0
+Battle Prow 3:Large:650:0:1:0:3:0:0:0:0:10:14:0:0:0:0:0
+Hull Plating 1:Large:620:0:2:0:1:0:0:0:0:5:0:0:0:0:0:10
+Hull Plating 2:Large:620:0:2:0:2:0:0:0:0:7:0:0:0:0:0:12
+Hull Plating 3:Large:620:0:0:0:3:0:0:0:0:9:0:0:0:0:0:14
+Battle Prow 4:Large:635:0:1:0:4:0:0:0:0:9:15:0:0:0:0:2
+Hull Plating 4:Large:605:0:0:0:4:0:0:0:0:8:2:0:0:0:0:15
+Battle Prow 5:Large:635:0:2:0:5:1:0:0:0:12:16:0:0:0:0:3
+Hull Plating 5:Large:605:0:0:0:5:0:0:0:0:12:3:0:0:0:0:16
+Armored Bulkheads 5:Small:150:0:0:0:0:0:0:0:0:8:5:0:0:0:0:4
+Reinforced Structures 5:Medium:325:0:0:0:0:0:0:0:0:12:10:0:0:0:0:5
+Hawk Mass Reducer 4:Medium:-290:2:1:0:0:0:0:0:0:5:0:0:0:0:0:0
+Lion Mass Reducer 4:Medium:-290:0:1:0:2:0:0:0:0:5:0:0:0:0:0:0
+Basic Hyperwarp Drive:Medium:200:0:0:0:2:6:0:0:0:14:0:0:0:0:0:1
+Longhaul Hyperwarp Drive:Medium:200:0:0:0:3:8:0:0:0:10:0:0:0:0:0:1
+Basic Hyperwarp Drive:Medium:225:0:0:0:3:10:0:0:0:18:0:0:0:0:0:2
+Longhaul Hyperwarp Drive:Medium:225:0:0:0:3:12:0:0:0:14:0:0:0:0:0:1
+Basic Hyperwarp Drive:Medium:225:0:0:0:3:12:0:0:0:22:0:0:0:0:0:0
+Longhaul Hyperwarp Drive:Medium:225:0:0:0:4:14:0:0:0:18:0:0:0:0:0:0
+Basic Hyperwarp Drive:Medium:300:0:0:0:6:14:0:0:0:26:0:0:0:0:0:0
+Longhaul Hyperwarp Drive:Medium:300:0:0:0:4:17:0:0:0:22:0:0:0:0:0:0
+Basic Hyperwarp Drive:Large:500:0:0:0:5:15:0:0:0:28:0:0:0:0:0:0
+Longhaul Hyperwarp Drive:Large:500:0:0:0:7:18:0:0:0:25:0:0:0:0:0:0
+Basic Hyperwarp Drive:Large:550:0:0:0:8:18:0:0:0:32:0:0:0:0:0:0
+Longhaul Hyperwarp Drive:Large:550:0:0:0:7:20:0:0:0:28:0:0:0:0:0:0
+Kickstarter Hyperwarp Drive:Medium:200:0:0:0:3:7:0:0:0:12:1:0:0:0:0:2
+Kickstarter Hyperwarp Drive:Medium:225:0:0:0:4:11:0:0:0:16:1:0:0:0:0:1
+Kickstarter Hyperwarp Drive:Medium:225:0:0:0:4:13:0:0:0:20:1:0:0:0:0:0
+Kickstarter Hyperwarp Drive:Medium:300:0:0:0:5:15:0:0:0:24:0:0:0:0:0:0
+Kickstarter Hyperwarp Drive:Large:500:0:0:0:6:16:0:0:0:26:1:0:0:0:0:1
+Kickstarter Hyperwarp Drive:Large:550:0:0:0:10:17:0:0:0:30:0:0:0:0:0:0
+Basic Hyperwarp Drive:Large:750:0:0:0:10:19:0:0:0:36:0:0:0:0:0:0
+Longhaul Hyperwarp Drive:Large:750:0:0:0:8:21:0:0:0:30:0:0:0:0:0:0
+Combat Hyperwarp Drive:Medium:190:2:0:0:2:7:0:0:0:18:1:0:0:0:0:4
+Combat Hyperwarp Drive:Medium:215:2:0:0:3:9:0:0:0:20:1:0:0:0:0:3
+Combat Hyperwarp Drive:Medium:215:3:0:0:3:11:0:0:0:25:2:0:0:0:0:3
+Combat Hyperwarp Drive:Medium:290:3:0:0:6:13:0:0:0:29:2:0:0:0:0:2
+Combat Hyperwarp Drive:Large:480:4:0:0:5:14:0:0:0:32:3:0:0:0:0:2
+Combat Hyperwarp Drive:Large:525:4:0:0:8:16:0:0:0:36:3:0:0:0:0:1
+Combat Hyperwarp Drive:Large:725:4:0:0:10:17:0:0:0:40:3:0:0:0:0:1
 Weapons Locker A1:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Weapons Locker A2:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Weapons Locker A3:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Weapons Locker A4:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Weapons Locker A5:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Weather Seals:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Wide-Arc Scanner:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-X2 Plasma Battery:Small:100:0:3:6:2:0:0:0:0:0:0:0:0:0:0:0
+Sensor Array 1:Small:50:0:0:0:4:2:0:0:0:0:0:0:0:0:0:0
+Sensor Array 2:Small:50:0:0:0:5:2:0:0:0:0:0:0:0:0:0:0
+Sensor Array 3:Small:50:0:0:0:5:3:0:0:0:0:0:0:0:0:0:0
+Sensor Array 4:Small:50:0:0:0:6:3:0:0:0:0:0:0:0:0:0:0
+Reactor Spike Module:Small:125:0:1:0:2:0:0:0:0:0:0:10:0:0:0:0
+Reactor Spike Module 2:Small:125:0:2:0:3:0:0:0:0:0:0:15:0:0:0:0
+Pilot Assist Module:Small:125:4:2:0:0:0:0:0:0:0:0:0:0:0:0:0
+Nav Assist Module:Small:125:0:0:0:2:4:0:0:0:-2:0:0:0:0:0:0
+Boarding Assault System:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
+Targeting Matrix:Small:125:0:0:4:2:0:0:0:0:2:0:0:0:0:0:0
+Defense Pattern Matrix:Small:125:2:2:0:3:0:0:0:0:2:0:0:0:0:0:0
+Interlocking Sensor Matrix:Small:125:0:0:2:3:0:0:0:0:2:0:0:0:0:0:0
+Peak Velocity Matrix:Medium:350:2:2:0:2:0:0:0:0:2:0:0:0:0:0:0
+Radi-Pulse Booster:Small:125:0:2:0:2:0:0:0:0:2:1:0:0:0:0:0
+Void-Pulse Booster:Small:125:0:2:0:2:0:0:0:0:2:1:0:0:0:0:0
+Pilot Assist Module 2:Small:125:5:2:0:0:0:0:0:0:0:0:0:0:0:0:0
+Pilot Assist Module 3:Small:125:6:3:0:0:0:0:0:0:0:0:0:0:0:0:0
+Pilot Assist Module 4:Small:125:7:3:0:0:0:0:0:0:0:0:0:0:0:0:0
+Nav Assist Module 2:Small:125:0:0:0:3:5:0:0:0:-2:0:0:0:0:0:0
+Nav Assist Module 3:Small:125:0:0:0:4:6:0:0:0:-3:0:0:0:0:0:0
+Nav Assist Module 4:Small:125:0:0:0:5:7:0:0:0:-3:0:0:0:0:0:0
+Reactor Spike Module 3:Small:125:0:2:0:4:0:0:0:0:0:0:25:0:0:0:0
+Reactor Spike Module 4:Small:125:0:3:0:4:0:0:0:0:0:0:35:0:0:0:0
+Boarding Assault System 2:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
+Boarding Assault System 3:Small:150:3:3:0:0:0:0:0:0:0:0:0:0:0:0:0
+Boarding Assault System 4:Small:150:3:3:0:0:0:0:0:0:0:0:0:0:0:0:0
+ECCM Screen Matrix 1:Small:125:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
+ECCM Screen Matrix 2:Small:125:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
+ECCM Screen Matrix 3:Small:125:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
+ECCM Screen Matrix 4:Small:125:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
+Targeting Matrix 2:Small:125:0:0:4:2:0:0:0:0:2:0:0:0:0:0:0
+Targeting Matrix 3:Small:125:0:0:5:2:0:0:0:0:3:0:0:0:0:0:0
+Targeting Matrix 4:Small:125:0:0:5:3:0:0:0:0:4:0:0:0:0:0:0
+Defense Pattern Matrix 2:Small:125:2:2:0:3:0:0:0:0:2:0:0:0:0:0:0
+Defense Pattern Matrix 3:Small:125:3:3:0:3:0:0:0:0:3:0:0:0:0:0:0
+Defense Pattern Matrix 4:Small:125:3:3:0:4:0:0:0:0:4:0:0:0:0:0:0
+Interlocking Sensor Matrix 2:Small:125:0:0:2:3:0:0:0:0:2:0:0:0:0:0:0
+Interlocking Sensor Matrix 3:Small:125:0:0:3:3:0:0:0:0:3:0:0:0:0:0:0
+Interlocking Sensor Matrix 4:Small:125:0:0:3:4:0:0:0:0:4:0:0:0:0:0:0
+Luxury Cabin:Medium:325:0:0:0:0:0:0:0:0:0:1:0:1:0:0:1
+Passenger Cabin:Small:125:0:0:0:0:0:0:0:0:0:0:0:1:0:0:0
+Prison Cell:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:1:0:0
+Prison Cellblock:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:3:0:0
+Luxury Suites:Large:500:0:0:0:0:0:0:0:0:0:0:0:3:0:0:2
+Passenger Suites:Medium:325:0:0:0:0:0:0:0:0:0:0:0:2:0:0:0
+Fuel Tank:Medium:325:0:1:0:2:0:0:0:0:0:0:40:0:0:0:0
+Water-Fuel Reclamation:Medium:325:0:6:0:2:0:0:0:0:-2:0:12:0:0:0:0
+Small Fuel Tank:Small:125:0:1:0:1:0:0:0:0:0:0:20:0:0:0:0
+Large Fuel Tank:Large:620:0:1:0:2:0:0:0:0:0:0:75:0:0:0:0
+Small Fuel Tank 2:Small:125:0:2:0:1:0:0:0:0:0:0:26:0:0:0:0
+Small Fuel Tank 3:Small:125:0:2:0:2:0:0:0:0:0:0:32:0:0:0:0
+Small Fuel Tank 4:Small:125:0:3:0:2:0:0:0:0:0:0:38:0:0:0:0
+Fuel Tank 2:Medium:325:0:2:0:2:0:0:0:0:0:0:48:0:0:0:0
+Fuel Tank 3:Medium:325:0:3:0:3:0:0:0:0:0:0:56:0:0:0:0
+Fuel Tank 4:Medium:325:0:3:0:4:0:0:0:0:0:0:64:0:0:0:0
+Large Fuel Tank 2:Large:620:0:2:0:3:0:0:0:0:0:0:90:0:0:0:0
+Large Fuel Tank 3:Large:620:0:3:0:3:0:0:0:0:0:0:105:0:0:0:0
+Large Fuel Tank 4:Large:620:0:3:0:3:0:0:0:0:0:0:130:0:0:0:0
+Extraction Drill:Medium:300:0:0:0:0:0:10:0:0:0:0:0:0:0:0:0
+Harvester Bay:Medium:300:0:0:0:0:0:15:0:0:0:0:0:0:0:0:0
+Resource Processor:Medium:300:0:0:0:0:0:20:0:0:0:0:10:0:0:0:0
+Javat Mechi-Reaper:Large:500:0:0:0:0:0:25:0:0:3:0:15:0:0:0:0
+Matchweave EVA Suits:Small:100:0:0:0:0:0:0:0:0:0:0:0:0:0:1:0
+L-Support Rover:Medium:300:0:0:0:0:0:0:0:0:0:0:15:0:0:0:0
+Hyperion Exo-Suits:Medium:300:0:0:0:0:0:0:0:0:0:0:0:0:0:1:1
+Exo-Crawler:Large:500:0:0:0:0:0:0:0:0:0:0:25:0:0:0:0
+EVA Airlock:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:1:0
+Weather Seals:Medium:300:0:0:0:0:0:0:0:0:0:1:0:0:0:0:0
+Radiation Seals:Medium:300:0:0:0:0:0:0:0:0:0:1:0:0:0:0:1
+Mesa Radiate-Seal:Medium:300:0:0:0:0:0:0:0:0:0:1:0:0:0:0:2
+Surface Scanner:Small:125:0:0:0:1:0:0:0:0:0:0:0:0:0:0:0
+Wide-Arc Scanner:Small:125:0:0:0:1:0:0:0:0:0:0:0:0:0:0:0
+Depth Scanner Omega:Small:125:0:0:0:2:0:0:0:0:0:0:0:0:0:0:0
+Depth Scanner Omega-X:Medium:300:0:0:0:4:0:0:0:0:0:0:0:0:0:0:0
+Orbital Fuel Scoop 1:Medium:275:0:0:0:0:0:0:0:0:0:0:10:0:0:0:0
+Orbital Fuel Scoop 2:Medium:275:0:0:0:0:0:0:0:0:0:0:20:0:0:0:0
+Orbital Fuel Scoop 3:Medium:275:0:0:0:0:0:0:0:0:0:0:25:0:0:0:0
+Orbital Fuel Scoop 4:Medium:275:0:0:0:0:0:0:0:0:0:0:30:0:0:0:0
+Magnamech Plating:Small:100:0:0:0:0:0:0:0:0:0:1:0:0:0:0:2
+Centurion Radiation Array:Small:100:0:0:0:0:0:0:0:0:0:1:0:0:0:0:2
+Ferrochromium Plating:Small:100:0:0:0:0:0:0:0:0:0:1:0:0:0:0:2
+Duranium Coating:Medium:275:0:0:0:0:0:0:0:0:0:2:0:0:0:0:2
+Ferrochromium Mesh:Medium:275:0:0:0:0:0:0:0:0:0:2:0:0:0:0:2
+Iridlaentine Weave:Medium:275:0:0:0:0:0:0:0:0:0:2:0:0:0:0:2
+Signal Array:Small:100:0:0:0:2:0:0:0:0:0:0:0:0:0:0:0
+Dual-Arc Signal Array:Small:100:0:0:0:3:0:0:0:0:0:0:0:0:0:0:0
+Triple-Arc Signal Array:Small:100:0:0:0:4:0:0:0:0:0:0:0:0:0:0:0
+Multi-Signal Array:Medium:250:0:0:0:5:0:0:0:0:0:0:0:0:0:0:2
+EVA Deck 1:Medium:275:0:0:0:1:0:0:0:0:0:0:5:0:0:1:0
+EVA Deck 2:Medium:275:0:1:0:1:0:0:0:0:0:0:10:0:0:2:1
+EVA Deck 3:Medium:275:0:1:0:2:0:0:0:0:0:0:15:0:0:2:1
+EVA Deck 4:Medium:275:0:2:0:2:0:0:0:0:0:0:20:0:0:3:2
+Salvage Bay 1:Large:500:0:0:0:1:0:10:0:0:0:0:5:0:0:0:0
+Salvage Bay 2:Large:500:0:0:0:1:0:15:0:0:0:0:10:0:0:0:0
+Salvage Bay 3:Large:500:0:0:0:1:0:20:0:0:0:0:15:0:0:0:0
+Salvage Bay 4:Large:500:0:0:0:1:0:25:0:0:0:0:20:0:0:0:0
+Hangar Bay:Medium:300:0:3:0:0:0:0:0:0:4:0:10:0:0:0:0
+Shielded Hangar Bay:Medium:300:0:3:0:0:0:0:0:0:6:0:8:0:0:0:2
+Reinforced Hangar Bay:Medium:300:0:3:0:0:0:0:0:0:6:2:8:0:0:0:0
