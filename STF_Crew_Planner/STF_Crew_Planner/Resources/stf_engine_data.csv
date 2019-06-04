@@ -1,29 +1,49 @@
 Name:Mass:Speed:Agility:Fuel Cost:Combat Cost:Safety:Range Cost
-M2400 Void Engine-Balanced:2400:27:27:2:6:4:3
-M2400 Void Engine-Longhaul:2400:27:27:1:10:5:3
-M3400 Void Engine-Traveler:3400:29:24:2:9:7:3
-M3400 Void Engine-Chaser:3400:24:29:2:10:6:2
-M3400 Void Engine-Balanced:3400:24:24:2:8:5:3
-M3400 Void Engine-Longhaul:3400:23:23:1:7:7:3
-M5000 Void Engine-Traveler:5000:23:16:3:12:9:4
-M5000 Void Engine-Balanced:5000:19:19:2:13:7:4
-M5000 Void Engine-Chaser:5000:18:22:2:15:8:3
-M6000 Void Engine-Longhaul:6000:15:15:2:16:8:4
-M6000 Void Engine-Balanced:6000:15:15:3:14:8:4
-M7000 Void Engine-Chaser:7000:10:14:3:26:10:3
-M7000 Void Engine-Traveler:7000:15:9:4:18:10:4
-M7000 Void Engine-Balanced:7000:12:12:4:19:9:4
-M8000 Void Engine-Balanced:8000:9:9:4:20:10:4
-M2400 Void Engine-Traveler:2400:30:27:2:8:10:3
-M2400 Void Engine-Chaser:2400:27:30:1:14:8:2
-M5000 Void Engine-Longhaul:5000:20:18:1:14:12:4
-M6000 Void Engine-Traveler:6000:19:13:3:16:12:4
-M6000 Void Engine-Chaser:6000:13:18:2:22:11:3
-M7000 Void Engine-Longhaul:7000:12:11:3:16:10:4
-M8000 Void Engine-Longhaul:8000:10:6:3:20:9:4
-M8000 Void Engine-Traveler:8000:15:8:5:22:15:4
-M8000 Void Engine-Chaser:8000:10:10:4:28:10:3
-M9000 Void Engine-Longhaul:9000:10:6:3:20:9:4
-M9000 Void Engine-Traveler:9000:15:8:5:24:15:4
-M9000 Void Engine-Chaser:9000:10:10:4:30:10:3
-M9000 Void Engine-Balanced:9000:9:9:4:22:10:4
+M2400 Void Engine Balanced:2400:27:27:2:6:6:3
+M2400 Void Engine Longhaul:2400:27:27:1:10:7:3
+M3400 Void Engine Traveler:3400:29:24:2:9:7:3
+M3400 Void Engine Chaser:3400:24:29:2:10:6:2
+M3400 Void Engine Balanced:3400:24:24:2:8:5:3
+M3400 Void Engine Longhaul:3400:23:23:1:7:8:3
+M5000 Void Engine Traveler:5000:23:16:3:12:9:4
+M5000 Void Engine Balanced:5000:19:19:2:13:7:4
+M5000 Void Engine Chaser:5000:18:22:2:15:8:3
+M6000 Void Engine Longhaul:6000:15:15:2:16:8:4
+M6000 Void Engine Balanced:6000:15:15:3:14:8:4
+M7000 Void Engine Chaser:7000:10:14:3:26:10:3
+M7000 Void Engine Traveler:7000:15:9:4:18:10:4
+M7000 Void Engine Balanced:7000:12:12:4:19:9:4
+M8000 Void Engine Balanced:8000:9:9:4:20:10:4
+M2400 Void Engine Traveler:2400:30:27:2:8:10:3
+M2400 Void Engine Chaser:2400:27:30:1:14:8:2
+M5000 Void Engine Longhaul:5000:20:18:1:14:12:4
+M6000 Void Engine Traveler:6000:19:13:3:16:12:4
+M6000 Void Engine Chaser:6000:13:18:2:22:11:3
+M7000 Void Engine Longhaul:7000:12:11:3:16:10:4
+M8000 Void Engine Longhaul:8000:10:6:3:20:9:4
+M8000 Void Engine Traveler:8000:15:8:5:22:15:4
+M8000 Void Engine Chaser:8000:10:10:4:28:10:3
+M9000 Void Engine Longhaul:9000:10:6:3:20:9:4
+M9000 Void Engine Traveler:9000:15:8:5:24:15:4
+M9000 Void Engine Chaser:9000:10:10:4:30:10:3
+M9000 Void Engine Balanced:9000:9:9:4:22:10:4
+M2400 Void Engine Warhammer:2400:27:27:3:6:5:3
+M3400 Void Engine Warhammer:3400:24:24:3:8:4:3
+M5000 Void Engine Warhammer:5000:19:19:4:13:6:4
+M6000 Void Engine Warhammer:6000:15:15:4:14:7:4
+M7000 Void Engine Warhammer:7000:12:12:5:19:8:4
+M8000 Void Engine Warhammer:8000:9:9:5:20:8:4
+M9000 Void Engine Warhammer:9000:9:9:5:22:8:4
+M2400 Void Engine Behemoth:2400:27:27:3:6:5:3
+M3400 Void Engine Behemoth:3400:24:24:3:8:4:3
+M5000 Void Engine Behemoth:5000:19:19:4:13:6:4
+M6000 Void Engine Behemoth:6000:15:15:4:14:7:4
+M7000 Void Engine Behemoth:7000:12:12:5:19:8:4
+M8000 Void Engine Behemoth:8000:9:9:5:20:8:4
+M9000 Void Engine Behemoth:9000:9:9:5:22:8:4
+M2400 Void Engine Dual-Field:2400:27:27:2:6:6:3
+M3400 Void Engine Dual-Field:3400:24:24:2:8:5:3
+M5000 Void Engine Dual-Field:5000:19:19:2:13:7:4
+M6000 Void Engine Dual-Field:6000:15:15:3:14:8:4
+M7000 Void Engine Dual-Field:7000:12:12:4:19:9:4
+M8000 Void Engine Dual-Field:8000:9:9:4:20:10:4

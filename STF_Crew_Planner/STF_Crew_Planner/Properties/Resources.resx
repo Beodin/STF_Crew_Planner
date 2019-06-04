@@ -118,11 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="skill_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skill_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="talent_points" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\talent_points.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="skill_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\skill_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="skill_per_job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skill_per_job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="stf_engine_data" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stf_engine_data.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="STF_Ship_Data" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\STF_Ship_Data.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
@@ -130,20 +139,11 @@
   <data name="STF_Ship_Default_Comp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\STF_Ship_Default_Comp.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="talent_points" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\talent_points.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="stf_engine_data" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stf_engine_data.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="stf_talent_job" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stf_talent_job.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="stf_weapon_data" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stf_weapon_data.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="skill_per_job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\skill_per_job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="stf_talent_job" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\stf_talent_job.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="ship_components" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ship components.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>

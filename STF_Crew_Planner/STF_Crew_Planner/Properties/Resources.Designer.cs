@@ -166,16 +166,16 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Name:Mass:Speed:Agility:Fuel Cost:Combat Cost:Safety:Range Cost
-        ///M2400 Void Engine-Balanced:2400:27:27:2:6:4:3
-        ///M2400 Void Engine-Longhaul:2400:27:27:1:10:5:3
-        ///M3400 Void Engine-Traveler:3400:29:24:2:9:7:3
-        ///M3400 Void Engine-Chaser:3400:24:29:2:10:6:2
-        ///M3400 Void Engine-Balanced:3400:24:24:2:8:5:3
-        ///M3400 Void Engine-Longhaul:3400:23:23:1:7:7:3
-        ///M5000 Void Engine-Traveler:5000:23:16:3:12:9:4
-        ///M5000 Void Engine-Balanced:5000:19:19:2:13:7:4
-        ///M5000 Void Engine-Chaser:5000:18:22:2:15:8:3
-        ///M6000 Void Engine-Longhaul:6000:1 [rest of string was truncated]&quot;;.
+        ///M2400 Void Engine Balanced:2400:27:27:2:6:6:3
+        ///M2400 Void Engine Longhaul:2400:27:27:1:10:7:3
+        ///M3400 Void Engine Traveler:3400:29:24:2:9:7:3
+        ///M3400 Void Engine Chaser:3400:24:29:2:10:6:2
+        ///M3400 Void Engine Balanced:3400:24:24:2:8:5:3
+        ///M3400 Void Engine Longhaul:3400:23:23:1:7:8:3
+        ///M5000 Void Engine Traveler:5000:23:16:3:12:9:4
+        ///M5000 Void Engine Balanced:5000:19:19:2:13:7:4
+        ///M5000 Void Engine Chaser:5000:18:22:2:15:8:3
+        ///M6000 Void Engine Longh [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_engine_data {
             get {
@@ -185,9 +185,9 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Ship:Current Mass:Max Mass:Price:Total Slots:Large:Mid:Small:Hull:Armour:Shield:Max Officers:Max Crew:Cargo:Engine:Speed:Agility:Fuel Cost:Fuel Tank:Fuel Range:Jump Cost:Pilot:Navigation:Ship Ops:Electronics:Gunnery:Tier
-        /// Juror Class:3345:3400:$160.0k:15:2:3:10:1100:10:10:4:24:25:M3400 Void Engine-Balanced:24:24:2:95:47:21:11:13:20:11:15:2
-        /// Paladin Cruiser:4990:5000:$260.0k:19:4:5:10:1500:8:7:5:30:50:M5000 Void Engine-Balanced:19:19:2:195:97:24:14:17:28:18:20:3
-        /// Fidelis Cutter:5835:6000:$375.0k:23:4:7:12:20 [rest of string was truncated]&quot;;.
+        ///Juror Class:3045:3400:160000:15:2:3:10:1100:10:10:4:24:25:M3400 Void Engine Balanced:24:0:2:95:47:21:13:17:21:14:15:0
+        ///Paladin Cruiser:4890:5000:260000:19:4:5:10:1500:8:7:5:30:50:M5000 Void Engine Balanced:19:0:2:195:97:24:14:17:28:18:20:0
+        ///Fidelis Cutter:5835:6000:375000:23:4:7:12:2000:9: [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string STF_Ship_Data {
             get {
@@ -197,13 +197,13 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Ship:Component
-        ///Juror Class:M3400 Void Engine-Balanced
+        ///Juror Class:M3400 Void Engine Balanced
         ///Juror Class:Barracks 3
         ///Juror Class:Officer Cabin
         ///Juror Class:Cargo Hold 1
         ///Juror Class:Passenger Cabin
         ///Juror Class:Bridge
-        ///Juror Class:M3400 Hyperwarp
+        ///Juror Class:Basic Hyperwarp Drive
         ///Juror Class:Light Railgun
         ///Juror Class:Hellfire Torpedo
         ///Juror Class:Weapons Locker A1
@@ -212,9 +212,8 @@ namespace STF_CharacterPlanner.Properties {
         ///Juror Class:Hellfire Torpedo
         ///Juror Class:Phoenix Lance
         ///Juror Class:Officer Cabin
-        ///Paladin Cruiser:M5000 Void Engine-Balanced
-        ///Paladin Cruiser:Officer Cabin
-        ///Paladin Cruise [rest of string was truncated]&quot;;.
+        ///Vulture Liner:M3400 Void Engine Balanced
+        ///Vulture Liner:Barracks  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string STF_Ship_Default_Comp {
             get {
@@ -224,13 +223,13 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Name:Rank:Description:Cooldown:Job:Type
-        ///Slash:1:Auto-granted attack for carring a Blade:1::-1
-        ///Open Fire:1:Auto-granted attack for carring a Pistol:1::-1
-        ///Short Burst:1:Auto-granted attack for carring a Rifle:1::-1
-        ///Aura of Command:1::30:Commander:7
-        ///Steady Hands:1::60:Commander:-2
-        ///Discerning Glance:1:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Commander:13
-        ///Loyalty Rousing:1:In the aftermath of a ship battle, give an inspiring speech which ca [rest of string was truncated]&quot;;.
+        ///Slash:1:Auto-granted attack for carring a Blade:1::
+        ///Open Fire:1:Auto-granted attack for carring a Pistol:1::
+        ///Short Burst:1:Auto-granted attack for carring a Rifle:1::
+        ///Aura of Command:1::30:Commander:SKILL SAVE
+        ///Steady Hands:1::60:Commander:
+        ///Discerning Glance:1:When Recruiting, new crew member gains improved Attributes and you discover one of their hidden Traits.:30:Commander:RECRUIT
+        ///Loyalty Rousing:1:In the aftermath of a ship battle, give an inspiring speech wh [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_talent_job {
             get {
@@ -248,7 +247,7 @@ namespace STF_CharacterPlanner.Properties {
         ///Vanguard Autocannon:Autocannon:100:0:0:1:1:6:15:25:6
         ///Lionheart Cannon:Autocannon:90:0:0:1:1:10:15:40:7
         ///Phoenix Lance:Lance:100:20:0:2:2:2:15:55:1
-        ///Starshot Lance Array: [rest of string was truncated]&quot;;.
+        ///Starshot Lan [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string stf_weapon_data {
             get {
