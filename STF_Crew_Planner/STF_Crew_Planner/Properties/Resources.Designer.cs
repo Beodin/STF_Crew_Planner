@@ -62,34 +62,34 @@ namespace STF_CharacterPlanner.Properties {
         
         /// <summary>
         ///   Looks up a localized string similar to Job:Starter
-        ///Crew Dog:Yes
-        ///Mechanic:Yes
-        ///Electronics Tech:Yes
-        ///Gunner:Yes
-        ///Soldier:Yes
-        ///Pistoleer:Yes
-        ///Sniper:Yes
-        ///Swordsman:Yes
-        ///Assassin:Yes
-        ///Combat Medic:Yes
-        ///Doctor:Yes
-        ///Diplomat:Yes
-        ///Zealot:No
+        ///Crew Dog:No
+        ///Mechanic:No
+        ///Electronics Tech:No
+        ///Gunner:No
+        ///Soldier:No
+        ///Pistoleer:No
+        ///Sniper:No
+        ///Swordsman:No
+        ///Assassin:No
+        ///Combat Medic:No
+        ///Doctor:No
+        ///Diplomat:No
+        ///Zealot:Yes
         ///Hyperwarp Navigator:No
         ///Wing Tech:No
         ///Exo-Scout:No
         ///Scavenger:No
-        ///Xeno Hunter:No
+        ///Xeno Hunter:Yes
         ///Commander:No
         ///Pilot:No
         ///Wing Commando:No
-        ///Merchant:No
-        ///Smuggler:No
-        ///Pirate:No
-        ///Bounty Hunter:No
-        ///Military Officer:No
-        ///Explorer:No
-        ///Spy:No
+        ///Merchant:Yes
+        ///Smuggler:Yes
+        ///Pirate:Yes
+        ///Bounty Hunter:Yes
+        ///Military Officer:Yes
+        ///Explorer:Yes
+        ///Spy:Yes
         ///Engineer:No
         ///Quartermaster:No
         ///Wing Bomber:No

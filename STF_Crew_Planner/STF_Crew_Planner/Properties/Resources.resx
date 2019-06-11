@@ -124,9 +124,6 @@
   <data name="talent_points" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\talent_points.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
   <data name="skill_per_job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\skill_per_job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
@@ -147,5 +144,8 @@
   </data>
   <data name="ship_components" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ship components.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="job_list" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\job_list.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
 </root>
