@@ -32,6 +32,7 @@ namespace STF_CharacterPlanner
                 MakeFile_ShipComponents(db);
                 MakeFile_SkillPerJobList(db);
                 MakeFile_TalentList(db);
+                MakeFile_CapTalentPoints(db);
                 MakeFile_ShipWeaponData(db);
                 MakeFile_SmallCraftList(db);
                 MakeFile_ShipDefaultList(db);
@@ -120,12 +121,26 @@ namespace STF_CharacterPlanner
             StreamWriter talentPoints = new StreamWriter(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\talent_points.csv");
             talentPoints.WriteLine("Rank:Talents");
 
-            foreach (var tPoint in db.Load<CharLevel>("SELECT * FROM CharacterLevel;"))
+            foreach (var tPoint in db.Load<CharLevel>("SELECT * FROM CharacterLevel WHERE levelType = 2;"))
             {
-                talentPoints.WriteLine("{0}:{1}", tPoint.level, addTalentPoint(tPoint.level, tPoint.levelType));
+                talentPoints.WriteLine("{0}", addTalentPoint(tPoint.level, tPoint.levelType));
             }
 
             talentPoints.Close();
+        }
+
+        private static void MakeFile_CapTalentPoints(SQLiteDatabase db)
+        {
+            //output the header
+            StreamWriter capTalentPoints = new StreamWriter(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\cap_talent_points.csv");
+            capTalentPoints.WriteLine("Rank:Talents");
+
+            foreach (var tPoint in db.Load<CharLevel>("SELECT * FROM CharacterLevel WHERE levelType = 1;"))
+            {
+                capTalentPoints.WriteLine("{0}", addTalentPoint(tPoint.level, tPoint.levelType));
+            }
+
+            capTalentPoints.Close();
         }
 
         public static string actionCondensed(string str)
@@ -698,7 +713,7 @@ namespace STF_CharacterPlanner
 
         }
 
-        public static int addTalentPoint(int level, int levelType)
+        public static string addTalentPoint(int level, int levelType)
         {
 
             if (levelType == 1)
@@ -721,12 +736,12 @@ namespace STF_CharacterPlanner
                     case 35:
                     case 37:
                     case 40:
-                        return 1;
+                        return level + ":1";
                     default:
                         break;
                 }
 
-                return 0;
+                return null;
             }
             else if (levelType == 2)
             {
@@ -747,12 +762,12 @@ namespace STF_CharacterPlanner
                     case 34:
                     case 37:
                     case 40:
-                        return 1;
+                        return level + ":1";
                     default:
                         break;
                 }
 
-                return 0;
+                return null;
             }
             else if (levelType == 3)
             {
@@ -766,14 +781,14 @@ namespace STF_CharacterPlanner
                     case 21:
                     case 25:
                     case 32:
-                        return 1;
+                        return level + ":1";
                     default:
                         break;
                 }
 
-                return 0;
+                return null;
             }
-            return 0;
+            return null;
         }
 
         private static void MakeFile_SkillList()

@@ -21,6 +21,7 @@ namespace STF_CharacterPlanner
         public DataTable job_list;
         public DataTable capt_job_list;
         public DataTable talent_points_table;
+        public DataTable capt_talent_points_table;
         public DataTable CaptainInfo;
         public DataTable firstOfficerInfo;
         public DataTable secondOfficerInfo;
@@ -70,12 +71,13 @@ namespace STF_CharacterPlanner
             //skill_table = loadDataFromCSV(Properties.Resources.skill_list);
             skill_per_job_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\skill_per_job_list.csv"));
             stf_talent_job_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\stf_talent_job.csv"));
-            talent_points_table = loadDataFromCSV(Properties.Resources.talent_points);
+            talent_points_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\talent_points.csv"));
             STF_Ship_Data = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\STF_Ship_Data.csv"));
             STF_Ship_Defaults = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\STF_Ship_Default_Comp.csv"));
             STF_Ship_Components = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\ship_components.csv"));
             STF_Ship_Weapons = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\stf_weapon_data.csv"));
             STF_Ship_Engine = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\stf_engine_data.csv"));
+            capt_talent_points_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\cap_talent_points.csv"));
 
             //Create Job Lists
             job_list = CreateJobList(job_table);
