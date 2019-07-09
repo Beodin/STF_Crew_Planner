@@ -19,6 +19,7 @@ namespace STF_CharacterPlanner
 
         public MainForm()
         {
+            STF_DBExporter.Exporter();
             InitializeComponent();
             stf_Data = DataStorage.Instance;
             stf_Data.InstatiateTables();

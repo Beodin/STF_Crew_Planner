@@ -21,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -30,6 +31,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CoreTechs.Common, Version=21.0.1.0, Culture=neutral, processorArchitecture=MSIL">
@@ -79,6 +81,8 @@
     <Compile Include="BrowseShipsForm.Designer.cs">
       <DependentUpon>BrowseShipsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SqlNado.cs" />
+    <Compile Include="STF_DBExporter.cs" />
     <Compile Include="CompBrowser.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -295,6 +299,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sqlite3.dll" />
+    <Content Include="tools.db" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

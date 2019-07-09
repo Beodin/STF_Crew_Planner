@@ -72,5 +72,10 @@ namespace STF_CharacterPlanner
             myParent = (this.Parent as MainForm);
             myParent.createNewTableFile();
         }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            //STF_DBExporter.Exporter();
+        }
     }
 }

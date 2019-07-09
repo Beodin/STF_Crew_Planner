@@ -38,6 +38,7 @@
             this.searchTalentButton = new System.Windows.Forms.Button();
             this.refreshWikiButton = new System.Windows.Forms.Button();
             this.saveTablesButton = new System.Windows.Forms.Button();
+            this.btnUpdate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // resetButton
@@ -153,11 +154,22 @@
             this.saveTablesButton.UseVisualStyleBackColor = false;
             this.saveTablesButton.Click += new System.EventHandler(this.saveTablesButton_Click);
             // 
+            // btnUpdate
+            // 
+            this.btnUpdate.Location = new System.Drawing.Point(264, 63);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(75, 23);
+            this.btnUpdate.TabIndex = 11;
+            this.btnUpdate.Text = "Update";
+            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
             // Menu_Control
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.saveTablesButton);
             this.Controls.Add(this.refreshWikiButton);
             this.Controls.Add(this.searchTalentButton);
@@ -186,5 +198,6 @@
         private System.Windows.Forms.Button searchTalentButton;
         private System.Windows.Forms.Button refreshWikiButton;
         private System.Windows.Forms.Button saveTablesButton;
+        private System.Windows.Forms.Button btnUpdate;
     }
 }
