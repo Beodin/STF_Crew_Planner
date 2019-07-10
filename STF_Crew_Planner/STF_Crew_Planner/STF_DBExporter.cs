@@ -973,7 +973,7 @@ namespace STF_CharacterPlanner
 
             foreach (var hyperwarpNavigator in db.Load<Job>("SELECT * FROM Job WHERE jobType = 16;"))
             {
-                skillPerJobList.WriteLine("{0}:Tactics:{1}:Navigator:{2}:Null:0:{3}",
+                skillPerJobList.WriteLine("{0}:Tactics:{1}:Navigation:{2}:Null:0:{3}",
                     hyperwarpNavigator.jobLevel, hyperwarpNavigator.skTactics, hyperwarpNavigator.skNavigation, hyperwarpNavigator.jobName);
             }
 
@@ -1009,7 +1009,7 @@ namespace STF_CharacterPlanner
 
             foreach (var pilot in db.Load<Job>("SELECT * FROM Job WHERE jobType = 24;"))
             {
-                skillPerJobList.WriteLine("{0}:Tactics:{1}:Pilot:{2}:Navigator:{3}:{4}",
+                skillPerJobList.WriteLine("{0}:Tactics:{1}:Pilot:{2}:Navigation:{3}:{4}",
                     pilot.jobLevel, pilot.skTactics, pilot.skPilot, pilot.skNavigation, pilot.jobName);
             }
 

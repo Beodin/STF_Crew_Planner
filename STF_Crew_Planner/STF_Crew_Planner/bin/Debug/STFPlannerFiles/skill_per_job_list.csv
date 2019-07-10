@@ -415,38 +415,38 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 30:Blades:8:Intimidate:16:Command:15:Zealot
 31:Blades:8:Intimidate:17:Command:15:Zealot
 32:Blades:9:Intimidate:17:Command:16:Zealot
-1:Tactics:2:Navigator:4:Null:0:Hyperwarp Navigator
-2:Tactics:2:Navigator:4:Null:0:Hyperwarp Navigator
-3:Tactics:2:Navigator:5:Null:0:Hyperwarp Navigator
-4:Tactics:2:Navigator:5:Null:0:Hyperwarp Navigator
-5:Tactics:2:Navigator:6:Null:0:Hyperwarp Navigator
-6:Tactics:2:Navigator:7:Null:0:Hyperwarp Navigator
-7:Tactics:2:Navigator:8:Null:0:Hyperwarp Navigator
-8:Tactics:2:Navigator:8:Null:0:Hyperwarp Navigator
-9:Tactics:2:Navigator:9:Null:0:Hyperwarp Navigator
-10:Tactics:2:Navigator:10:Null:0:Hyperwarp Navigator
-11:Tactics:2:Navigator:11:Null:0:Hyperwarp Navigator
-12:Tactics:2:Navigator:12:Null:0:Hyperwarp Navigator
-13:Tactics:2:Navigator:12:Null:0:Hyperwarp Navigator
-14:Tactics:2:Navigator:13:Null:0:Hyperwarp Navigator
-15:Tactics:3:Navigator:14:Null:0:Hyperwarp Navigator
-16:Tactics:4:Navigator:14:Null:0:Hyperwarp Navigator
-17:Tactics:4:Navigator:15:Null:0:Hyperwarp Navigator
-18:Tactics:4:Navigator:16:Null:0:Hyperwarp Navigator
-19:Tactics:4:Navigator:17:Null:0:Hyperwarp Navigator
-20:Tactics:4:Navigator:17:Null:0:Hyperwarp Navigator
-21:Tactics:4:Navigator:18:Null:0:Hyperwarp Navigator
-22:Tactics:5:Navigator:19:Null:0:Hyperwarp Navigator
-23:Tactics:5:Navigator:20:Null:0:Hyperwarp Navigator
-24:Tactics:5:Navigator:20:Null:0:Hyperwarp Navigator
-25:Tactics:5:Navigator:20:Null:0:Hyperwarp Navigator
-26:Tactics:5:Navigator:21:Null:0:Hyperwarp Navigator
-27:Tactics:5:Navigator:22:Null:0:Hyperwarp Navigator
-28:Tactics:5:Navigator:23:Null:0:Hyperwarp Navigator
-29:Tactics:5:Navigator:24:Null:0:Hyperwarp Navigator
-30:Tactics:5:Navigator:25:Null:0:Hyperwarp Navigator
-31:Tactics:5:Navigator:26:Null:0:Hyperwarp Navigator
-32:Tactics:6:Navigator:27:Null:0:Hyperwarp Navigator
+1:Tactics:2:Navigation:4:Null:0:Hyperwarp Navigator
+2:Tactics:2:Navigation:4:Null:0:Hyperwarp Navigator
+3:Tactics:2:Navigation:5:Null:0:Hyperwarp Navigator
+4:Tactics:2:Navigation:5:Null:0:Hyperwarp Navigator
+5:Tactics:2:Navigation:6:Null:0:Hyperwarp Navigator
+6:Tactics:2:Navigation:7:Null:0:Hyperwarp Navigator
+7:Tactics:2:Navigation:8:Null:0:Hyperwarp Navigator
+8:Tactics:2:Navigation:8:Null:0:Hyperwarp Navigator
+9:Tactics:2:Navigation:9:Null:0:Hyperwarp Navigator
+10:Tactics:2:Navigation:10:Null:0:Hyperwarp Navigator
+11:Tactics:2:Navigation:11:Null:0:Hyperwarp Navigator
+12:Tactics:2:Navigation:12:Null:0:Hyperwarp Navigator
+13:Tactics:2:Navigation:12:Null:0:Hyperwarp Navigator
+14:Tactics:2:Navigation:13:Null:0:Hyperwarp Navigator
+15:Tactics:3:Navigation:14:Null:0:Hyperwarp Navigator
+16:Tactics:4:Navigation:14:Null:0:Hyperwarp Navigator
+17:Tactics:4:Navigation:15:Null:0:Hyperwarp Navigator
+18:Tactics:4:Navigation:16:Null:0:Hyperwarp Navigator
+19:Tactics:4:Navigation:17:Null:0:Hyperwarp Navigator
+20:Tactics:4:Navigation:17:Null:0:Hyperwarp Navigator
+21:Tactics:4:Navigation:18:Null:0:Hyperwarp Navigator
+22:Tactics:5:Navigation:19:Null:0:Hyperwarp Navigator
+23:Tactics:5:Navigation:20:Null:0:Hyperwarp Navigator
+24:Tactics:5:Navigation:20:Null:0:Hyperwarp Navigator
+25:Tactics:5:Navigation:20:Null:0:Hyperwarp Navigator
+26:Tactics:5:Navigation:21:Null:0:Hyperwarp Navigator
+27:Tactics:5:Navigation:22:Null:0:Hyperwarp Navigator
+28:Tactics:5:Navigation:23:Null:0:Hyperwarp Navigator
+29:Tactics:5:Navigation:24:Null:0:Hyperwarp Navigator
+30:Tactics:5:Navigation:25:Null:0:Hyperwarp Navigator
+31:Tactics:5:Navigation:26:Null:0:Hyperwarp Navigator
+32:Tactics:6:Navigation:27:Null:0:Hyperwarp Navigator
 1:Tactics:1:Ship Ops:2:Repair:1:Wing Tech
 2:Tactics:1:Ship Ops:3:Repair:3:Wing Tech
 3:Tactics:2:Ship Ops:3:Repair:3:Wing Tech
@@ -607,38 +607,38 @@ Rank:1-Name:1-Num:2-Name:2-Num:3-Name:3-Num:Job
 30:Tactics:8:Intimidate:10:Command:21:Commander
 31:Tactics:8:Intimidate:10:Command:22:Commander
 32:Tactics:9:Intimidate:11:Command:22:Commander
-1:Tactics:0:Pilot:4:Navigator:2:Pilot
-2:Tactics:0:Pilot:5:Navigator:2:Pilot
-3:Tactics:1:Pilot:5:Navigator:2:Pilot
-4:Tactics:2:Pilot:5:Navigator:2:Pilot
-5:Tactics:2:Pilot:5:Navigator:3:Pilot
-6:Tactics:2:Pilot:6:Navigator:3:Pilot
-7:Tactics:2:Pilot:6:Navigator:4:Pilot
-8:Tactics:2:Pilot:7:Navigator:4:Pilot
-9:Tactics:3:Pilot:7:Navigator:4:Pilot
-10:Tactics:3:Pilot:8:Navigator:4:Pilot
-11:Tactics:3:Pilot:9:Navigator:5:Pilot
-12:Tactics:4:Pilot:9:Navigator:5:Pilot
-13:Tactics:4:Pilot:9:Navigator:6:Pilot
-14:Tactics:4:Pilot:10:Navigator:6:Pilot
-15:Tactics:5:Pilot:10:Navigator:7:Pilot
-16:Tactics:5:Pilot:11:Navigator:7:Pilot
-17:Tactics:5:Pilot:12:Navigator:7:Pilot
-18:Tactics:5:Pilot:13:Navigator:7:Pilot
-19:Tactics:5:Pilot:13:Navigator:8:Pilot
-20:Tactics:5:Pilot:14:Navigator:8:Pilot
-21:Tactics:6:Pilot:14:Navigator:8:Pilot
-22:Tactics:6:Pilot:15:Navigator:9:Pilot
-23:Tactics:6:Pilot:16:Navigator:9:Pilot
-24:Tactics:6:Pilot:17:Navigator:9:Pilot
-25:Tactics:6:Pilot:18:Navigator:9:Pilot
-26:Tactics:7:Pilot:18:Navigator:9:Pilot
-27:Tactics:7:Pilot:19:Navigator:9:Pilot
-28:Tactics:7:Pilot:19:Navigator:10:Pilot
-29:Tactics:7:Pilot:20:Navigator:10:Pilot
-30:Tactics:8:Pilot:21:Navigator:10:Pilot
-31:Tactics:8:Pilot:22:Navigator:10:Pilot
-32:Tactics:9:Pilot:22:Navigator:11:Pilot
+1:Tactics:0:Pilot:4:Navigation:2:Pilot
+2:Tactics:0:Pilot:5:Navigation:2:Pilot
+3:Tactics:1:Pilot:5:Navigation:2:Pilot
+4:Tactics:2:Pilot:5:Navigation:2:Pilot
+5:Tactics:2:Pilot:5:Navigation:3:Pilot
+6:Tactics:2:Pilot:6:Navigation:3:Pilot
+7:Tactics:2:Pilot:6:Navigation:4:Pilot
+8:Tactics:2:Pilot:7:Navigation:4:Pilot
+9:Tactics:3:Pilot:7:Navigation:4:Pilot
+10:Tactics:3:Pilot:8:Navigation:4:Pilot
+11:Tactics:3:Pilot:9:Navigation:5:Pilot
+12:Tactics:4:Pilot:9:Navigation:5:Pilot
+13:Tactics:4:Pilot:9:Navigation:6:Pilot
+14:Tactics:4:Pilot:10:Navigation:6:Pilot
+15:Tactics:5:Pilot:10:Navigation:7:Pilot
+16:Tactics:5:Pilot:11:Navigation:7:Pilot
+17:Tactics:5:Pilot:12:Navigation:7:Pilot
+18:Tactics:5:Pilot:13:Navigation:7:Pilot
+19:Tactics:5:Pilot:13:Navigation:8:Pilot
+20:Tactics:5:Pilot:14:Navigation:8:Pilot
+21:Tactics:6:Pilot:14:Navigation:8:Pilot
+22:Tactics:6:Pilot:15:Navigation:9:Pilot
+23:Tactics:6:Pilot:16:Navigation:9:Pilot
+24:Tactics:6:Pilot:17:Navigation:9:Pilot
+25:Tactics:6:Pilot:18:Navigation:9:Pilot
+26:Tactics:7:Pilot:18:Navigation:9:Pilot
+27:Tactics:7:Pilot:19:Navigation:9:Pilot
+28:Tactics:7:Pilot:19:Navigation:10:Pilot
+29:Tactics:7:Pilot:20:Navigation:10:Pilot
+30:Tactics:8:Pilot:21:Navigation:10:Pilot
+31:Tactics:8:Pilot:22:Navigation:10:Pilot
+32:Tactics:9:Pilot:22:Navigation:11:Pilot
 1:Blades:2:Pilot:1:Evasion:1:Wing Commando
 2:Blades:4:Pilot:1:Evasion:2:Wing Commando
 3:Blades:4:Pilot:2:Evasion:2:Wing Commando
