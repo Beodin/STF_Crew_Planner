@@ -174,12 +174,26 @@ namespace STF_CharacterPlanner
 
             if (tempTalents > 0)
             {
-                foreach (DataRow dr in stf_Data.talent_points_table.Rows)
+                if (is_Captain == true)
                 {
-                    Int32 rankToTest = Int32.Parse(dr[0].ToString());
-                    if (rankToTest < tempTalents || rankToTest == tempTalents)
+                    foreach (DataRow dr in stf_Data.capt_talent_points_table.Rows)
                     {
-                        availableTalents++;
+                        Int32 rankToTest = Int32.Parse(dr[0].ToString());
+                        if (rankToTest < tempTalents || rankToTest == tempTalents)
+                        {
+                            availableTalents++;
+                        }
+                    }
+                }
+                else
+                {
+                    foreach (DataRow dr in stf_Data.talent_points_table.Rows)
+                    {
+                        Int32 rankToTest = Int32.Parse(dr[0].ToString());
+                        if (rankToTest < tempTalents || rankToTest == tempTalents)
+                        {
+                            availableTalents++;
+                        }
                     }
                 }
             }
