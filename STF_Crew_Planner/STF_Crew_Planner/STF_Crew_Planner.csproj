@@ -81,6 +81,12 @@
     <Compile Include="BrowseShipsForm.Designer.cs">
       <DependentUpon>BrowseShipsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SmallCraftDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmallCraftDisplay.Designer.cs">
+      <DependentUpon>SmallCraftDisplay.cs</DependentUpon>
+    </Compile>
     <Compile Include="SqlNado.cs" />
     <Compile Include="STF_DBExporter.cs" />
     <Compile Include="CompBrowser.cs">
@@ -226,6 +232,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CrewInput.resx">
       <DependentUpon>CrewInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmallCraftDisplay.resx">
+      <DependentUpon>SmallCraftDisplay.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>

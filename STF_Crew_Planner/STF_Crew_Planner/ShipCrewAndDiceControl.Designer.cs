@@ -37,6 +37,7 @@
             this.shipReadout = new System.Windows.Forms.ListBox();
             this.configureShipBut = new System.Windows.Forms.Button();
             this.calcShipCombatBut = new System.Windows.Forms.Button();
+            this.smallCraft = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // configureCrewBut
@@ -138,10 +139,22 @@
             this.calcShipCombatBut.UseVisualStyleBackColor = false;
             this.calcShipCombatBut.Click += new System.EventHandler(this.calcShipCombatBut_Click);
             // 
+            // smallCraft
+            // 
+            this.smallCraft.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(230)))), ((int)(((byte)(247)))));
+            this.smallCraft.Location = new System.Drawing.Point(3, 121);
+            this.smallCraft.Name = "smallCraft";
+            this.smallCraft.Size = new System.Drawing.Size(131, 21);
+            this.smallCraft.TabIndex = 9;
+            this.smallCraft.Text = "Show Small Crafts";
+            this.smallCraft.UseVisualStyleBackColor = false;
+            this.smallCraft.Click += new System.EventHandler(this.smallCraft_Click);
+            // 
             // ShipCrewAndDiceControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.smallCraft);
             this.Controls.Add(this.calcShipCombatBut);
             this.Controls.Add(this.configureShipBut);
             this.Controls.Add(this.label3);
@@ -169,5 +182,6 @@
         private System.Windows.Forms.ListBox shipReadout;
         private System.Windows.Forms.Button configureShipBut;
         private System.Windows.Forms.Button calcShipCombatBut;
+        private System.Windows.Forms.Button smallCraft;
     }
 }

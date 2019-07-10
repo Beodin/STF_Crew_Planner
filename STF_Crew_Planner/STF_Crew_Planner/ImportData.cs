@@ -32,6 +32,7 @@ namespace STF_CharacterPlanner
         public DataTable STF_Ship_Components;
         public DataTable STF_Ship_Weapons;
         public DataTable STF_Ship_Engine;
+        public DataTable small_craft_table;
         public BridgeMember member1;
         public BridgeMember member2;
         public BridgeMember member3;
@@ -78,6 +79,7 @@ namespace STF_CharacterPlanner
             STF_Ship_Weapons = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\stf_weapon_data.csv"));
             STF_Ship_Engine = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\stf_engine_data.csv"));
             capt_talent_points_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\cap_talent_points.csv"));
+            small_craft_table = loadDataFromCSV(File.ReadAllText(Directory.GetCurrentDirectory() + @"\STFPlannerFiles\smallCraft.csv"));
 
             //Create Job Lists
             job_list = CreateJobList(job_table);

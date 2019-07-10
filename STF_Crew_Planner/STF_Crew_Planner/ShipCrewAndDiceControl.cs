@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SqlNado;
 
 namespace STF_CharacterPlanner
 {
@@ -508,6 +509,12 @@ namespace STF_CharacterPlanner
                 shipDiceBox.Refresh();
             }
             
+        }
+
+        private void smallCraft_Click(object sender, EventArgs e)
+        {
+            SmallCraftForm frm = new SmallCraftForm();
+            frm.Show();
         }
     }
 }

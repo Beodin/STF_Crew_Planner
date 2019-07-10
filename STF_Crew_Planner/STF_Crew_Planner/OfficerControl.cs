@@ -176,6 +176,7 @@ namespace STF_CharacterPlanner
             {
                 if (is_Captain == true)
                 {
+                    //determines captains talent points
                     foreach (DataRow dr in stf_Data.capt_talent_points_table.Rows)
                     {
                         Int32 rankToTest = Int32.Parse(dr[0].ToString());
@@ -187,6 +188,7 @@ namespace STF_CharacterPlanner
                 }
                 else
                 {
+                    //determines talent points of other bridgemembers
                     foreach (DataRow dr in stf_Data.talent_points_table.Rows)
                     {
                         Int32 rankToTest = Int32.Parse(dr[0].ToString());
