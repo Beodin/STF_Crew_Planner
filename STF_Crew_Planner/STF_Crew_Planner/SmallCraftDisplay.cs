@@ -15,8 +15,7 @@ namespace STF_CharacterPlanner
     {
         public DataStorage stf_Data;
         public DataTable SmallCraftDataTable;
-        public List<String> SmallCraftList;
-        BindingSource SBind;
+        
 
         public SmallCraftForm()
         {
@@ -24,11 +23,8 @@ namespace STF_CharacterPlanner
             stf_Data = DataStorage.Instance;
             stf_Data.InstatiateTables();
             SmallCraftDataTable = new DataTable();
-            SmallCraftDataTable = stf_Data.small_craft_table.Copy();
-            SmallCraftList = new List<String>();
-            SBind = new BindingSource();
-            dataGridView1.DataSource = SmallCraftDataTable;
-            dataGridView1.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
+            SmallCraftDataTable = stf_Data.small_craft_table.Copy();            
+            dataGridView1.DataSource = SmallCraftDataTable;           
         }
     }
 }
