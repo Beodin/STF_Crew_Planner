@@ -1,0 +1,61 @@
+Name:Type:Damage:Radiation:Void:Range:AP:Accuracy:Critical Chance:Cripple Chance:Level
+Valiant Autocannon:Autocannon:65:0:0:1:1:1:5:30:1
+M90 Barrel-Cannon :Autocannon:135:0:0:1:2:2:12:45:2
+M92 Barrel-Cannon:Autocannon:75:0:0:1:1:3:15:40:3
+M94 Barrel-Cannon:Autocannon:160:0:0:1:2:5:10:55:4
+Dual-Linked Autocannon:Autocannon:85:0:0:1:1:6:20:30:5
+Vanguard Autocannon:Autocannon:100:0:0:1:1:6:15:25:6
+Lionheart Cannon:Autocannon:90:0:0:1:1:10:15:40:7
+Phoenix Lance:Lance:100:20:0:2:2:2:15:55:1
+Starshot Lance Array:Lance:180:30:0:2:3:3:30:55:2
+HX-Cycle Lance:Lance:120:25:0:2:2:4:15:60:3
+HX-2 Lance:Lance:140:35:0:2:2:6:10:55:4
+Starfall Lance Array:Lance:240:10:0:2:3:8:15:55:5
+Cloudstrike Lance:Lance:180:20:0:2:2:6:30:30:6
+Thunder XK3 Lance Array:Lance:275:10:0:2:3:8:10:55:7
+Imperator PC-1:Plasma Cannon:116:22:0:3:2:1:15:40:1
+Stalwart PC-1:Plasma Cannon:120:30:0:3:2:2:30:40:2
+Imperator Plasma Artillery:Plasma Cannon:140:90:0:3:3:6:25:40:3
+Commander PC-1:Plasma Cannon:100:80:0:3:2:4:25:40:4
+MK Plasma Ordnance:Plasma Cannon:150:110:0:3:3:5:25:40:5
+X2 Plasma Battery:Plasma Cannon:120:90:0:3:2:6:30:30:6
+Commander Plasma Artillery:Plasma Cannon:150:130:0:3:3:10:30:30:7
+Light Railgun:Railgun:90:0:80:3:3:3:5:35:1
+Archangel Railgun:Railgun:120:0:84:3:3:4:10:45:2
+Helios Railgun:Railgun:120:0:90:3:3:6:20:45:3
+Helios X Railgun:Railgun:122:0:100:3:3:7:25:55:4
+Archangel Dual-R Railgun:Railgun:125:0:110:3:3:10:20:45:5
+Elomag Railgun:Railgun:130:0:120:3:3:10:20:45:6
+Helios X2 Railgun Array:Railgun:200:0:140:3:4:12:20:45:7
+Vengence Gravcannon:Grav Driver:180:0:0:2:3:0:15:30:1
+Retaliation Gravcannon:Grav Driver:185:0:0:2:3:2:30:40:2
+JUK Gravity Array:Grav Driver:200:0:0:2:3:2:35:40:3
+JUK Gravcannon:Grav Driver:215:0:0:2:3:3:35:40:4
+JUK-22 Gravcannon:Grav Driver:240:0:0:2:3:3:30:40:5
+JUK-24 Gravcannon:Grav Driver:250:0:0:2:3:4:30:40:6
+Retribution Gravcannon:Grav Driver:350:0:0:2:4:5:45:40:7
+Ares Missile System:Missiles:110:20:0:4:3:6:30:25:1
+Hydra Missile Array:Missiles:120:25:0:4:3:8:30:30:2
+Arratech Missile Pod:Missiles:125:30:0:4:3:10:30:25:3
+Aramech Missile Pod:Missiles:130:35:0:4:3:11:25:30:4
+Dracos Missile Array:Missiles:140:40:0:4:3:13:25:25:5
+Dracos X2 Missile Battery:Missiles:140:45:0:4:3:15:30:25:6
+Aramech X2 Missile Battery:Missiles:130:50:0:4:3:17:35:30:7
+Hellfire Torpedo:Torps:20:0:30:5:2:4:2:45:1
+Torpedo MK-Alpha:Torps:30:0:40:5:2:5:2:45:2
+Firestorm Torpedo:Torps:30:0:40:5:2:8:3:50:3
+Void-Lance Torpedo:Torps:30:0:80:5:3:11:5:65:4
+Inferno Torpedo:Torps:35:0:45:5:2:10:8:50:5
+Torpedo MK2-Alpha:Torps:40:0:90:5:3:14:10:60:6
+Torpedo Dual-Laced Array:Torps:35:0:45:5:2:14:8:50:7
+Lightspear Railgun:Railgun:100:0:90:3:3:5:10:35:3
+Vector Missile System:Missiles:140:30:0:4:3:8:30:15:3
+Blazelight Railgun:Railgun:110:0:105:3:3:7:10:40:5
+Dual-Linked Vector Missile:Missiles:160:60:0:4:3:10:30:20:5
+Radiance Railgun:Railgun:100:0:60:3:3:8:10:60:6
+Goliath Missile Battery:Missiles:160:80:0:4:3:14:40:25:7
+Obliterator PK-1:Plasma Cannon:150:150:0:3:4:7:30:45:5
+Obliterator PK-2:Plasma Cannon:150:170:0:3:4:9:35:45:6
+Obliterator PKX-3:Plasma Cannon:150:190:0:3:4:11:35:50:7
+Ruut 82 Gravcannon:Grav Driver:300:0:0:2:4:3:40:40:5
+Ruut 84 Gravcannon:Grav Driver:320:0:0:2:4:4:45:40:6

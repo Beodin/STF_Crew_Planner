@@ -295,23 +295,15 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Resources\job_list.csv" />
-    <None Include="Resources\ship components.csv" />
-    <None Include="Resources\skill_list.csv" />
-    <None Include="Resources\skill_per_job_list.csv" />
-    <None Include="Resources\stf_engine_data.csv" />
-    <None Include="Resources\STF_Ship_Data.csv" />
-    <None Include="Resources\STF_Ship_Default_Comp.csv" />
-    <None Include="Resources\stf_talent_job.csv" />
-    <None Include="Resources\stf_weapon_data.csv" />
-    <None Include="Resources\talent_points.csv" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="sqlite3.dll" />
-    <Content Include="tools.db" />
+    <Content Include="tools.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
