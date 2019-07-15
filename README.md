@@ -3,6 +3,22 @@ Star Traders Frontiers Crew Planner
 
 v0.18
 
+## Select Your Ship!
+
+![Ship Gif](STF_Crew_Planner/STFGifs/Ship.gif)
+
+## Select Your Crew!
+
+![Crew Member Gif](STF_Crew_Planner/STFGifs/CrewMembers.gif)
+
+## Select Your Captain and Officers!
+
+![Officer Gif](STF_Crew_Planner/STFGifs/Officer.gif)
+
+## Browse Small Crafts!
+
+![Small Craft Gif](STF_Crew_Planner/STFGifs/SmallCraft.gif)
+
 CURRENT FEATURES
 - Form now populates from newly implemented game database
 - Plan Bridge Crew, up to 7 officers
