@@ -4,18 +4,32 @@ Star Traders Frontiers Crew Planner
 v0.18
 
 ## Select Your Ship!
+Browse and customize from a large selection of ships and components.
 
 ![Ship Gif](STF_Crew_Planner/STFGifs/Ship.gif)
 
 ## Select Your Crew!
+Customize crew member jobs and ranks man all stations and prepare to set course for adventure.
 
 ![Crew Member Gif](STF_Crew_Planner/STFGifs/CrewMembers.gif)
 
 ## Select Your Captain and Officers!
+Create the Bridge crew of your dreams to maximize potential and synergy aboard your vessel.
 
-![Officer Gif](STF_Crew_Planner/STFGifs/Officer.gif)
+![Officer gif](STF_Crew_Planner/STFGifs/Officer.gif)
+
+## Skill and Dice Pools
+Displays the sum of crew and officer skills and calculates the dice pools for your ship.
+
+![Skill Dice Pool](STF_Crew_Planner/STFGifs/SkillDicePools.gif)
+
+## Talent Search!
+Browse talents based on Name/Job/Type to learn more about your favorite talents.
+
+![Talent Gif](STF_Crew_Planner/STFGifs/Talent.gif)
 
 ## Browse Small Crafts!
+Study the stats and capabilities of these newly added small crafts.
 
 ![Small Craft Gif](STF_Crew_Planner/STFGifs/SmallCraft.gif)
 
