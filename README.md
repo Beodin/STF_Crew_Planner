@@ -1,9 +1,10 @@
 # STF_Crew_Planner
 Star Traders Frontiers Crew Planner 
-
-v0.17
+![] (CrewMembers.gif)
+v0.18
 
 CURRENT FEATURES
+- Form now populates from newly implemented game database
 - Plan Bridge Crew, up to 7 officers
 - Plan Ship Layout
 - Plan Non-officer Crew
@@ -17,6 +18,7 @@ CURRENT FEATURES
 - Browse All Ships
 - Browse All Components
 - Browse All Weapons
+- Browse All Small Crafts
 - Weapon Layout with range and damage
 
 
@@ -24,10 +26,16 @@ TODO
 - Show direct percentage blocked for Shields/Armour
 - Update Text output with table formats
 - Crew Combat display and output.  Ranges, weapons, armor, talents
-
+- Implement update button to check database version to ensure updated values following game patches/updates
 
 
 CHANGELOG
+v0.18
+- Added Exporter class to pull game data from game database
+- Exporter creates new resource files used to populate the form
+- Talent points are now correctly reflected for Captain vs other officers
+- Added Show Small Crafts button to display data for recently added crafts 
+
 v0.17
 - Added Forum output option.  Creates table data for easy output to TB forum
 - Updated ship component list to current in-game components
