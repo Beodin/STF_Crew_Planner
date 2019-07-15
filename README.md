@@ -60,6 +60,7 @@ TODO
 
 
 CHANGELOG
+
 v0.18
 - Added Exporter class to pull game data from game database
 - Exporter creates new resource files used to populate the form
