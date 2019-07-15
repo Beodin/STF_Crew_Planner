@@ -3,10 +3,9 @@
     "",
     "\\STF_Crew_Planner",
     "\\STF_Crew_Planner\\STF_Crew_Planner",
-    "\\STF_Crew_Planner\\STF_Crew_Planner\\bin",
     "\\STF_Crew_Planner\\STF_Crew_Planner\\bin\\Debug",
     "\\STF_Crew_Planner\\STF_Crew_Planner\\bin\\Release"
   ],
-  "SelectedNode": "\\STF_Crew_Planner\\STF_Crew_Planner\\STF_DBExporter.cs",
+  "SelectedNode": "\\STF_Crew_Planner\\STF_Crew_Planner\\tools.db",
   "PreviewInSolutionExplorer": false
 }
