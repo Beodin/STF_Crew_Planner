@@ -1,6 +1,6 @@
 # STF_Crew_Planner
 Star Traders Frontiers Crew Planner 
-![] (CrewMembers.gif)
+
 v0.18
 
 CURRENT FEATURES
