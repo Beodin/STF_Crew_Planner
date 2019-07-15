@@ -132,3 +132,4 @@ C:\Users\empir\source\repos\STF_Crew_Planner_Test\STF_Crew_Planner\STF_Crew_Plan
 C:\Users\empir\source\repos\STF_Crew_Planner_Test\STF_Crew_Planner\STF_Crew_Planner\obj\Debug\STF_Crew_Planner.pdb
 C:\Users\empir\source\repos\STF_Crew_Planner_Test\STF_Crew_Planner\STF_Crew_Planner\obj\Debug\STF_Crew_Planner.csprojAssemblyReference.cache
 C:\Users\empir\source\repos\STF_Crew_Planner\STF_Crew_Planner\STF_Crew_Planner\obj\Debug\STF_CharacterPlanner.SmallCraftForm.resources
+C:\Users\empir\source\repos\STF_Crew_Planner\STF_Crew_Planner\STF_Crew_Planner\bin\Debug\tools.db
