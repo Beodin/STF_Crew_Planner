@@ -9,7 +9,7 @@ Browse and customize from a large selection of ships and components.
 ![Ship Gif](STF_Crew_Planner/STFGifs/Ship.gif)
 
 ## Select Your Crew!
-Customize crew member jobs and ranks man all stations and prepare to set course for adventure.
+Customize crew member jobs and ranks.
 
 ![Crew Member Gif](STF_Crew_Planner/STFGifs/CrewMembers.gif)
 
