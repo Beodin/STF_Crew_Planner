@@ -129,7 +129,7 @@
             this.Controls.Add(this.bridgeMember2);
             this.Controls.Add(this.bridgeMember1);
             this.Name = "MainForm";
-            this.Text = "Star Traders: Frontiers Planner v0.17";
+            this.Text = "Star Traders: Frontiers Planner v0.18";
             this.ResumeLayout(false);
 
         }
