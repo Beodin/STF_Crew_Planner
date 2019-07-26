@@ -1,7 +1,10 @@
 # STF_Crew_Planner
 Star Traders Frontiers Crew Planner 
 
-v0.18
+v0.18b
+
+To run the program, extract the STF_Planner v018b.zip and run the STF_Crew_Planner.exe.
+For this version the "Update" button lacks functionality and is intended for use in updating the database in future versions.
 
 ## Select Your Ship!
 Browse and customize from a large selection of ships and components.
